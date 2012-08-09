@@ -1,0 +1,4 @@
+name: jenkins
+framework:
+  type: java_web
+mem: 1024M
