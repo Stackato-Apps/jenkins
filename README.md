@@ -9,7 +9,7 @@ Deploying on Stackato
 ---------------------
 To deploy the application, run these commands:
 
-    $ git clone https://github.com/jeremy-aubert/jenkins.git
+    $ git clone https://github.com/Stackato-Apps/jenkins.git
     $ cd jenkins
 
 And then
