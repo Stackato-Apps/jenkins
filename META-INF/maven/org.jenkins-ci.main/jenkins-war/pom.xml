@@ -28,7 +28,7 @@ THE SOFTWARE.
   <parent>
     <groupId>org.jenkins-ci.main</groupId>
     <artifactId>pom</artifactId>
-    <version>1.477</version>
+    <version>1.509.1</version>
     <relativePath>../pom.xml</relativePath>
   </parent>
 
@@ -43,7 +43,7 @@ THE SOFTWARE.
 
   <properties>
     <JENKINS_HOME>${basedir}/work</JENKINS_HOME>
-    <contextPath>/</contextPath><!-- context path during test -->
+    <contextPath>/jenkins</contextPath><!-- context path during test -->
     <port>8080</port><!-- HTTP listener port -->
   </properties>
 
@@ -51,7 +51,7 @@ THE SOFTWARE.
     <dependency>
       <groupId>org.jenkins-ci</groupId>
       <artifactId>executable-war</artifactId>
-      <version>1.26</version>
+      <version>1.28</version>
       <scope>provided</scope>
     </dependency>
 
@@ -104,13 +104,13 @@ THE SOFTWARE.
       -->
       <groupId>org.jenkins-ci</groupId>
       <artifactId>winstone</artifactId>
-      <version>0.9.10-jenkins-37</version>
+      <version>0.9.10-jenkins-43</version>
       <scope>test</scope>
     </dependency>
     <dependency>
       <groupId>org.jenkins-ci.modules</groupId>
       <artifactId>instance-identity</artifactId>
-      <version>1.2</version>
+      <version>1.3</version>
     </dependency>
     <dependency>
       <groupId>org.jenkins-ci.modules</groupId>
@@ -119,8 +119,28 @@ THE SOFTWARE.
     </dependency>
     <dependency>
       <groupId>org.jenkins-ci.modules</groupId>
+      <artifactId>slave-installer</artifactId>
+      <version>1.2</version>
+    </dependency>
+    <dependency>
+      <groupId>org.jenkins-ci.modules</groupId>
+      <artifactId>windows-slave-installer</artifactId>
+      <version>1.2</version>
+    </dependency>
+    <dependency>
+      <groupId>org.jenkins-ci.modules</groupId>
+      <artifactId>launchd-slave-installer</artifactId>
+      <version>1.2</version>
+    </dependency>
+    <dependency>
+      <groupId>org.jenkins-ci.modules</groupId>
+      <artifactId>upstart-slave-installer</artifactId>
+      <version>1.1</version>
+    </dependency>
+    <dependency>
+      <groupId>org.jenkins-ci.modules</groupId>
       <artifactId>sshd</artifactId>
-      <version>1.3</version>
+      <version>1.5</version>
     </dependency>
     <dependency>
       <!--
@@ -250,7 +270,19 @@ THE SOFTWARE.
                 <artifactItem>
                   <groupId>org.jenkins-ci.plugins</groupId>
                   <artifactId>ssh-slaves</artifactId>
-                  <version>0.21</version>
+                  <version>0.25</version>
+                  <type>hpi</type>
+                </artifactItem>
+                <artifactItem>
+                  <groupId>org.jenkins-ci.plugins</groupId>
+                  <artifactId>credentials</artifactId>
+                  <version>1.3.1</version>
+                  <type>hpi</type>
+                </artifactItem>
+                <artifactItem>
+                  <groupId>org.jenkins-ci.plugins</groupId>
+                  <artifactId>ssh-credentials</artifactId>
+                  <version>0.2</version>
                   <type>hpi</type>
                 </artifactItem>
                 <artifactItem>
@@ -280,13 +312,13 @@ THE SOFTWARE.
                 <artifactItem>
                   <groupId>org.jenkins-ci.plugins</groupId>
                   <artifactId>translation</artifactId>
-                  <version>1.8</version>
+                  <version>1.10</version>
                   <type>hpi</type>
                 </artifactItem>
                 <artifactItem>
                   <groupId>org.jenkins-ci.plugins</groupId>
                   <artifactId>external-monitor-job</artifactId>
-                  <version>1.0</version>
+                  <version>1.1</version>
                   <type>hpi</type>
                 </artifactItem>
                 <artifactItem>
@@ -299,6 +331,12 @@ THE SOFTWARE.
                   <groupId>org.jenkins-ci.plugins</groupId>
                   <artifactId>pam-auth</artifactId>
                   <version>1.0</version>
+                  <type>hpi</type>
+                </artifactItem>
+                <artifactItem>
+                  <groupId>org.jenkins-ci.plugins</groupId>
+                  <artifactId>mailer</artifactId>
+                  <version>1.4</version>
                   <type>hpi</type>
                 </artifactItem>
               </artifactItems>
@@ -359,7 +397,6 @@ THE SOFTWARE.
         <artifactId>maven-jenkins-dev-plugin</artifactId>
         <!-- version specified in grandparent pom -->
         <configuration>
-          <contextPath>${contextPath}</contextPath>
           <!--
             Reload webapp when you hit ENTER. (See JETTY-282 for more)
           -->
@@ -420,7 +457,7 @@ THE SOFTWARE.
               <value><!-- run "mvn install" once will generate the.hpl -->
                   ${basedir}/../maven-plugin/target/test-classes/the.hpl,
                   ${basedir}/../ui-samples-plugin/target/test-classes/the.hpl,
-                  ${project.build.directory}/${project.build.finalName}/WEB-INF/plugins/javadoc.hpi
+                  ${project.build.directory}/${project.build.finalName}/WEB-INF/plugins/*.hpi
               </value>
             </systemProperty>
             <systemProperty>
@@ -439,6 +476,7 @@ THE SOFTWARE.
             </systemProperty>
           </systemProperties>
           <webApp>
+            <contextPath>${contextPath}</contextPath>
             <configurationDiscovered>false</configurationDiscovered>
           </webApp>
         </configuration>
