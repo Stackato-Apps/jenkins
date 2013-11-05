@@ -2,8 +2,3 @@ name: jenkins
 framework:
   type: java_web
 mem: 768M
-services:
-  ${name}-fs: filesystem
-hooks:
-  pre-running:
-    - sh stackato-setup.sh
