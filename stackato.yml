@@ -6,4 +6,5 @@ services:
   ${name}-fs: filesystem
 hooks:
   pre-running:
-    - sh stackato-setup.sh
+  - sh stackato-setup.sh
+timeout: 180
