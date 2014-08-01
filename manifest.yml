@@ -1,0 +1,13 @@
+applications:
+- name: jenkins
+  framework:
+    name: java_web
+  mem: 768M
+  services:
+    ${name}-fs:
+      type: filesystem
+  stackato:
+    hooks:
+      pre-running:
+      - sh stackato-setup.sh
+  timeout: 180
