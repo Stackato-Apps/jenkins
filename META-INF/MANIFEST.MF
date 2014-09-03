@@ -5,7 +5,6 @@ Hudson-Version: 1.395
 Build-Jdk: 1.6.0_26
 Built-By: kohsuke
 Created-By: Apache Maven 3.0.4
-Main-Class: Main
 Archiver-Version: Plexus Archiver
 
 Name: images/48x48/red_anime.gif
