@@ -167,12 +167,7 @@ var FormChecker = {
         this.sendRequest(next.url, {
             method : next.method,
             onComplete : function(x) {
-                var i;
-                next.target.innerHTML = x.status==200 ? x.responseText
-                    : '<a href="" onclick="document.getElementById(\'valerr' + (i=iota++)
-                    + '\').style.display=\'block\';return false">ERROR</a><div id="valerr'
-                    + i + '" style="display:none">' + x.responseText + '</div>';
-                Behaviour.applySubtree(next.target);
+                applyErrorMessage(next.target, x);
                 FormChecker.inProgress--;
                 FormChecker.schedule();
                 layoutUpdateCallback.call();
@@ -456,7 +451,6 @@ function registerValidator(e) {
         e.onchange = function() { checker.call(this); oldOnchange.call(this); }
     } else
         e.onchange = checker;
-    e.onblur = checker;
 
     var v = e.getAttribute("checkDependsOn");
     if (v) {
@@ -514,7 +508,7 @@ function makeButton(e,onclick) {
         btn.addListener("click",h);
     var be = btn.get("element");
     Element.addClassName(be,clsName);
-    if(n!=null) // copy the name
+    if(n) // copy the name
         be.setAttribute("name",n);
     return btn;
 }
@@ -1159,7 +1153,10 @@ var jenkinsRules = {
             var pos = DOM.getRegion(shadow);
 
             sticker.style.position = "fixed";
-            sticker.style.bottom = Math.max(0, viewport.bottom - pos.bottom) + "px"
+
+            var bottomPos = Math.max(0, viewport.bottom - pos.bottom);
+
+            sticker.style.bottom = bottomPos + "px"
             sticker.style.left = Math.max(0,pos.left-viewport.left) + "px"
         }
 
@@ -1565,14 +1562,21 @@ function updateBuildHistory(ajaxUrl,nBuild) {
             if (bh.headers == null) {
                 // Yahoo.log("Missing headers in buildHistory element");
             }
+
+            function getDataTable(buildHistoryDiv) {
+                return $(buildHistoryDiv).getElementsBySelector('table.pane')[0];
+            }
+
             new Ajax.Request(ajaxUrl, {
                 requestHeaders: bh.headers,
                 onSuccess: function(rsp) {
-                    var rows = bh.rows;
+                    var dataTable = getDataTable(bh);
+                    var rows = dataTable.rows;
 
                     //delete rows with transitive data
-                    while (rows.length > 2 && Element.hasClassName(rows[1], "transitive"))
-                        Element.remove(rows[1]);
+                    while (rows.length > 0 && Element.hasClassName(rows[0], "transitive")) {
+                        Element.remove(rows[0]);
+                    }
 
                     // insert new rows
                     var div = document.createElement('div');
@@ -1580,9 +1584,16 @@ function updateBuildHistory(ajaxUrl,nBuild) {
                     Behaviour.applySubtree(div);
 
                     var pivot = rows[0];
-                    var newRows = $(div).firstDescendant().rows;
-                    for (var i = newRows.length - 1; i >= 0; i--) {
-                        pivot.parentNode.insertBefore(newRows[i], pivot.nextSibling);
+                    var newRows = getDataTable(div).rows;
+                    while (newRows.length > 0) {
+                        if (pivot !== undefined) {
+                            // The data table has rows.  Insert before a "pivot" row (first row).
+                            pivot.parentNode.insertBefore(newRows[0], pivot);
+                        } else {
+                            // The data table has no rows.  In this case, we just add all new rows directly to the
+                            // table, one after the other i.e. we don't insert before a "pivot" row (first row).
+                            dataTable.appendChild(newRows[0]);
+                        }
                     }
 
                     // next update
@@ -1710,8 +1721,8 @@ function createSearchBox(searchURL) {
  * @return null
  *      if the given element shouldn't be a part of the final submission.
  */
-function findFormParent(e,form,static) {
-    static = static || false;
+function findFormParent(e,form,isStatic) {
+    isStatic = isStatic || false;
 
     if (form==null) // caller can pass in null to have this method compute the owning form
         form = findAncestor(e,"FORM");
@@ -1725,12 +1736,12 @@ function findFormParent(e,form,static) {
         else
             e = e.parentNode;
 
-        if(!static && e.getAttribute("field-disabled")!=null)
+        if(!isStatic && e.getAttribute("field-disabled")!=null)
             return null;  // this field shouldn't contribute to the final result
 
         var name = e.getAttribute("name");
         if(name!=null && name.length>0) {
-            if(e.tagName=="INPUT" && !static && !xor(e.checked,Element.hasClassName(e,"negative")))
+            if(e.tagName=="INPUT" && !isStatic && !xor(e.checked,Element.hasClassName(e,"negative")))
                 return null;  // field is not active
 
             return e;
@@ -2178,12 +2189,7 @@ function validateButton(checkUrl,paramList,button) {
       parameters: parameters,
       onComplete: function(rsp) {
           spinner.style.display="none";
-          var i;
-          target.innerHTML = rsp.status==200 ? rsp.responseText
-                : '<a href="" onclick="document.getElementById(\'valerr' + (i=iota++)
-                + '\').style.display=\'block\';return false">ERROR</a><div id="valerr'
-                + i + '" style="display:none">' + rsp.responseText + '</div>';
-          Behaviour.applySubtree(target);
+          applyErrorMessage(target, rsp);
           layoutUpdateCallback.call();
           var s = rsp.getResponseHeader("script");
           try {
@@ -2193,6 +2199,26 @@ function validateButton(checkUrl,paramList,button) {
           }
       }
   });
+}
+
+function applyErrorMessage(elt, rsp) {
+    if (rsp.status == 200) {
+        elt.innerHTML = rsp.responseText;
+    } else {
+        var id = 'valerr' + (iota++);
+        elt.innerHTML = '<a href="" onclick="document.getElementById(\'' + id
+        + '\').style.display=\'block\';return false">ERROR</a><div id="'
+        + id + '" style="display:none">' + rsp.responseText + '</div>';
+        var error = document.getElementById('error-description'); // cf. oops.jelly
+        if (error) {
+            var div = document.getElementById(id);
+            while (div.firstChild) {
+                div.removeChild(div.firstChild);
+            }
+            div.appendChild(error);
+        }
+    }
+    Behaviour.applySubtree(elt);
 }
 
 // create a combobox.

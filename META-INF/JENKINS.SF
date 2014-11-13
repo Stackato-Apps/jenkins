@@ -1,7 +1,7 @@
 Signature-Version: 1.0
-SHA-256-Digest-Manifest-Main-Attributes: 5RlQVOVLm9B3AxX2KLCLgSdAnkTik
- ma2l9VftwxkUUE=
-SHA-256-Digest-Manifest: pB61U18hEal+D9y1ndkWMoUBrDXGuoiMBqRUCpyL+AY=
+SHA-256-Digest-Manifest-Main-Attributes: 5Mtz/sD65EJh9WyWYvRiwFz7+EL70
+ 5Itt9dt3yj5nFw=
+SHA-256-Digest-Manifest: t0dy05YjOmnaJEYAX/r7AF2A6DMhcRSVLM7X7ZBRkcg=
 Created-By: 1.7.0_21 (Oracle Corporation)
 
 Name: images/48x48/red_anime.gif
@@ -9,9 +9,6 @@ SHA-256-Digest: OwI1hN2qjjuoNg6hUBh+kF4W7FmI4M5eKOFxytim7lg=
 
 Name: images/24x24/document-properties.png
 SHA-256-Digest: NFFLqx3UlXJAlgw9VbzfVdiWk+AwEAv3F7VSo8BxgMk=
-
-Name: help/security/container-realm_pt_BR.html
-SHA-256-Digest: P1JTuMBL+iHbz22ml+E8bmbWeMFeB/ZAXveug6UAzYs=
 
 Name: images/24x24/help.gif
 SHA-256-Digest: SZkZoBRtFjGbCAiIdeyWx8swoLxlaYzO7GO4VO+E79Y=
@@ -25,14 +22,8 @@ SHA-256-Digest: PN2kODbGR6UYO2/tguPYnFJ3NHLAPTZudOsuC/R9NA0=
 Name: WEB-INF/plugins/matrix-auth.hpi
 SHA-256-Digest: e5TfJrA5mTqw2Di59ANAZxzTj4JoCmJGXmlQIjHk0ys=
 
-Name: help/system-config/cvs-browser_fr.html
-SHA-256-Digest: P50j3nweBvEJIr9dzgwnW6+QqnBxEjSSL2R4Qa3fxiw=
-
 Name: scripts/yui/logger/assets/logger-core.css
 SHA-256-Digest: EWexs03Eqyjsio6JFCl7xpYK7WUH4ykXuOQhLUKgmcI=
-
-Name: help/tasks/aggregate-test/auto-aggregate_de.html
-SHA-256-Digest: /7SyMlm8MIF4EyfFx8f2oM+ayAux6njFSOrP6MeBpaM=
 
 Name: scripts/yui/container/assets/skins/sam/container.css
 SHA-256-Digest: YmvIVXmDKo77JvPdh7UcmBuSI8Yinp6+SVMWObVnDFY=
@@ -40,11 +31,11 @@ SHA-256-Digest: YmvIVXmDKo77JvPdh7UcmBuSI8Yinp6+SVMWObVnDFY=
 Name: WEB-INF/plugins/cvs.hpi
 SHA-256-Digest: Jh3h2sZHOgELZTmILFZIG0yqgKAdUadWV84PbvaSvcU=
 
-Name: WEB-INF/lib/upstart-slave-installer-1.1.jar
-SHA-256-Digest: u6M/J4VrdRlbXsjLrGgdJkLkdwmaeXz6es0jQa1xWQ8=
-
 Name: images/24x24/health-40to59.gif
 SHA-256-Digest: obXfOUzEwYgxlgcw9LMQvbJZWvcsu8UbYPHqSmj3Z1E=
+
+Name: WEB-INF/lib/upstart-slave-installer-1.1.jar
+SHA-256-Digest: u6M/J4VrdRlbXsjLrGgdJkLkdwmaeXz6es0jQa1xWQ8=
 
 Name: scripts/yui/assets/skins/sam/back-h.png
 SHA-256-Digest: u4vagvkzTjCit2wW/gj1xrAfJ2/lFojnAnfbSXU1boY=
@@ -79,14 +70,11 @@ SHA-256-Digest: KPZF8XsJydWtFZQTdtC1db+SJ11XZcl4txhcE/jqNno=
 Name: WEB-INF/lib/asm-util-4.0.jar
 SHA-256-Digest: f+iX6tiGEbXomdUjLmiixt+mWAkGVO6zLJYyRxe+IN4=
 
-Name: help/parameter/choice-choices_zh_TW.html
-SHA-256-Digest: gDfAD+DP2MkAJ7mR+d+CoPLx4Qz0nKyRJvjH+NK1Xp4=
-
 Name: scripts/yui/treeview/assets/skins/sam/check1.gif
 SHA-256-Digest: kdTJKzluDIgCy7d1fqx3CU3NHc7/ezt7cl+I2Cg+DlU=
 
-Name: help/security/private-realm/allow-signup_zh_TW.html
-SHA-256-Digest: ebOKNRG4XPINq8fg+qa1mmBMyVWW2/xq2IHTF4S/NXs=
+Name: help/parameter/choice-choices_zh_TW.html
+SHA-256-Digest: gDfAD+DP2MkAJ7mR+d+CoPLx4Qz0nKyRJvjH+NK1Xp4=
 
 Name: scripts/yui/button/assets/skins/sam/split-button-arrow.png
 SHA-256-Digest: UnSvfKpYRWZsMu5Q/dN2I2qK6pcaHvJWrE/X8rADyfo=
@@ -97,14 +85,8 @@ SHA-256-Digest: F1QSIM5kM6nxsi6jH+a6FjJ4OLg1XwYUYYhhvQcZaGc=
 Name: images/32x32/grey_anime.gif
 SHA-256-Digest: nGwvbqojuCxLZU4L/78Sl5cdbW4wHfUWIJXU0cgDWU8=
 
-Name: help/security/private-realm_ru.html
-SHA-256-Digest: VfwDSTrrPbuAO0DqSIKyKlL8mvVTatYD59zeD1in6mQ=
-
 Name: WEB-INF/lib/commons-beanutils-1.8.3.jar
 SHA-256-Digest: 5uluFsO60F6M7WCUWHS6gBHLHwPvixs+O+/sOQrmeVE=
-
-Name: help/system-config/cvs-browser_ja.html
-SHA-256-Digest: l+GTu0paRND+qkPREkGmGBi2UIsHznlAxszeLcKyFfs=
 
 Name: images/16x16/go-next.png
 SHA-256-Digest: ovgYmnkhkAYu2YbiSoVRRj1nttqEvi20/hjQZ1IRuXk=
@@ -116,7 +98,7 @@ Name: images/16x16/grey.gif
 SHA-256-Digest: wAibCrk67yqFcyoctXzGsKX1k3Souord7KCpiBRyUTo=
 
 Name: WEB-INF/remoting.jar
-SHA-256-Digest: UhGO7wcZJV6dWkYMleC9BFmCcZxPdxPzTUz1TLV6DB8=
+SHA-256-Digest: ZXOkIFyUgK3/S7kJWSaRGkOeU9HGfBkkMDSaXe6ykuo=
 
 Name: help/system-config/master-slave/jnlpSecurity_tr.html
 SHA-256-Digest: JVBJz95ctucZ1U6NH7yvngLJUW7Qsh/WGt2JaQiuDpI=
@@ -125,13 +107,10 @@ Name: images/16x16/health-20to39.gif
 SHA-256-Digest: cKHd/+al4ed3YZbCoTTsxy39PUHcNa2GgMQNfSopt1U=
 
 Name: WEB-INF/plugins/ssh-slaves.hpi
-SHA-256-Digest: X4Mp+WacrcNI5pWjLhFFYRQPlD4+CuoSN1RIKuv1hqM=
+SHA-256-Digest: 8ydkouTHVa3udfDBbhx8GeEJL4z+rYS6R6OXOtt+rHg=
 
 Name: help/parameter/file_ja.html
 SHA-256-Digest: wW7fk6Xgzvs6Ve0gRxaAGaZLhSv07/D+pVz1ibVsaFs=
-
-Name: help/project-config/javadoc-keep-all_de.html
-SHA-256-Digest: MDtS5twma2jf9MRTK7mGth+sHXE/W9pPB0HR4IJ44lo=
 
 Name: images/24x24/package.png
 SHA-256-Digest: JzA0gT+m2yBDQ88vauDF7fF2Gcg42u+V4TWPjSWwPlo=
@@ -148,11 +127,11 @@ SHA-256-Digest: Z6kP/JfQ+FHAzofG+nq4/ziGNM+zRZagjaIV5s0GaV4=
 Name: help/system-config/globalEnvironmentVariables_zh_CN.html
 SHA-256-Digest: HTC0hwB+isYC/FDD07siCvaGAe+lmiUupLJy2NmhCcw=
 
-Name: WEB-INF/lib/jffi-1.2.7.jar
-SHA-256-Digest: EgOHvpcuq2WMKVIU6oQLv/6JuTxvagkOG1572hWoPXE=
-
 Name: images/48x48/plugin.png
 SHA-256-Digest: 31GZUuZZZzrTFZBGr8y825G34rq9RJ3/6j3ntL6k0uA=
+
+Name: WEB-INF/lib/jffi-1.2.7.jar
+SHA-256-Digest: EgOHvpcuq2WMKVIU6oQLv/6JuTxvagkOG1572hWoPXE=
 
 Name: images/32x32/computer-flash.gif
 SHA-256-Digest: TElLr4A15S2deB7YpEcyGV7RTWhM5CbjnfPWRc7ggM8=
@@ -160,23 +139,17 @@ SHA-256-Digest: TElLr4A15S2deB7YpEcyGV7RTWhM5CbjnfPWRc7ggM8=
 Name: scripts/yui/menu/assets/menuitem_submenuindicator_selected.png
 SHA-256-Digest: P/rB5lax78eLf8t6+w79HAzbX3mO3y8eYPMphYqH3Jc=
 
-Name: help/tasks/aggregate-test/auto-aggregate_ja.html
-SHA-256-Digest: ufj7nzcqgU0OBGUYy77KfMS+IZLcI/pGkR3MYFep+tQ=
-
 Name: images/32x32/yellow.png
 SHA-256-Digest: 9uCUPXK73alUVv7EhSZ+9s2VWks0l5DY9aiWr0XG3fM=
-
-Name: scripts/yui/menu/assets/menu-core.css
-SHA-256-Digest: 4AcI8k55YlRvDcJO6fqmNMk5wsh8LY5sAQyUfr/HHD8=
 
 Name: help/project-config/block-downstream-building_ja.html
 SHA-256-Digest: 5ha5LKrbBprBy9TrvOTpd2AqxNI54FzvF9wlDdgPhTY=
 
+Name: scripts/yui/menu/assets/menu-core.css
+SHA-256-Digest: 4AcI8k55YlRvDcJO6fqmNMk5wsh8LY5sAQyUfr/HHD8=
+
 Name: help/user/fullName_ru.html
 SHA-256-Digest: JFUqumfg/FLAXFxYu3HdR4gJ5Y4ABCgo2WviKLLH7TU=
-
-Name: help/security/full-control-once-logged-in_fr.html
-SHA-256-Digest: vfyKIDSKjR2abZMAUCcyFPHZDZLE/k0xwl54QcGKlhk=
 
 Name: help/project-config/description_ja.html
 SHA-256-Digest: sK9snbe3sA9xrK0Onxnb3jeTcNaFVeHR85IWtCHu040=
@@ -184,20 +157,17 @@ SHA-256-Digest: sK9snbe3sA9xrK0Onxnb3jeTcNaFVeHR85IWtCHu040=
 Name: images/24x24/lock.png
 SHA-256-Digest: XrttjWP1BwvhzVg6vhVUrWdZQWQ2f6ZYviKkC0+vYgQ=
 
-Name: WEB-INF/plugins/ant.hpi
-SHA-256-Digest: EdRSd8o2Eckar4eQ/r1DqeDtEzEZib9KHZUk+0MYeK4=
-
-Name: help/tasks/aggregate-test/auto-aggregate_tr.html
-SHA-256-Digest: 2p1Axh7Mtc8u4C9Z9G+rL6KnT6r76wD/h2HmBznykc0=
-
 Name: WEB-INF/security/AbstractPasswordBasedSecurityRealm.groovy
 SHA-256-Digest: bfTv8uJLmJ+wTXtyXvShuCburar2XXQrTeBEHXCZLaM=
 
-Name: help/user/fullName_nl.html
-SHA-256-Digest: lgdyI1X8GUSZguBYlzIkwKOHmpgl5GdlBVsLnLlr7VY=
+Name: WEB-INF/plugins/ant.hpi
+SHA-256-Digest: EdRSd8o2Eckar4eQ/r1DqeDtEzEZib9KHZUk+0MYeK4=
 
 Name: help/system-config/patternJobNamingStrategy_ja.html
 SHA-256-Digest: 8pXjPjG+b1+ejOMJl6elDybyWROkM0tl0hH4KTHdWSM=
+
+Name: help/user/fullName_nl.html
+SHA-256-Digest: lgdyI1X8GUSZguBYlzIkwKOHmpgl5GdlBVsLnLlr7VY=
 
 Name: help/project-config/parameterized-build_fr.html
 SHA-256-Digest: AUzVmC1N4U93OFjwjKqThyjeBVESuf4bnsyeZ3vNymU=
@@ -207,9 +177,6 @@ SHA-256-Digest: TSQUyYhSx629ykcsFx2vJGwb/Uatt6sKjCpv9pAD1pI=
 
 Name: MainDialog$1.class
 SHA-256-Digest: 4jUymjaX4Q6jYQxmAwZfNqFPLxTyl5yfkFTkcoSdJAQ=
-
-Name: help/security/container-realm_zh_CN.html
-SHA-256-Digest: AaHoFSCT+1/3vHYz2yonYdtzD5s19MWXt4g9+baQIdE=
 
 Name: help/parameter/run-filter.html
 SHA-256-Digest: P+/MDgBEvh8bOFV88qWud8ijBF8m7Zh9rQlcD32G1zs=
@@ -227,23 +194,17 @@ SHA-256-Digest: 8UKBuhwJq3gVYXDKLwPB4oebqQJB46as9Cd5wvhwjnY=
 Name: images/32x32/computer-x.gif
 SHA-256-Digest: 0D571zz/71qqPMNNBsaHceNFjbp041R3DQsAma6nOg4=
 
-Name: help/parameter/choice-choices.html
-SHA-256-Digest: YOD5n8RM96J7rXff09fvKPphV/ZbqQLIs0gJBb7pJls=
-
 Name: help/parameter/file_de.html
 SHA-256-Digest: T8Uap5WmJFrfFlElRtVV5fvgTwy74GjYLnyyjfkTeqg=
 
-Name: help/security/ldap/userSearchBase_zh_TW.html
-SHA-256-Digest: lptuW0mjy4f/OM3Xb2tDLKtdbmiLXR8rsIND12JiFjM=
+Name: help/parameter/choice-choices.html
+SHA-256-Digest: YOD5n8RM96J7rXff09fvKPphV/ZbqQLIs0gJBb7pJls=
 
 Name: help/system-config/patternJobNamingStrategy_de.html
 SHA-256-Digest: hrdSLpI9hbN36l5RbNOAxbxfKlfG0i1P7Q+fO4S0T78=
 
 Name: scripts/yui/container/container_core-debug.js
 SHA-256-Digest: eCmSRyDMCOMJQjBbocQSRKah5Pi+8E818AEy2jkh1ic=
-
-Name: help/security/full-control-once-logged-in_de.html
-SHA-256-Digest: bQ79no62UwcVi0E88e1qzaYtVUAdodNRHmLcGmYAK3Y=
 
 Name: WEB-INF/lib/json-lib-2.4-jenkins-2.jar
 SHA-256-Digest: OV58jO9Xo6iQ1NWUOdK8UV6Jp7h2ouA3j2fifEesrc8=
@@ -281,14 +242,11 @@ SHA-256-Digest: syE77KTEDK6hiG/OmhMaeu+C+x/6hYXO3+6ojXIYNGI=
 Name: images/32x32/green_anime.gif
 SHA-256-Digest: aN0kVLv3n3Z0tCTVk2RijTgLpgLNAzoPpzqOtAbrLE0=
 
-Name: help/security/private-realm_tr.html
-SHA-256-Digest: 92soj85sbJ90PtzU6xI9GtKviU9IZTEJkjUlf7vjRvI=
-
 Name: images/32x32/nobuilt.png
 SHA-256-Digest: J860oYJWhaSBvHtxEf+2O4XBE9mwgt9HmscrKdE5koM=
 
 Name: WEB-INF/plugins/matrix-project.hpi
-SHA-256-Digest: JWyXEbRpMLxqGdtbFKHouSwR+/5Bxe8pl2yy6tlV0+A=
+SHA-256-Digest: FB0lHXaXvNWcxxDhqfp/OQ6t3m8t0MtZCt1XLmmIEqo=
 
 Name: images/48x48/document.gif
 SHA-256-Digest: fkd0G/Tcs9wWXRZD+GaQW685aEzHIJ4StC9d+ep1d/w=
@@ -311,11 +269,11 @@ SHA-256-Digest: jCvLSoCQlhisoi1Ifm2EOwidwrN28jh5JQRyvv8ys34=
 Name: images/16x16/fingerprint.gif
 SHA-256-Digest: AwbvWx5qTobxFtjQ0RyiFQB/7KIH9wBzDufDykWcrS4=
 
-Name: images/24x24/new-package.png
-SHA-256-Digest: VJqGxBqNesyrfyA362b5wmu1OHn4pt1OVcqSXvycpCM=
-
 Name: help/project-config/disable_fr.html
 SHA-256-Digest: C/mq+l9RfKo75vry6XUzHhx8n21wxRDfsgfs8pqM/q0=
+
+Name: images/24x24/new-package.png
+SHA-256-Digest: VJqGxBqNesyrfyA362b5wmu1OHn4pt1OVcqSXvycpCM=
 
 Name: images/16x16/document_delete.gif
 SHA-256-Digest: CupLH+EQjg9MJC2KhqvE8Wqg8NKWSbWv+XA+l6Wr3YA=
@@ -323,17 +281,14 @@ SHA-256-Digest: CupLH+EQjg9MJC2KhqvE8Wqg8NKWSbWv+XA+l6Wr3YA=
 Name: images/32x32/setting.gif
 SHA-256-Digest: hwXhvwARDA4MEtb8gdiVw+nIPrH6U5IVMp+mAMozM0M=
 
-Name: scripts/yui/tabview/assets/border_tabs.css
-SHA-256-Digest: Ekv7cglwACxTwB6wQg/TYJX126+Tu9SJ3h0EV6DG1ZA=
-
 Name: scripts/yui/assets/skins/sam/layout.css
 SHA-256-Digest: Pda7npuwDAwPZv9Xu//AhE2MhAWbnQtKdl16PLXHp7I=
 
+Name: scripts/yui/tabview/assets/border_tabs.css
+SHA-256-Digest: Ekv7cglwACxTwB6wQg/TYJX126+Tu9SJ3h0EV6DG1ZA=
+
 Name: images/32x32/health-40to59.png
 SHA-256-Digest: ZtR0cLzM/J2lTiqzeKhAtU0W3nKtIgwSZnXk/7v79U8=
-
-Name: help/security/ldap/userSearchFilter_de.html
-SHA-256-Digest: htWqr4Poph5dpqDnGvk2b9mFS2Q/C3VGVqhuHAFSx2o=
 
 Name: WEB-INF/lib/args4j-2.0.23.jar
 SHA-256-Digest: P73ZCcu4gfnvDmMVbDWWVslSJEqWKYSMSuEMZW5tVeQ=
@@ -347,9 +302,6 @@ SHA-256-Digest: NGUL9j4hagTqa6wU9PoezPE/j3FQfigUlzhlrwSHDpA=
 Name: help/system-config/master-slave/jnlpSecurity_pt_BR.html
 SHA-256-Digest: V70NQqFB0DNY1+xZFwMZxWjCKDVtaBPxo90tbkfxaqk=
 
-Name: help/project-config/fingerprint_ru.html
-SHA-256-Digest: S1lUxD/azYO2xIm68h1JQfqje85dzssij5tNqB4iGy8=
-
 Name: images/48x48/gear2.gif
 SHA-256-Digest: 9EMQxEAvn8tbZwbRgu4Nw3bb2h2QlWJRC1Tqmbn2U3Q=
 
@@ -362,20 +314,14 @@ SHA-256-Digest: /RIE6qYdll/EnzF8pMELSUyxYoIoeMpJ1Lzm2ozMnGo=
 Name: help/tasks/fingerprint/keepDependencies_fr.html
 SHA-256-Digest: Nwt02kwyeBYboCBNXQ7x2OZngt5PMp8z/n0VjRz2iU0=
 
-Name: help/security/ldap/userSearchFilter.html
-SHA-256-Digest: TnS5GHEav6ZqQkZ2Rg43luLAfgK1tINbNA3uTtSNxXM=
-
 Name: META-INF/maven/org.jenkins-ci.main/jenkins-war/pom.xml
-SHA-256-Digest: YSuzU3kMshBxzYrAwUlSmenqcjO4qCPPO/4rHDoWe+w=
+SHA-256-Digest: hL8Ojvfoun2boLt23mq5g+a6HMmiYyIBPA73ebx4IuQ=
 
 Name: help/system-config/master-slave/demand/inDemandDelay_ja.html
 SHA-256-Digest: AsAAqMoF6bDHbFO0uo0XBHwmw8kL1UgHCdRNcc9Qbdo=
 
 Name: images/48x48/nobuilt.png
 SHA-256-Digest: Nh1X0e0Hb1xqE2mcblqvK1FVgAJeKsUR6y9eLpYU59o=
-
-Name: help/project-config/fingerprint.html
-SHA-256-Digest: C7moqTNvr5LtypFqx2fBVcnyfV0f046vp5Mfs8/ydP4=
 
 Name: images/16x16/blue.png
 SHA-256-Digest: YqeoTXocQ2OuLVIOM+AYkU9Ry/RKW7ERnpIl0GTOt5Y=
@@ -392,6 +338,9 @@ SHA-256-Digest: guLnJrtjZX8rac6ccR4dK5GGpM4MhjiKIv8lAgGRdWg=
 Name: scripts/yui/menu/assets/menu_up_arrow.png
 SHA-256-Digest: H1yFR+TA41G2HuXuvJvicrpDvBELLfRHcpMw8rsgug4=
 
+Name: WEB-INF/lib/remoting-2.47.jar
+SHA-256-Digest: SGee7DRoSuXqRiSNejCfVuxqpGAdCCJxFR0GARHHSHY=
+
 Name: scripts/yui/assets/skins/sam/container.css
 SHA-256-Digest: ojWITC7Balnn1aZZwb7B+f+QMmNbm49LZAT1JVE0ihg=
 
@@ -404,12 +353,6 @@ SHA-256-Digest: BQ2bHgCKFlKQLDB2pUEA5KtOjcNNyyzX9cFBxqSFOxk=
 Name: images/32x32/health-80plus.gif
 SHA-256-Digest: WUMuq/E4dmeoY8jm5O9qkb6QIjni7Ar+1vjbD1FD00U=
 
-Name: help/tasks/junit/report_tr.html
-SHA-256-Digest: IPcoieaQiKNJC9/oy+zo1RqgBSAxfeSuigsz5LVuD80=
-
-Name: WEB-INF/lib/libpam4j-1.6.jar
-SHA-256-Digest: QTByHsahv8k2mSQIlAgL6vkleQ4KEDdzQQXSPMUQZRI=
-
 Name: images/32x32/accept.png
 SHA-256-Digest: GAGov3nVVfP0A0S+OVD7aqRO5Vk0+434aCkY97FSI6M=
 
@@ -419,14 +362,11 @@ SHA-256-Digest: a6gLNYnJijcla0j23IG06guSpnFSIOY+zJArFsx+9HA=
 Name: images/24x24/refresh.png
 SHA-256-Digest: OampIocUSHTFGFz3suFjytSsOqSDfUDfBZAawb+jiAU=
 
-Name: help/project-config/javadoc-keep-all_zh_TW.html
-SHA-256-Digest: DVg9md0kWNykNiW/rkT4ova9Qd74yO5RJfaKiY+L3/c=
+Name: help/tools/help-label_zh_CN.html
+SHA-256-Digest: BFSKHPqWFI/rMc8Rq8o1OnmoYELvoCLv7OhPuL2otCY=
 
 Name: help/system-config/master-slave/jnlp-tunnel_ja.html
 SHA-256-Digest: Mgj84g0kmn9TeJtY6aS7i/W41FG6dn8nzM5SvA+9FVo=
-
-Name: help/tools/help-label_zh_CN.html
-SHA-256-Digest: BFSKHPqWFI/rMc8Rq8o1OnmoYELvoCLv7OhPuL2otCY=
 
 Name: help/view-config/description_de.html
 SHA-256-Digest: p1hAkGTB6AOTcIhaNnlIjHw5/ZEJdEvMgUJ/f53QGyE=
@@ -437,26 +377,26 @@ SHA-256-Digest: FZRAlgEtpXVU2RNKr/0V5CAbzlt3rqDAyx5w8+0kJqE=
 Name: images/16x16/document_edit.png
 SHA-256-Digest: 6vC7U/W6MJizDhlRTTJB1dyb4JVnLoMC0BZtmCnAiOc=
 
-Name: WEB-INF/lib/memory-monitor-1.8.jar
-SHA-256-Digest: v9Xk6kzvqocqKGkzrY2tFFHar48OxmT6DoqOTYzsUg4=
-
 Name: images/16x16/computer-flash.gif
 SHA-256-Digest: wzhEmVCRTDc7/DApPXv/ryFRnaCoyy5NpfjVbe7uYgs=
 
 Name: images/16x16/attribute.png
 SHA-256-Digest: NuYAHwirti0QZdn8+DvWACW6cc3jCiLfsvRF7kOCdNs=
 
-Name: WEB-INF/lib/akuma-1.9.jar
-SHA-256-Digest: Dqik6OOaKHoQLKayPpPwxuPWPB5qDJaAKA7PWTgi1wc=
-
 Name: scripts/yui/assets/skins/sam/treeview-sprite.gif
 SHA-256-Digest: wmmVZs86w9vcMt1Kj0O+wTEqZe5eD05ytj8Er4uBIIE=
+
+Name: WEB-INF/lib/akuma-1.9.jar
+SHA-256-Digest: Dqik6OOaKHoQLKayPpPwxuPWPB5qDJaAKA7PWTgi1wc=
 
 Name: images/48x48/gear2.png
 SHA-256-Digest: kcyFHklVXDJs7LUMkPzstesGqmIgVG5GKDmYaIB/r0s=
 
 Name: help/system-config/master-slave/usage_pt_BR.html
 SHA-256-Digest: vrbSYf8T96+bnHNXZRqDmDnih9/rrVwY04LSer4RLs8=
+
+Name: images/headshot.png
+SHA-256-Digest: V41Q4HlCkBYGkBELXBnuUBtNJBfGF/750P9c4bJ/PFI=
 
 Name: images/16x16/help.png
 SHA-256-Digest: X5Nzrq08ZvhaKG9IICLFu0JQgLBJ9EsMCeXhYX7sSC4=
@@ -469,9 +409,6 @@ SHA-256-Digest: osCkwBheliviCA/du+kzBQ+RStGFkJgLRspGPDXPX6E=
 
 Name: images/RRZEIconSet-License.url
 SHA-256-Digest: 0aGCVrLMwW37QOvewybsmkeQIgmqilyA9mV0L7MXFT8=
-
-Name: WEB-INF/lib/ant-1.8.3.jar
-SHA-256-Digest: QD6j7JqbpJ84P8I3FH/LUuO5jUOkOuLXPJvCP3a4RR0=
 
 Name: help/view-config/includeregex_nl.html
 SHA-256-Digest: J5pBdabOF7dhlPHfpjn4QQjfppkX/TxBH1DPC++mZjo=
@@ -491,9 +428,6 @@ SHA-256-Digest: CmBzxhk/Z3+y04l0+nz/xqdr5tBLOLrwOLk3L7+cGv4=
 Name: LogFileOutputStream$2.class
 SHA-256-Digest: 6KC1Y2hwXx463d+sah8rgswBz63xHAaAG8lviO3Nd2s=
 
-Name: help/security/ldap/rootDN_fr.html
-SHA-256-Digest: y8Fekx+v90uuEkJXg+DdOGG5w7PSW47Lsn3wWFMbrEY=
-
 Name: scripts/yui/resize/assets/skins/sam/layout_sprite.png
 SHA-256-Digest: VCBzJ9r361MT6OYGg1FLykwiTMjaIopOMK/Mxx7ObK8=
 
@@ -502,9 +436,6 @@ SHA-256-Digest: +E5GyQkZ+i7/1hMX9HwmHy92Xrn9bukw1xz1j7P1h2Y=
 
 Name: help/project-config/log-rotation_fr.html
 SHA-256-Digest: OhWaxaY0dcna4qqYTbiLurEK8KhYUsEdhjoiFJ9LAew=
-
-Name: help/security/ldap/rootDN_zh_TW.html
-SHA-256-Digest: nuw0mIFDPaaSRHOxUdG+K+8ww/vXCB4oGIRrdBjhNfE=
 
 Name: WEB-INF/lib/bcprov-jdk15on-1.47.jar
 SHA-256-Digest: saTDbqMNCudfx3giGiYCg3qQtUKkpLHLluj9GHC9zwg=
@@ -515,11 +446,11 @@ SHA-256-Digest: xBpOsH8v/pPja5i767bsHR+nWrOPPeB7zpnfovFDA4k=
 Name: images/16x16/folder.gif
 SHA-256-Digest: 9ol+p031MtSDMQhm8GGuCfvvE/oQodgNxk9wbsVsuwc=
 
-Name: help/project-config/log-rotation_ja.html
-SHA-256-Digest: pIlw/WGLDo0OA+oaLCpHY7KhOqJP0OuDzGG9fSNUuvc=
-
 Name: help/tools/help-label_de.html
 SHA-256-Digest: gh5R2FtRY2HEaMezWLxmRc+vof0Ge5BnQo72A4IylDI=
+
+Name: help/project-config/log-rotation_ja.html
+SHA-256-Digest: pIlw/WGLDo0OA+oaLCpHY7KhOqJP0OuDzGG9fSNUuvc=
 
 Name: scripts/yui/assets/skins/sam/profilerviewer.css
 SHA-256-Digest: rDwU6hfdtW8pGLvYkpP6+xfrRUk7e3nPZkh1rLkLtrc=
@@ -542,11 +473,11 @@ SHA-256-Digest: hQsaqUYheTjAQgjsnzUUeh7Ea2DfwyYvGSjp3PbfjEg=
 Name: help/parameter/string_de.html
 SHA-256-Digest: +/JN8HpmfxGfK/EUfhMArsh/m5A0fp4HJGvGURS9Rms=
 
-Name: WEB-INF/lib/dom4j-1.6.1-jenkins-4.jar
-SHA-256-Digest: ZnGNHwNDsFI2N/3Hypm+U+2k/wWqUZ97+/eS+m+ch50=
-
 Name: scripts/yui/menu/menu-debug.js
 SHA-256-Digest: ebEDDKTOLsSR2ER/12q0Tx0KKUS0R2ekv9/l/wUQqkA=
+
+Name: WEB-INF/lib/dom4j-1.6.1-jenkins-4.jar
+SHA-256-Digest: ZnGNHwNDsFI2N/3Hypm+U+2k/wWqUZ97+/eS+m+ch50=
 
 Name: scripts/yui/menu/assets/skins/sam/menuitem_checkbox.png
 SHA-256-Digest: 5EDexND14LYvJT8iu556Mb4ASX6+goos6NiJdY8PFhg=
@@ -564,7 +495,7 @@ Name: help/system-config/master-slave/availability_nl.html
 SHA-256-Digest: kGOFp4TAZUXK1yY88O7MAhHrLkpzJmOh0HlvfH1l9NQ=
 
 Name: WEB-INF/plugins/credentials.hpi
-SHA-256-Digest: FvYujoJ1NOVBIHG1cxCX44DpzI9SS5q4LEsKl+7BaWs=
+SHA-256-Digest: Pc9l114pg/jcIAwHtIPzJIykyiIyaqcqGan4VznGTv4=
 
 Name: WEB-INF/lib/spring-web-2.5.6.SEC03.jar
 SHA-256-Digest: xZyXnqnjdAYnVvijgtX+RAemJ6UrWfFgNpZQ5ysX2Tc=
@@ -572,17 +503,11 @@ SHA-256-Digest: xZyXnqnjdAYnVvijgtX+RAemJ6UrWfFgNpZQ5ysX2Tc=
 Name: images/32x32/orange-square.png
 SHA-256-Digest: EoigS7QUNMinTCePoFJX+ccaDfSpaaGGk0sdPOruDYU=
 
-Name: WEB-INF/lib/winp-1.20.jar
-SHA-256-Digest: v+VRv5mTxouLdffhIZNfWTeHt/ZVamyiK8tG5Zo7VSg=
-
 Name: help/system-config/systemMessage_ja.html
 SHA-256-Digest: A3rk0l0VEwEXRo2Hi/X3gc7j6kuEMzsYPeNwAEZZkuQ=
 
 Name: WEB-INF/update-center-rootCAs/jenkins-update-center-root-ca
 SHA-256-Digest: iEdN7G4o9PEo/slDT56Nh8V03k8K/dJRRedjYtRm+/4=
-
-Name: help/security/ldap/managerPassword_tr.html
-SHA-256-Digest: 5+Lh3tFTS/Mwp0c4o+RqfZazNeOP+9X781mOANwJE6M=
 
 Name: images/48x48/aborted.png
 SHA-256-Digest: XvdtICsEQZkgXqSStilabasX1AtyBjmCKWTGTkDRu5s=
@@ -592,6 +517,9 @@ SHA-256-Digest: dJ/gApf7YNiQLlSEw0/hltaiJz/2QDFUN+VTMriohpE=
 
 Name: WEB-INF/lib/asm-analysis-4.0.jar
 SHA-256-Digest: QnyzZkonzXsDDeyDVLhDL7dpuT87+zbFqhlZ1sL96BU=
+
+Name: WEB-INF/lib/cli-1.589.jar
+SHA-256-Digest: 8P1hv+FRZZIs8QtZuk1a4Sm+QqheIg3emP6m/9NYti0=
 
 Name: help/tools/tool-location-node-property_fr.html
 SHA-256-Digest: TqrW8dssMIiGN1qZPzggVQOBTV6yegX5J9oBtKgqo18=
@@ -605,23 +533,11 @@ SHA-256-Digest: RW/kEEwjBM6s5q/vjC7Wj5/L6uryBNtEoOCyzL1cSac=
 Name: scripts/yui/cookie/cookie-min.js
 SHA-256-Digest: VDXtBzS9Dazs7g+X4CbvJbjGqHeYfyd9wEWPCsyQtDE=
 
-Name: help/security/private-realm_zh_TW.html
-SHA-256-Digest: M+2VcEyKcatmOQi0e+fwmDlJ4cGaAmgeNtqQnKi13gM=
-
 Name: help/system-config/globalEnvironmentVariables_fr.html
 SHA-256-Digest: y9IeDWRmfBOna6lws/TNSu79cXu8h+8HP23+0gTVOIY=
 
-Name: help/tasks/junit/report.html
-SHA-256-Digest: /HbwnIIjhOVqVbY2fMrJTeVJPse/F2G/DPQzLLFXvYg=
-
 Name: help/system-config/master-slave/clock_ja.html
 SHA-256-Digest: cimF5S4j0KFsETIrwwwEbq0z9lEYpsk4bUZ1Q+gCySk=
-
-Name: help/security/private-realm.html
-SHA-256-Digest: 7uNzkdTvfjVjSG9vNsNnVnFwJq3B5pn9q04zFfcU+m8=
-
-Name: help/tasks/junit/report_pt_BR.html
-SHA-256-Digest: 5H0tjuyz+doglE0d3XJJlTHi9xnjeds6aPcnjSfChd0=
 
 Name: help/system-config/homeDirectory_zh_CN.html
 SHA-256-Digest: mQzhqASmA0xTW9rG0lN6k1BTjaL6YZxd2Iw7cNhnn3w=
@@ -644,9 +560,6 @@ SHA-256-Digest: pHPuu3eexeSHBf2UGYM9Ddu5vVFnRNG1i94uG1sqmPc=
 Name: help/project-config/scmCheckoutRetryCount_ja.html
 SHA-256-Digest: PoCmTsFVYi39JTpVsMuiUQYZKQ8aZet/vOfpYCpcjwM=
 
-Name: help/tasks/aggregate-test/manual-list_pt_BR.html
-SHA-256-Digest: RER9b4hUe5Q6zlPQs8BfotfIeih1uyh7346fzCeHhUo=
-
 Name: images/progress-unknown-red.gif
 SHA-256-Digest: epJI8wYTlirXWJNoPVe4OGdpUHsMOeDW37xKn6/Biac=
 
@@ -659,11 +572,11 @@ SHA-256-Digest: pD0Qm27zOWU36cKQP4y054IbOVSYnX1l05ve4wfQ46c=
 Name: images/24x24/save.gif
 SHA-256-Digest: htu17QgEl8L1DfHqxwDu6kVdchsn4t5A4Ruduc5Eg6c=
 
-Name: scripts/yui/assets/skins/sam/sprite.png
-SHA-256-Digest: 2peyhwluHZjNIZ/kxdT36r9vPpA0RKcKSmuZC3SnS4A=
-
 Name: help/system-config/master-slave/clock_tr.html
 SHA-256-Digest: uGOxX9lBqKkCGu6kLls0wcKP6qDQUuLNAuaHh01lJTs=
+
+Name: scripts/yui/assets/skins/sam/sprite.png
+SHA-256-Digest: 2peyhwluHZjNIZ/kxdT36r9vPpA0RKcKSmuZC3SnS4A=
 
 Name: scripts/yui/menu/assets/menubaritem_submenuindicator.png
 SHA-256-Digest: hpA71eOXJm2FqvJ2G+F8D6HYLWQVWsAl46BFLMH8n3M=
@@ -679,9 +592,6 @@ SHA-256-Digest: 7z4yPxaA/TqkUHcQvyU8O6qdS6q4o6eX7C4Xd3Jjk8k=
 
 Name: help/system-config/homeDirectory_pt_BR.html
 SHA-256-Digest: F7izilFyrMRPshMPA2zShpjd4tfWEJvGkjmULAbw8dY=
-
-Name: help/security/ldap/server.html
-SHA-256-Digest: We+KN/ubSH1hmD+ZCdptoYrCzMDH502PM30DMddo7MU=
 
 Name: scripts/yui/resize/assets/skins/sam/resize.css
 SHA-256-Digest: OMgBQ8RqLRS70yNQQLavraS1zt+78qAVumjFAK79dZU=
@@ -704,8 +614,8 @@ SHA-256-Digest: e0V8vwSYlp9poAPVxw1Qyu6LcV5PjCpmo5RKUoJYTpg=
 Name: images/32x32/empty.png
 SHA-256-Digest: M0f2C35u2nQjSFN/EvOCTLiCniQjYko9LC+DAMujaL8=
 
-Name: help/security/ldap/managerPassword_ja.html
-SHA-256-Digest: UySQuSHpFsy+Kf/cc8Wnu6t4nFiqvyQcO2X8rIuS6u8=
+Name: WEB-INF/lib/slave-installer-1.5.jar
+SHA-256-Digest: 3CYS7KfNL9MLxkz+RHPTtiA63MXf0ZJGjrKELNmjW2g=
 
 Name: WEB-INF/lib/task-reactor-1.4.jar
 SHA-256-Digest: x4VV+e9EF7yNV7LPvjDN4PLOkZQFVfGxkA5lXyIkVU8=
@@ -725,17 +635,14 @@ SHA-256-Digest: 5pufbq/B++8Puc2q4jLLq9gOVWJNNnnqLrivHOGq8WM=
 Name: images/24x24/computer-x.png
 SHA-256-Digest: njt3HJnVxcbOhjxd9BYmfn0mWHoTMKZ7+LHIn9aApz8=
 
-Name: help/security/private-realm/allow-signup_de.html
-SHA-256-Digest: V0P80oNcnge6Q8NEs7i56vL58QjOsHyqd7mpYBCCBgE=
-
-Name: help/project-config/fingerprint_pt_BR.html
-SHA-256-Digest: Q3vtJz7xE+AxVxbHsfFAfNdEPVbVkHKLwaSEGI6oMhQ=
-
-Name: help/system-config/master-slave/jnlpSecurity_fr.html
-SHA-256-Digest: f/H7VWBRNDtT2nXCgiJHAyuAobOiD1h9cwfjywjq0nY=
+Name: WEB-INF/lib/winp-1.22.jar
+SHA-256-Digest: ylZtM4tyNHwPVY1n49JtMrG+pmWjWAG23ePezhBgnxA=
 
 Name: WEB-INF/lib/commons-jelly-tags-define-1.0.1-hudson-20071021.jar
 SHA-256-Digest: K+fE+FakvCX4SJ/rglTGNRX/wjTIf3G0HX/Jl7OJMbg=
+
+Name: help/system-config/master-slave/jnlpSecurity_fr.html
+SHA-256-Digest: f/H7VWBRNDtT2nXCgiJHAyuAobOiD1h9cwfjywjq0nY=
 
 Name: images/16x16/disabled.png
 SHA-256-Digest: XwT/a2MKGcED4Hz0t6YG1YAulNKDa8ufwezZ8z57IrA=
@@ -764,14 +671,8 @@ SHA-256-Digest: 9NLkCF0v6X+GXRItMOsLkIDJq/YW4nCJZTSZTuB8PSM=
 Name: help/run-config/description_zh_TW.html
 SHA-256-Digest: PKkvs9H+bRqOvVTVN+pliHF98vxOQ3qc2wB3mmayI4g=
 
-Name: help/system-config/cvs-browser_pt_BR.html
-SHA-256-Digest: JGK62j0YMlE5R1vt9jB0uPoka++LPAaqLJoioCQxNNc=
-
 Name: images/16x16/edit-delete.png
 SHA-256-Digest: bRyu0V86VJoDyyReaX9Uh6C7TvyFxCqqUMo5cT6rJDo=
-
-Name: help/tasks/maven/properties_de.html
-SHA-256-Digest: kQTCuj+UiQKfhqbIPWVQ6etIM+uhf2v9U+x+dicVgZU=
 
 Name: images/32x32/disabled.png
 SHA-256-Digest: DNyDoDGMuq/qRXBZEua2ki7uatJtGEc+iVyst2AXZVM=
@@ -794,9 +695,6 @@ SHA-256-Digest: 4MepIbhCYln3EBLwzR3zR0HZfUh6r1cagwHTzecgfy8=
 Name: help/project-config/batch_tr.html
 SHA-256-Digest: x3WS93SsfIuxOQaeW46X7sswnDxyEGZLHK/JWH2UCVU=
 
-Name: help/tasks/aggregate-test/auto-aggregate.html
-SHA-256-Digest: yN7Ojar76KulYZ2ZgNcbQwqp9cByA+R7Zzr+aD5xqD0=
-
 Name: scripts/prototype.js
 SHA-256-Digest: As+Mmo8/Z09TB25CmYzuPksHSrj8CzcH8NVjN/mapqQ=
 
@@ -813,19 +711,19 @@ Name: scripts/yui/autocomplete/assets/autocomplete-core.css
 SHA-256-Digest: C7tmi8cfw68aItlOnZGgvHGW8VGV9SEuTIrYvzvHeOo=
 
 Name: winstone.jar
-SHA-256-Digest: ZPUN76fXbqnGQXsMbfezVyrn+y4I3Xxc+tymuCeX6oA=
+SHA-256-Digest: dkpdllOhTuZ9BM88oCpjjqDK9eyVV8EKl8lnF4wDyVI=
 
 Name: images/48x48/setting.png
 SHA-256-Digest: 59pm287AsZtBAVpp3a9FRRsFCW4cQ9VlnMv39eRWwQQ=
 
-Name: help/view-config/statusFilter.html
-SHA-256-Digest: auicGjZleWvIjqtKaRd3AIyokMi9poZ7588ThtO0TuI=
+Name: help/user/description_tr.html
+SHA-256-Digest: H6LDz1E0QF3h4jKiaLk22xH6HTYDjdXLpwiDUGtd8Zg=
 
 Name: help/project-config/triggerRemotely_ru.html
 SHA-256-Digest: 2pQ47NkoJPjE11YpYkYVeKeEYf3FrxigdCVnMyYupW8=
 
-Name: help/user/description_tr.html
-SHA-256-Digest: H6LDz1E0QF3h4jKiaLk22xH6HTYDjdXLpwiDUGtd8Zg=
+Name: help/view-config/statusFilter.html
+SHA-256-Digest: auicGjZleWvIjqtKaRd3AIyokMi9poZ7588ThtO0TuI=
 
 Name: help/system-config/master-slave/jnlp-tunnel.html
 SHA-256-Digest: TB3CC11f+vNcNw19hOeTrmx5XU/HTO82Ip9xHM0zQzY=
@@ -836,17 +734,11 @@ SHA-256-Digest: 1PgFOgVLnaWb330EIHHmP97Pcwf6m3h1iwmpNFoymKQ=
 Name: images/24x24/green.gif
 SHA-256-Digest: fZrTXPXmGV+SzH755rZZRfD4C8uliNZDGTUazz3rqzo=
 
-Name: help/security/ldap/groupSearchBase_fr.html
-SHA-256-Digest: mdRcisauB4Yrmp+ZcLWw1/9uoMuZ37jZhqhelFqCM9o=
-
 Name: help/project-config/scmCheckoutRetryCount_zh_TW.html
 SHA-256-Digest: WpH2aRtOdxfbC2VJ3E3cRqMVKUmapba6Erm1K5JMst0=
 
 Name: help/parameter/run-project.html
 SHA-256-Digest: 6GxioPYf5UWVuxeVGHJsQsBYF+ZVpm2U1V3UzYYZN4I=
-
-Name: help/security/ldap/managerPassword_fr.html
-SHA-256-Digest: QewtYHDgeW4FRgLxW6y28hVHvLm5dYtYzVdtxZpMcE4=
 
 Name: help/system-config/master-slave/availability_zh_TW.html
 SHA-256-Digest: sqBl/ih3/PJsjMN5YoTWITu8+DQII9jV96k9dl2NzI8=
@@ -861,22 +753,13 @@ Name: WEB-INF/lib/spring-context-2.5.6.SEC03.jar
 SHA-256-Digest: LIkIO6Hf0mVG6uX9Mnlm1aesl8tQtcxiNWLfGkq7wlA=
 
 Name: WEB-INF/security/SecurityFilters.groovy
-SHA-256-Digest: tIAmKqZYuCr3ImBZh5siGydyWMY+B10TO7QjdoTdzjc=
+SHA-256-Digest: 6Ce+J+D5sFBx0moub7kXz91ojwkIeagWHkYt1J4teCw=
 
 Name: help/run-config/description.html
 SHA-256-Digest: tK2oHMWmuzmBcHQpPkZPPTxmQJuj3p+1/WZnR8XlN+0=
 
-Name: help/tasks/aggregate-test/auto-aggregate_zh_TW.html
-SHA-256-Digest: S7azqDpzyzi1f+cS/3awOcQq5BuMmyIQDrbOleOgNn4=
-
-Name: help/security/legacy-auth-strategy_tr.html
-SHA-256-Digest: XvfyUf0YuTNdwD/y8wxXFpvJ9XYL9kVPh7mwMYglrmQ=
-
 Name: images/24x24/next.gif
 SHA-256-Digest: 1+UkIbTCQ1I9o04FMLZPKCQ5F40YgXruiU+Pjkxs8WY=
-
-Name: help/security/container-realm_de.html
-SHA-256-Digest: cFDZW5YKhC648YU9uZovhyX9jfbEBRBTHI8HBYc/Zfk=
 
 Name: images/32x32/plugin.png
 SHA-256-Digest: 491z4dUE5CLepuQUu7BeB5084bV9VAsO7FjL9jysoWs=
@@ -888,7 +771,7 @@ Name: WEB-INF/lib/antlr-2.7.6.jar
 SHA-256-Digest: VNcDelGK8tjsoZi6L9JYKaratBy9j8emL8Hm1uBYuR0=
 
 Name: scripts/yui/button/button-min.js
-SHA-256-Digest: L4orW/lH/wKzmsD5jpDwmLRzJB2Sxz8JgfoHeDRhcVc=
+SHA-256-Digest: p5UFQwlktBjeLw0ebeBSPtMJ4trnD4aW1BUPkspjIcY=
 
 Name: images/32x32/blue.png
 SHA-256-Digest: v3TUMLjl9ELWuLLeGSc8EnVwotVLCJgnk++0uUPOLCs=
@@ -902,11 +785,11 @@ SHA-256-Digest: 9jP1wtQDhqmO+rd0eCI7jsiQl28UIlrUe/3Ce6ZtTgc=
 Name: help/project-config/scmCheckoutRetryCount_de.html
 SHA-256-Digest: O/UJYhbnIgfuEHOfXonoxjmgftfzB+8UyvcIqdxkEic=
 
-Name: help/tasks/fingerprint/keepDependencies_tr.html
-SHA-256-Digest: aLljIHTlgEQhcOx3BU0HCzCLGzOe8wuVyg8i9j4v8aU=
-
 Name: help/system-config/master-slave/numExecutors_fr.html
 SHA-256-Digest: 7zvREdbuT+e1VnkOV6plTEsYZXzuFd3DaoQRhvrNt6M=
+
+Name: help/tasks/fingerprint/keepDependencies_tr.html
+SHA-256-Digest: aLljIHTlgEQhcOx3BU0HCzCLGzOe8wuVyg8i9j4v8aU=
 
 Name: images/24x24/folder-delete.png
 SHA-256-Digest: Fb2Pnduv8i+eis5Y3sel0g7KH7Fi6aPnZRKXHHvSAr8=
@@ -917,17 +800,14 @@ SHA-256-Digest: Cu4AQXNMBtE9MzLq7dbGphIJrLYuouA4n1MvCpcVDfI=
 Name: images/16x16/folder-error.png
 SHA-256-Digest: EsC4zFf8mmXla9caFH/HecxEzcFc08yspmk654dnoUk=
 
-Name: help/security/no-authorization_fr.html
-SHA-256-Digest: TdRHEns0W/v3x5ca/iWJLKgBzUv6mdpc+JnN55PY4n8=
-
 Name: WEB-INF/lib/commons-jexl-1.1-jenkins-20111212.jar
 SHA-256-Digest: 8aQIaz1Q5ITBU+JlHBcQsa1b92a/P9G0OfGzGdxaw9c=
 
-Name: help/view-config/filter-executors_de.html
-SHA-256-Digest: ZSydq5cI8GKa6G3l7V9Fek0dCR/B60k+5+HboeSuwkU=
-
 Name: help/project-config/downstream_ja.html
 SHA-256-Digest: eC8vf7WfspW1XhTFTQPXooP9bVE4/yEZgnF7mhXLD8U=
+
+Name: help/view-config/filter-executors_de.html
+SHA-256-Digest: ZSydq5cI8GKa6G3l7V9Fek0dCR/B60k+5+HboeSuwkU=
 
 Name: scripts/yui/menu/assets/menu_down_arrow_disabled.png
 SHA-256-Digest: OQIJtyO+Zxk4xwEfkONhCYJRiXHB7qRxecYTNYgCeyU=
@@ -963,23 +843,20 @@ SHA-256-Digest: BGWMZlPasWPBtE5cnmIKossJvbltEkiEGMSfmAf10Dc=
 Name: help/system-config/nodeEnvironmentVariables.html
 SHA-256-Digest: Squ+ITXJ1bCd/IhHM/XOAMs8pysvT1QQiWKsonXCqdY=
 
-Name: scripts/yui/assets/skins/sam/carousel.css
-SHA-256-Digest: sG2X3kW0Mq3JHBXUJqmpwEZYwF+mHgkWgK6xQ2tJpPg=
-
 Name: images/32x32/folder.gif
 SHA-256-Digest: 5vVujmCqpPEl9o3KIMhREVZz3LdZwpEIX3+ij0h1f2o=
 
-Name: scripts/yui/assets/skins/sam/loading.gif
-SHA-256-Digest: 8q0ChcWnh2uhYplikXI3AfX785EoCMr9E3S4O4CYWow=
+Name: scripts/yui/assets/skins/sam/carousel.css
+SHA-256-Digest: sG2X3kW0Mq3JHBXUJqmpwEZYwF+mHgkWgK6xQ2tJpPg=
 
 Name: WEB-INF/lib/spring-context-support-2.5.6.SEC03.jar
 SHA-256-Digest: WTQ22gXdunT1XDmVmVc2wfGv+Mt/JAsPjst+bVHyeV4=
 
+Name: scripts/yui/assets/skins/sam/loading.gif
+SHA-256-Digest: 8q0ChcWnh2uhYplikXI3AfX785EoCMr9E3S4O4CYWow=
+
 Name: images/32x32/blue_anime.gif
 SHA-256-Digest: 0Y8V+HMJIbhhxcdZs5CTejonaC88t85DRPyrkNO73C4=
-
-Name: help/security/legacy-auth-strategy_ru.html
-SHA-256-Digest: Z8t7kuL46b157nTU4tW2aM3s0bPmu7/Gwk3Jpyq7Kpg=
 
 Name: images/16x16/red.gif
 SHA-256-Digest: obFJVPPSyQa4o0DLcIss1jIYremKf4T67ZSwu6vt8IQ=
@@ -999,14 +876,14 @@ SHA-256-Digest: oqi42Obh1lb0/8FWEecF0Zot/ZI0UaxGSlOSl/V0N60=
 Name: WEB-INF/lib/ssh-cli-auth-1.2.jar
 SHA-256-Digest: PquhnUb8OO9152S89I2QyxqHzlnLNLyE1t8UWcQZq9k=
 
+Name: WEB-INF/lib/sshd-core-0.8.0.jar
+SHA-256-Digest: YVrDmQJzAkMNC9zL/dbtrhIqphf1xjNzC9UbvkaOQy8=
+
 Name: scripts/yui/assets/skins/sam/editor-sprite-active.gif
 SHA-256-Digest: wptITBT2oj636ye3+wHuUzWyW09IxIOdG9V7GGcE/fo=
 
 Name: scripts/yui/treeview/assets/treeview-core.css
 SHA-256-Digest: eCWphkaylqzdtr0tSTVh+o16IULf/Q2+ismVmfJCyiM=
-
-Name: WEB-INF/lib/sshd-core-0.8.0.jar
-SHA-256-Digest: YVrDmQJzAkMNC9zL/dbtrhIqphf1xjNzC9UbvkaOQy8=
 
 Name: WEB-INF/lib/asm-4.0.jar
 SHA-256-Digest: cFANVZBq78AF/tcpEssjRP/tGh9Xm8cx69NPU/065gI=
@@ -1014,15 +891,9 @@ SHA-256-Digest: cFANVZBq78AF/tcpEssjRP/tGh9Xm8cx69NPU/065gI=
 Name: images/16x16/notepad.png
 SHA-256-Digest: Hd7oUz5y9ymHQrUbP8HFxTqhpJ3XLY2ed1S0T7aoyR4=
 
-Name: help/system-config/cvs-browser.html
-SHA-256-Digest: 5YzH0JksNfyonSzBdEP5gJBYAvhXpvGByTBhLqtdq38=
-
 Name: scripts/yui/menu/assets/skins/sam/menubaritem_submenuindicator_d
  isabled.png
 SHA-256-Digest: pTtGAQdR7kQPDfPNb2pCODKHg3EFfJIRZQpwK45Ha/I=
-
-Name: WEB-INF/lib/ant-launcher-1.8.3.jar
-SHA-256-Digest: yytwEc6T/SEcmq7flyBOex4D3h3rttVLGKLKYZUKkRQ=
 
 Name: images/16x16/nobuilt.gif
 SHA-256-Digest: lt98wIwT1R8t25Z9n75fMLjo4Z7+6yBvLrlIydHEklc=
@@ -1031,7 +902,7 @@ Name: images/24x24/delete-document.gif
 SHA-256-Digest: ILd5nH8yBueul5n10F//+YLP2OSCM6pcqu4z+N6C4p8=
 
 Name: WEB-INF/classes/META-INF/licenses.html
-SHA-256-Digest: 9xwU4gMwxUqF/HmK627TY9GjUvMBkIKbzVCRI4FFFpQ=
+SHA-256-Digest: 3PZxCxqpCYo61kuI0+TJSIebbCT0pjhPvR5LtkUiHik=
 
 Name: scripts/yui/assets/skins/sam/skin.css
 SHA-256-Digest: pzrHTpggwYHY3DVnujHlLCsVKAWW570JEFR8VgzBufk=
@@ -1039,17 +910,14 @@ SHA-256-Digest: pzrHTpggwYHY3DVnujHlLCsVKAWW570JEFR8VgzBufk=
 Name: help/project-config/description_zh_TW.html
 SHA-256-Digest: t38UXCQ2Mh3taY4o+dOs3wufo3KWM8EsyH1SWND9B48=
 
-Name: WEB-INF/lib/stapler-jrebel-1.229.jar
-SHA-256-Digest: EYIW4MMxIG2gaPzPlxi5axMEvKjFuLzejR28VXj8tAw=
-
 Name: scripts/yui/tabview/assets/loading.gif
 SHA-256-Digest: Kr8u/mPMzVUXOe2JRl7UMeXU52Sr5jGms8P6r4q498k=
 
-Name: help/project-config/block-upstream-building_de.html
-SHA-256-Digest: xkxTwDwVAWuRCFUG1M9AOZYYhftAAzWucQN5ginsRsM=
-
 Name: LogFileOutputStream$1.class
 SHA-256-Digest: baHlS0CeBvvwzmkcDcclDQDmsufUc3NB/rpEin8h9Zw=
+
+Name: help/project-config/block-upstream-building_de.html
+SHA-256-Digest: xkxTwDwVAWuRCFUG1M9AOZYYhftAAzWucQN5ginsRsM=
 
 Name: images/32x32/user.png
 SHA-256-Digest: sXOzyg0j9sA39KfuGMJuhiJ8WE4jh0uekza/M/ib4lA=
@@ -1069,9 +937,6 @@ SHA-256-Digest: fn5Nqr1ggyGO+tZ4gK63+FzjrSUmmvBkHEAcdHxyp6A=
 Name: images/24x24/empty.gif
 SHA-256-Digest: EgS4GhViCTGx9ax7jwz+RYjl/vpE9GqLjXVg8UqGVvI=
 
-Name: help/security/ldap/managerDN_ja.html
-SHA-256-Digest: hAKllsOoS8Ou6b6nhjUWvNtQr87cFvRQW3FKNwCkVds=
-
 Name: images/32x32/green.gif
 SHA-256-Digest: SQ2tsg3CcDkxXPYNpSmNhxlE33/OmbluZVdzIu/P49w=
 
@@ -1080,12 +945,6 @@ SHA-256-Digest: ABRm9/SxRjbOyTM+7G6GpaDmtA/88rEa4DAmI4hTXtM=
 
 Name: images/24x24/help.png
 SHA-256-Digest: ur+3p4uVNqrtBJ0L/8ZtPayhmar+CNu+uHiBTkma2rU=
-
-Name: WEB-INF/lib/stapler-groovy-1.229.jar
-SHA-256-Digest: 7sRfEgO5McYZtG3P5znnaOKiykBux9pOapHJfKsUlks=
-
-Name: help/shell/shellexe_zh_CN.html
-SHA-256-Digest: lYLSjTpV0ocnvedjI4MwhV3xvWLog5b/Fl/Cjmij20g=
 
 Name: WEB-INF/lib/systemd-slave-installer-1.1.jar
 SHA-256-Digest: Na9W1tux8WNdxl5ecrU+8eQPgzQT5+yMUBniXN8y/YQ=
@@ -1102,12 +961,6 @@ SHA-256-Digest: CeJ7HLRmYRA78EBXDLkikSnSCZ1mNJLRjFmzq/EeDnI=
 Name: images/24x24/aborted.gif
 SHA-256-Digest: KmXimF8TCvBpDu28xPtU06Cg8ynufu/m2WmxgBL0mxU=
 
-Name: help/security/ldap/server_zh_TW.html
-SHA-256-Digest: mmXMTgcnEo52VPyn7tELapfHG0SFs3/mpK85Dv1o/kg=
-
-Name: help/security/no-authorization_de.html
-SHA-256-Digest: bSvwF8RZsEgKpZIml8tMTfAoXmX3p5Ll8dvBpX6GlNE=
-
 Name: help/system-config/master-slave/demand/idleDelay_de.html
 SHA-256-Digest: IzqlnEN5su7rS61VZIK90ijSd38UOFUwWbYi5Rmyab4=
 
@@ -1123,29 +976,23 @@ SHA-256-Digest: uPeRe4FWNRwB1bcL2JHvr277RQZCNCoMt4HCYocV6Ck=
 Name: help/project-config/batch_fr.html
 SHA-256-Digest: xjefW1b9FKk54jhdaXf8CYfM5WqMEormd0zDtSLHJ90=
 
-Name: help/project-config/fingerprint_tr.html
-SHA-256-Digest: vEUcmJnSEjYJLPSorIkviIvre787ay6NK8XvZks0rao=
-
 Name: scripts/yui/base/base-min.css
 SHA-256-Digest: U5fDyf7xdGg9f8iDuDDE+JEiCcQ+4R9TfeL/n19y8og=
-
-Name: help/security/ldap/userSearchBase_de.html
-SHA-256-Digest: FPjC0OLOepQc8KQa9cOhMLSxA6br9OZZbjKYqnoA6cc=
-
-Name: help/security/full-control-once-logged-in.html
-SHA-256-Digest: aMZ9xvIUCJOkwwLGtxZse+aiRfQJfuGU3fixnaudAEY=
 
 Name: images/16x16/help.gif
 SHA-256-Digest: K+EnjX7QukiJOJHtYZ7mUgFvWGcPGmYWKrH7RmZeT5E=
 
+Name: css/responsive-grid.css
+SHA-256-Digest: Q7gAP1iv8uuOKuIelmZMDJam5VJKgYG/NyWIMFbLtQs=
+
 Name: scripts/yui/autocomplete/assets/skins/sam/autocomplete.css
 SHA-256-Digest: cEmvuzQcySzxojO3ip8VNyKBzue6aPt2//WsR3dz3rY=
 
-Name: ColorFormatter.class
-SHA-256-Digest: PoaOz/xyX6TOA2+duZtrcd+MaBx3S6346pcP5n9oj5s=
-
 Name: WEB-INF/lib/access-modifier-annotation-1.4.jar
 SHA-256-Digest: 8k7bgAAo6dbyCf6ay2ZhysnZKZMHA5lBWfUcDdLe65s=
+
+Name: ColorFormatter.class
+SHA-256-Digest: PoaOz/xyX6TOA2+duZtrcd+MaBx3S6346pcP5n9oj5s=
 
 Name: WEB-INF/lib/txw2-20110809.jar
 SHA-256-Digest: Kd4UfGX73yXaj8l95f7zIHlBp0XknVOzLuWWfANrvcI=
@@ -1162,20 +1009,14 @@ SHA-256-Digest: SFyyn8Vi7UZLIeXPhMb54ryddgVEjIE+ldeH1HdQp0E=
 Name: help/tasks/fingerprint/keepDependencies_zh_TW.html
 SHA-256-Digest: HqRbzZKmT+qiLRQ52xfDFajEySil/z+y5+BI2XzDltA=
 
-Name: images/24x24/red_anime.gif
-SHA-256-Digest: PyjohPpJAHxeY8VNbBn3kE9nER507ElIKLNJB1bm9Sg=
+Name: scripts/yui/resize/resize-min.js
+SHA-256-Digest: EmlKRIGmX6/qOHXvFHegRgaho3o1rUeatIRnS81kkWk=
 
 Name: help/tasks/fingerprint/keepDependencies_pt_BR.html
 SHA-256-Digest: 4rtrToN91Dr35wsrsgYAyGbWiQFA992kJh1JQ02NzwA=
 
-Name: help/tasks/aggregate-test/manual-list_nl.html
-SHA-256-Digest: QI4+jb0zBf9Jlm4huCLhA4bysz6TogyqNEkyqsz/Skk=
-
-Name: scripts/yui/resize/resize-min.js
-SHA-256-Digest: EmlKRIGmX6/qOHXvFHegRgaho3o1rUeatIRnS81kkWk=
-
-Name: help/tasks/junit/report_fr.html
-SHA-256-Digest: UWgXkzUFoWqtNm6awyNSvLQmceMIcC+MUfNI5WJmdS0=
+Name: images/24x24/red_anime.gif
+SHA-256-Digest: PyjohPpJAHxeY8VNbBn3kE9nER507ElIKLNJB1bm9Sg=
 
 Name: help/user/fullName_zh_TW.html
 SHA-256-Digest: 5tnBYhTy+8aq5jdXJKjxPXN+YqARUKKqIKffhQjfdpE=
@@ -1183,11 +1024,11 @@ SHA-256-Digest: 5tnBYhTy+8aq5jdXJKjxPXN+YqARUKKqIKffhQjfdpE=
 Name: help/tools/tool-location-node-property_zh_TW.html
 SHA-256-Digest: GX103Na45rhjd1KIqy2nZ83cB3RIvMS7jB0+Cb7MjJo=
 
-Name: images/24x24/health-80plus.gif
-SHA-256-Digest: sp0MU8NoP7FsZqQY3znE0RVL7bmq+zh34VsTW+wYgNM=
-
 Name: scripts/yui/logger/assets/skins/sam/logger.css
 SHA-256-Digest: VwM81kUx7a1FP1QYhg2DKmqCKIheaKy5UIIjK3yCMV0=
+
+Name: images/24x24/health-80plus.gif
+SHA-256-Digest: sp0MU8NoP7FsZqQY3znE0RVL7bmq+zh34VsTW+wYgNM=
 
 Name: help/parameter/file.html
 SHA-256-Digest: Cr1UHEOs8JF+87NeLYlAzU9LDXa8QBa51fMHeYFhof0=
@@ -1195,26 +1036,23 @@ SHA-256-Digest: Cr1UHEOs8JF+87NeLYlAzU9LDXa8QBa51fMHeYFhof0=
 Name: images/32x32/folder.png
 SHA-256-Digest: y3bPG2JwLVNJ+66QJYYjdXAd7I+WIaB3ATiOgJvY8zw=
 
-Name: help/tasks/maven/properties_ja.html
-SHA-256-Digest: Jsu7M+suhWwH7CJ2uvLn6IagmmJfMRRR9Kv6zS5VE5s=
-
 Name: help/parameter/run-project_de.html
 SHA-256-Digest: GKk6uYAw4Rbr7n64fzVN4oeZ7tdHMu0Rs19fHfGfvIQ=
-
-Name: help/system-config/master-slave/clock_nl.html
-SHA-256-Digest: 6oWpLz5+5uO1/LgHibi6TMLB2LjPQ0vZQwFwJQ3ogLg=
 
 Name: scripts/yui/tabview/assets/tabview-core.css
 SHA-256-Digest: BL3Hm0hyRgA4KpQ8Kc1xbHpHMlM5sP4FrXdxouCuky0=
 
+Name: help/system-config/master-slave/clock_nl.html
+SHA-256-Digest: 6oWpLz5+5uO1/LgHibi6TMLB2LjPQ0vZQwFwJQ3ogLg=
+
 Name: help/system-config/nodeEnvironmentVariables_fr.html
 SHA-256-Digest: FSPb2+a5ZKJ6yBLCIZq/GhWh7Ooeeq44BYiGm5ROE/A=
 
-Name: images/24x24/disabled.gif
-SHA-256-Digest: AaAWR4/7/JEWS7E7ecGCUKHMI8Se88fejeYdlGIulvA=
-
 Name: WEB-INF/lib/slf4j-jdk14-1.7.7.jar
 SHA-256-Digest: NA8wxBpJKP1TaRO82vkqfgcKno7aKGOLLRGbDiTOiXs=
+
+Name: images/24x24/disabled.gif
+SHA-256-Digest: AaAWR4/7/JEWS7E7ecGCUKHMI8Se88fejeYdlGIulvA=
 
 Name: images/48x48/fingerprint.gif
 SHA-256-Digest: 9+JsJd11tKCO/RpMK3zIdx1CFxohkwyuwUZFVZGDAWs=
@@ -1222,20 +1060,14 @@ SHA-256-Digest: 9+JsJd11tKCO/RpMK3zIdx1CFxohkwyuwUZFVZGDAWs=
 Name: WEB-INF/lib/stapler-adjunct-codemirror-1.3.jar
 SHA-256-Digest: 4jrD+JelCY4IYdY63WPtCfvg93bP0xzPNErCPwKznEY=
 
-Name: help/security/ldap/userSearchBase_pt_BR.html
-SHA-256-Digest: nKD4Zwc0AK1xHre+GCKJDukfRt+OBgSNi47vCWf6Axc=
-
 Name: WEB-INF/plugins/mailer.hpi
-SHA-256-Digest: f7UMKAkc+lwiE4J8TYaZLbrlsx9nendkCvVm/3V+SPY=
-
-Name: help/security/legacy-auth-strategy_zh_CN.html
-SHA-256-Digest: s6ikZeKtYXD4QQgMnnhigQatJ6sFNUufQ5k0gAWjb9s=
+SHA-256-Digest: NHh8B+8zTc/hfgYlVeDF7fM+fDI6OXlJj4uVHDYysOI=
 
 Name: WEB-INF/lib/commons-io-2.4.jar
 SHA-256-Digest: hh8igxyiw/rkMosxq2sFc/inT/HREZWdDp19QoUcKVQ=
 
 Name: META-INF/maven/org.jenkins-ci.main/jenkins-war/pom.properties
-SHA-256-Digest: 2zTv5uqFKWPQ/qY+jlh067/DPXVUv6IgiBN9J47FT6U=
+SHA-256-Digest: fZFTFLut0DLrDKeqeZPu3BU3ACRUFq2CD+Fv5HYbDsE=
 
 Name: help/system-config/master-slave/description.html
 SHA-256-Digest: NUxqRWqAm3pYeey7UfW59zCtvCNMDiAZUG2tIgyxO0A=
@@ -1258,17 +1090,14 @@ SHA-256-Digest: GPWC176tIJ6BYXOCCY8nZubtyWfTKgODFTJJzwDk3A0=
 Name: images/24x24/clipboard.png
 SHA-256-Digest: FqE8tSfaYG/K7AcaNk8OsftdXHPtuRFXGwI2hMbcLeg=
 
-Name: images/24x24/attribute.png
-SHA-256-Digest: 1mBCeqi2YHZOcGfzFAiYTUIpBEgMlGro0hkCiCbngT8=
+Name: WEB-INF/lib/ant-launcher-1.8.4.jar
+SHA-256-Digest: 0ntp3CvzJUzFQcix5Of5XGOwDBZqhuyF0k7LV8baQGM=
 
 Name: images/48x48/disabled.gif
 SHA-256-Digest: Nco0iSTYtid4jZe1zsA/tWzOZZyl8OgNFErQsAFxUFI=
 
-Name: help/shell/shellexe.html
-SHA-256-Digest: VmplP+zsiLxjmwK2LNWBzVJTk+caQCCeq56eXFNm+Js=
-
-Name: help/project-config/fingerprint_fr.html
-SHA-256-Digest: KSYN3IztN80JIXjmq8wUNzm5Ad52bEkhRXFMqlS5gPM=
+Name: images/24x24/attribute.png
+SHA-256-Digest: 1mBCeqi2YHZOcGfzFAiYTUIpBEgMlGro0hkCiCbngT8=
 
 Name: images/32x32/setting.png
 SHA-256-Digest: V3BMwpp3IQuT8SKNcqnP3xjqH2w7kpAsVQektZPIdMA=
@@ -1291,11 +1120,11 @@ SHA-256-Digest: 2ICUh244UzMME3kRPDeU3tVSznxYgloF6wUqOGEBFfU=
 Name: images/24x24/star-gold.png
 SHA-256-Digest: 2e5Or+sipsEuhiuMF7x7/gSjaA39kk/njJickHlQMhg=
 
-Name: images/24x24/disabled.png
-SHA-256-Digest: 4PAG4BRcC2aYPo0K1NCuR6QFBjem5epYfUMP9gblzas=
-
 Name: WEB-INF/lib/asm5-5.0.1.jar
 SHA-256-Digest: 8JzUHt0bqOUrzIz1ls2RhHq7UG9mRNwGO0cp8qXRMNs=
+
+Name: images/24x24/disabled.png
+SHA-256-Digest: 4PAG4BRcC2aYPo0K1NCuR6QFBjem5epYfUMP9gblzas=
 
 Name: help/project-config/disable_de.html
 SHA-256-Digest: BPQ/1X6+CvY7zgFMJQ2t1bVf4qhkdxttQlizOdN4HEY=
@@ -1306,14 +1135,11 @@ SHA-256-Digest: bzosOPFtgrwiL+gamkVG4PozjJxT9IviG6797DWSRf0=
 Name: help/project-config/downstream_tr.html
 SHA-256-Digest: 9v7mK31OivXzKHTUtIcEbGEMP9Pts1nqFkFZ11UzOxA=
 
-Name: images/24x24/yellow.png
-SHA-256-Digest: e+cvvAkYW3WzDco+M+/EaCPMp+44/5jK2skSOtd/5eY=
-
 Name: help/system-config/master-slave/demand/inDemandDelay_fr.html
 SHA-256-Digest: xZZ1ckIqQottLiRZSZ/j9XhfDdlD1dnzD58GZfiOT4g=
 
-Name: help/tasks/aggregate-test/help_tr.html
-SHA-256-Digest: 9I4YuKQ83kPpBT+Gr+w0v7caRdG4dzZg4hk0SA38PoQ=
+Name: images/24x24/yellow.png
+SHA-256-Digest: e+cvvAkYW3WzDco+M+/EaCPMp+44/5jK2skSOtd/5eY=
 
 Name: images/48x48/fingerprint.png
 SHA-256-Digest: LDeVSrGAmBNWLc+WUvEj31V7Vz68x/Q9znIm2Ix8qu8=
@@ -1348,9 +1174,6 @@ SHA-256-Digest: tLTm7pRgonioa4p4sp7+q0QcBtrJxpkerUPk/lYbAAo=
 Name: help/project-config/batch_zh_TW.html
 SHA-256-Digest: soMKcvqovhZtmJz2Sfihh6vBdIW7rTx3TCqxrM6EN4Y=
 
-Name: help/security/container-realm_fr.html
-SHA-256-Digest: Eg+sYDQM+/KHBQNybiQYEa3leqfXSWFr2nqqUHg5Szg=
-
 Name: help/system-config/quietPeriod_tr.html
 SHA-256-Digest: PAR3F/bUb4Y75wZ98VU6D8kYHX94JDDu/ZFHU+h2584=
 
@@ -1360,11 +1183,11 @@ SHA-256-Digest: C7IUwiC348ZDMpVnjpW6cf61Ll+BehTdFYn0QA5ZX8Y=
 Name: images/16x16/edit-select-all.gif
 SHA-256-Digest: I1pkUTunSSEu7VcMDxcBoYczWXME2Ugu4hE0kWw0EtE=
 
-Name: help/system-config/homeDirectory_zh_TW.html
-SHA-256-Digest: 9lX0IjgI7UQDMf0JGxfQ/BAhLbwqbCeC7GOt5Y2oPpg=
-
 Name: help/tools/help-label_zh_TW.html
 SHA-256-Digest: GQlkhNriELEer8+8QrfaTJYEMWSAPVgvYQnMEy8wCsY=
+
+Name: help/system-config/homeDirectory_zh_TW.html
+SHA-256-Digest: 9lX0IjgI7UQDMf0JGxfQ/BAhLbwqbCeC7GOt5Y2oPpg=
 
 Name: images/16x16/disabled_anime.gif
 SHA-256-Digest: 9kNr1NzDXMfWfLhhmNNUbyFbSg+7z3S0s0V19PBFYCk=
@@ -1378,17 +1201,11 @@ SHA-256-Digest: wBs5ZP+VtW8W1SQeyGwoQqBLa9N2CWfs2nLD8WF1ZTg=
 Name: WEB-INF/lib/bridge-method-annotation-1.13.jar
 SHA-256-Digest: KWhYc2OxqTY5MtKRS7bw9u+JC7/U3QJx5EWJuOJiqfI=
 
-Name: help/security/private-realm/allow-signup_zh_CN.html
-SHA-256-Digest: 0GXEeD3waXwcPKQtTAgEgV/GBgmECv17s/R/ODX0BhY=
-
-Name: WEB-INF/lib/asm-tree-4.0.jar
-SHA-256-Digest: EUYRiv2/AINtLSQKDin6THvkFX4Dvj9qztOCWqavfJc=
-
 Name: help/project-config/downstream_fr.html
 SHA-256-Digest: ihoalltpGzqr32VUUgL/9vI3lsCuO1aAE8CcJYnJxY0=
 
-Name: help/system-config/cvs-browser_de.html
-SHA-256-Digest: roJkO/6THiNas9/YSFeSYFjHStc/3r43OrU3ALQn08s=
+Name: WEB-INF/lib/asm-tree-4.0.jar
+SHA-256-Digest: EUYRiv2/AINtLSQKDin6THvkFX4Dvj9qztOCWqavfJc=
 
 Name: help/system-config/master-slave/clock_zh_TW.html
 SHA-256-Digest: Z7BSLms1P67em7Hle0ewYYusBXbRUDdGQe+AuncLwAE=
@@ -1441,9 +1258,6 @@ SHA-256-Digest: oKwGa8JodX+01YrUhfNogbk2EXvqQtVAP/zZfgmXSaw=
 Name: help/project-config/scmCheckoutRetryCount_zh_CN.html
 SHA-256-Digest: AB9wN8MC3hkHV+rg8OR/uhFQUxGLP4eCBayvX6uYIG4=
 
-Name: help/security/ldap/userSearchFilter_pt_BR.html
-SHA-256-Digest: 35Bgs8td+R95kn3WpCrMEqsH3gOUr7hdR4tzpca9eDo=
-
 Name: scripts/yui/autocomplete/autocomplete-min.js
 SHA-256-Digest: LRK6TaALpHrfm+zaQUEuG8Y6UPK6oDVBu/ew6Pis0/0=
 
@@ -1462,20 +1276,14 @@ SHA-256-Digest: RyS4WaL6l1ShuKPyl2qOCFBfM1gUkgdLrCsZl1avh1M=
 Name: scripts/yui/editor/editor-debug.js
 SHA-256-Digest: 5qAgFPwPxF0rQdQNpK06jDOwoeZNb3YPydz6na5upwI=
 
+Name: WEB-INF/lib/libpam4j-1.8.jar
+SHA-256-Digest: z/KI4meeVgQ6E6AtGLHNjjLNcXoQ3KqCTGMlD14/fu4=
+
 Name: help/project-config/block-downstream-building_zh_TW.html
 SHA-256-Digest: dAe7kxjEE3evk9OfrkG/wiKAvTef1pNMkXBnkPPh0tU=
 
 Name: help/parameter/choice_zh_TW.html
 SHA-256-Digest: sJTvKFyT/xyXKULazC+28i8LfHNksLYSMglk63gGfEo=
-
-Name: help/security/no-authorization_tr.html
-SHA-256-Digest: 9U+/LU5QmqBW/kQpUw9V3mSYvWuO9oSgdx4n3wbQssk=
-
-Name: help/tasks/aggregate-test/help_pt_BR.html
-SHA-256-Digest: fnZIMq+1xtcMOmh92gZyvSc+OADNiDEoKYymqb11V3c=
-
-Name: help/tasks/aggregate-test/help_zh_TW.html
-SHA-256-Digest: Y1KEoWh7ORpVqiAJj46pIoCEBdlEEo63KmW2oxjPRqQ=
 
 Name: scripts/yui/menu/assets/skins/sam/menuitem_submenuindicator_disa
  bled.png
@@ -1491,23 +1299,20 @@ SHA-256-Digest: /V6mrk4k7lGj7nnO8xnzIoUZVrWM/QIqoYRGPhZNLr4=
 Name: images/48x48/computer.gif
 SHA-256-Digest: YkdWLeUkwGldhonbUXv0qe5V/mwqRp7g3jrPxquYyiE=
 
-Name: images/32x32/red_anime.gif
-SHA-256-Digest: 6sAnW0W0tCqFmuqbPsb3l2kUeU52GS8UQZ06qxwgwCY=
-
 Name: images/32x32/yellow.gif
 SHA-256-Digest: qlpa3gTMyLtM0ArDvWzGieySoKsm2DQXL0q83u4QNBc=
+
+Name: images/32x32/red_anime.gif
+SHA-256-Digest: 6sAnW0W0tCqFmuqbPsb3l2kUeU52GS8UQZ06qxwgwCY=
 
 Name: scripts/yui/storage/storage-min.js
 SHA-256-Digest: iJ/aFG2uhE9kEWU7QKG5WWA+KaWIQ0JD6p6JXjDldhc=
 
-Name: help/tasks/aggregate-test/manual-list_zh_TW.html
-SHA-256-Digest: es4r3ruBePbsYc8XW7bQj01BaASkh3uDTRyJIxgM/SU=
+Name: help/view-config/filter-executors_zh_TW.html
+SHA-256-Digest: OwC4c5c1coYlZrIEkR1W/hjEkhDowhzJtJ8SElEZ+Bs=
 
 Name: help/parameter/description_zh_TW.html
 SHA-256-Digest: NG1RYfMKD5r4Khl+SDkf26RTkh/Zu7q1QsX4LHRQdxA=
-
-Name: help/view-config/filter-executors_zh_TW.html
-SHA-256-Digest: OwC4c5c1coYlZrIEkR1W/hjEkhDowhzJtJ8SElEZ+Bs=
 
 Name: scripts/yui/editor/assets/skins/sam/simpleeditor.css
 SHA-256-Digest: hL6R5oWf9jfc6pcS7pKx8f1sFrxTt094RZFfrdn1CsQ=
@@ -1530,12 +1335,6 @@ SHA-256-Digest: 4HpmytbfiTIvNo1q1+d14UNgt3Azr6OlPiTl6de43fg=
 Name: help/project-config/disable.html
 SHA-256-Digest: rXjCUt6eBSLz36GLvqzfL+kaLoqnUXwLxwX0uTPuMqY=
 
-Name: help/security/ldap/rootDN_de.html
-SHA-256-Digest: X9j5XlnHrDA07VMJxUFb/PtXBlExReI6a+/FkJRrJp4=
-
-Name: help/security/full-control-once-logged-in_ja.html
-SHA-256-Digest: dB/NGoylK9XI9MJU8pgL451ZCLQWuqv2wGEwlpuv3BE=
-
 Name: Main$FileAndDescription.class
 SHA-256-Digest: MQGkuBbRg32vNxLPGWnmKjXcXDeQF+f1upJRcss72b0=
 
@@ -1545,32 +1344,20 @@ SHA-256-Digest: uVpPgpJT4Cd0AmOvMzJzIX4R8DLu1soH17vmBUAFon8=
 Name: images/24x24/clock_anime.gif
 SHA-256-Digest: 5qK6qfVQLcy5NHHsr+/xsKtzQRkSbDgUV3PuBy9UuSo=
 
-Name: help/tasks/junit/report_ru.html
-SHA-256-Digest: Imno+4Wmc4nIq3URz7wRBoBrSl6YnteLQ3tbxVid8cs=
-
 Name: images/48x48/refresh.png
 SHA-256-Digest: qu6aDW6jHZjTmu444GKa6t3j+f4fQjRKqMEE+ALHjCc=
-
-Name: help/security/private-realm_pt_BR.html
-SHA-256-Digest: OUCvAWwzypcv9eq7dzNYoW81c0xFCL0v7y5AtSBfRxE=
 
 Name: images/48x48/redo.gif
 SHA-256-Digest: Y/vlT+HW4ITetw1jnOBUDGT1YqW2wDbuIcDUnfu2ckI=
 
-Name: help/security/ldap/managerDN.html
-SHA-256-Digest: K5iusxowQCP8IYMFAQH+1s3ASsdii13JpkXv/4HwBro=
-
-Name: help/shell/shellexe_ja.html
-SHA-256-Digest: UlRA09GL5aMBcdqavyYpNrMUxyE/5VVSz96l/Uewb/Q=
-
 Name: help/system-config/master-slave/numExecutors_pt_BR.html
 SHA-256-Digest: rrcWKiPAZddgIEbqjxQ+A19xER5PcWlhVM6P+zhaCrc=
 
-Name: help/tools/tool-location-node-property.html
-SHA-256-Digest: puKJOEszCtVerCE+MTQ3w0CBnvj3FlnHaFboWZ01hl4=
-
 Name: help/view-config/statusFilter_zh_TW.html
 SHA-256-Digest: Ua9EafYWNPkqF+q4H9TAWwcB4ycIF7UV+tQdjhDU7oU=
+
+Name: help/tools/tool-location-node-property.html
+SHA-256-Digest: puKJOEszCtVerCE+MTQ3w0CBnvj3FlnHaFboWZ01hl4=
 
 Name: help/tasks/fingerprint/keepDependencies.html
 SHA-256-Digest: tDHhIstxFd9qWDsk1AoHg4pr9BNz7hh/H3cSd8UDwhg=
@@ -1602,11 +1389,11 @@ SHA-256-Digest: fuS1CU+hXWDgkq+/WuQn1BEARONMEfQ/Mxwx8wBBr7I=
 Name: help/parameter/boolean-default_de.html
 SHA-256-Digest: 3T3AwSQPuOmHDdybME216v7FTHRemkEmokIgpwtXo2A=
 
-Name: WEB-INF/lib/spring-aop-2.5.6.SEC03.jar
-SHA-256-Digest: b6P7IPRA6at7SvXGP7kqe6OhLKNqPvqsVPkdk4KQ/Pg=
-
 Name: help/parameter/description_fr.html
 SHA-256-Digest: cDNs4WnZMk88PBFQ7OcoTwsNsZWYwiRvEpCWhSUY+70=
+
+Name: WEB-INF/lib/spring-aop-2.5.6.SEC03.jar
+SHA-256-Digest: b6P7IPRA6at7SvXGP7kqe6OhLKNqPvqsVPkdk4KQ/Pg=
 
 Name: help/system-config/globalEnvironmentVariables.html
 SHA-256-Digest: GUSR5RLJr2yWl25PIO0AuWnC35BT98X9Ql1c132nt58=
@@ -1617,26 +1404,17 @@ SHA-256-Digest: pZoRUVL9uRLVRr2BJDBHK9HPaoZKxbB70dylfrLjUYI=
 Name: WEB-INF/lib/spring-core-2.5.6.SEC03.jar
 SHA-256-Digest: weJNeCLnswGhPK5kEafNyMBVsT0o8IM9EbybwkZSxj8=
 
-Name: help/security/ldap/managerDN_pt_BR.html
-SHA-256-Digest: iGy5f2gsqFZwQmPsRacwUSoofA9EVgBvt8CtewKOSsY=
-
 Name: help/project-config/defaultView.html
 SHA-256-Digest: isBlRYeqzQatUdCo3pe0J3g+/q8C/wmt+9r7L+V2rUY=
 
 Name: help/user/description_zh_TW.html
 SHA-256-Digest: +aTnr7d3wYmiQRvvep+sQgmdIF1Ldmxoy0tBfQAmuJk=
 
-Name: help/security/legacy-auth-strategy_pt_BR.html
-SHA-256-Digest: SizKe5n8qT8etDt/0ATCSOz3gq9QoeP2ytaJ6QtxR4M=
-
 Name: help/system-config/master-slave/availability_fr.html
 SHA-256-Digest: hBMm7mAsWNuA62UtzKr9fSNaFsNkjtvrpxlPm7MOQrA=
 
-Name: help/tasks/junit/report_de.html
-SHA-256-Digest: uOdYxxEBEuONFRPZO9ZeynebfenEQ/5RUjGtAQQrmYU=
-
 Name: WEB-INF/slave.jar
-SHA-256-Digest: NXAZN24YAa7ynESJcPNy7IzzcqQ8sB08zozDj+SU9Nk=
+SHA-256-Digest: b03KT12m8Kwvby6DhFED0Lli8VAOsNqLckbhzcBT1yA=
 
 Name: images/16x16/stop.png
 SHA-256-Digest: 6jw4zBFtbxyVBafKBpnh7FZYoQJrywVslFFpMk6/Aro=
@@ -1644,20 +1422,11 @@ SHA-256-Digest: 6jw4zBFtbxyVBafKBpnh7FZYoQJrywVslFFpMk6/Aro=
 Name: images/16x16/save.gif
 SHA-256-Digest: wv2vzi50KtRZLyqAqRzb9FOcGtkVeKENJlmzwuzigTc=
 
-Name: help/security/ldap/server_ru.html
-SHA-256-Digest: xZxGX1OIQtE6pNBsSm/slgFfAi6gPQqXBKNhJL2q1CI=
-
 Name: images/24x24/health-20to39.gif
 SHA-256-Digest: BC0aXXVNel0mNu4CZd58EPTPLWoAJ8+XyfhomFjY6DI=
 
 Name: WEB-INF/plugins/ldap.hpi
 SHA-256-Digest: m72tF5OzxPHg0txwSZVySiOMFYvCIMbycg98tr8mWlc=
-
-Name: help/security/ldap/managerDN_de.html
-SHA-256-Digest: ymdUTZmkepazuEBesD/cqZmBBNQNBBnyv2EhJzLofMU=
-
-Name: help/tasks/junit/report_zh_TW.html
-SHA-256-Digest: +1GXOTEsTBGdM9w7P1SBSJiYIc9pj+5cdI1rq3uHH+4=
 
 Name: images/16x16/star.gif
 SHA-256-Digest: UTvIqc9K64/yvEYO9aqOP8uIMJPW7nIPUBk4OOmFSC4=
@@ -1665,11 +1434,11 @@ SHA-256-Digest: UTvIqc9K64/yvEYO9aqOP8uIMJPW7nIPUBk4OOmFSC4=
 Name: help/tasks/fingerprint/keepDependencies_de.html
 SHA-256-Digest: 2UABdGGi16W0r5GpKbTwxCJpEGN3rcL/AGd/G9uo+eU=
 
-Name: help/LogRecorder/logger.html
-SHA-256-Digest: 4JIp8/P5opuCPBPP3lMMIdy4M43+eVAbPW9Nkg4t0YE=
-
 Name: help/tools/tool-location-node-property_ja.html
 SHA-256-Digest: bQCUbM24KviixXkTHB2sqmeJsmdS+HXj8JYPebuD4vg=
+
+Name: help/LogRecorder/logger.html
+SHA-256-Digest: 4JIp8/P5opuCPBPP3lMMIdy4M43+eVAbPW9Nkg4t0YE=
 
 Name: help/parameter/choice_de.html
 SHA-256-Digest: +WXrdc4hjpCc3xV+gRh5xkTxJVzBNGs4ITiTsjcmZo0=
@@ -1686,14 +1455,11 @@ SHA-256-Digest: opKFpk+4qEsttT15W8CF8H1ysnuqbL/zAVcE5y9o0K8=
 Name: scripts/yui/assets/skins/sam/menu-button-arrow.png
 SHA-256-Digest: rF043S5Bd59rvF7TEu2PoXyrtgWEhkXeq1qQMRvdKNQ=
 
-Name: help/tasks/aggregate-test/manual-list_ja.html
-SHA-256-Digest: qMvvEoKKM39ojzR3xiCtmfQwIlP8hqpq0KSCO1uIPgI=
+Name: WEB-INF/hudson
+SHA-256-Digest: DDCCqiDV2cl0IhHXGOSHY+NLav59CdPBLB3FPyfNX0c=
 
 Name: images/spinner.gif
 SHA-256-Digest: Ch1P5GGpxgQskKfy5rvJ9KkYCvTZXg7Y7Utsr+Pp8Js=
-
-Name: WEB-INF/hudson
-SHA-256-Digest: DDCCqiDV2cl0IhHXGOSHY+NLav59CdPBLB3FPyfNX0c=
 
 Name: scripts/yui/button/assets/skins/sam/split-button-arrow-disabled.
  png
@@ -1705,14 +1471,11 @@ SHA-256-Digest: SAcDJvv0kKIAI0eBX03PYMFhkd3L48E937eS4TIhxkY=
 Name: scripts/yui/treeview/treeview-debug.js
 SHA-256-Digest: pa0BhAmpPz8CMSRSED9+iN1K5g3/xmo9w7T1vrkVzL4=
 
+Name: images/jenkins-redbg.png
+SHA-256-Digest: Lw0+SHAtYEX0iajlIZy8/hSxb2c20OROEobErXRLadg=
+
 Name: images/24x24/aborted.png
 SHA-256-Digest: 4sKNOSP3sUJ9YLZrOjV9ELG83CtKlkNgXtMjTmanu0Y=
-
-Name: help/security/ldap/managerPassword_de.html
-SHA-256-Digest: RdGkkHjOFuVm/jxMKrAcp/j2fSGIE7ejjw7+TlKKcIc=
-
-Name: help/security/full-control-once-logged-in_pt_BR.html
-SHA-256-Digest: HRDDWfN5MGKRf7mP9u2hxo/wu/QTJRlaT1GlK1bMJ58=
 
 Name: images/16x16/computer.png
 SHA-256-Digest: zStJ8k+B++abIp9kD1SL2/Ro8eO3dMXFeOtaez/4kZw=
@@ -1750,11 +1513,11 @@ SHA-256-Digest: JbzOQUuDGUNwdvxScXBILBKSSRVTZEV29Ek/2z1tdQE=
 Name: JNLPMain.class
 SHA-256-Digest: Dv/3dqif43gLZEQRW+Jggpf7N9Y3oCee2nx/XmA/dRw=
 
-Name: WEB-INF/lib/jbcrypt-0.3m.jar
-SHA-256-Digest: CD8xX8fx2A4460HGIbXOKbz/qJeSOGngJGNIGZGRp3Q=
-
 Name: help/system-config/homeDirectory_fr.html
 SHA-256-Digest: j+nvPWktHXeJOCVyy9c1pVC3tha80DmG67rW/25dKEA=
+
+Name: WEB-INF/lib/jbcrypt-0.3m.jar
+SHA-256-Digest: CD8xX8fx2A4460HGIbXOKbz/qJeSOGngJGNIGZGRp3Q=
 
 Name: images/24x24/redo.gif
 SHA-256-Digest: UtC7/QpHnpjF9BwmEPoIRTnxURFVedEl1X7pgsrrsew=
@@ -1771,26 +1534,17 @@ SHA-256-Digest: TNormv1heYgkNxkHPx7wzzNNeh6ybN3ERE/VRvJOV8k=
 Name: scripts/yui/button/assets/skins/sam/menu-button-arrow.png
 SHA-256-Digest: c8zF4GYgbEkgK6DxnVHm4bWI7zHyBwNPxoGGXuvX+OU=
 
-Name: help/system-config/master-slave/description_fr.html
-SHA-256-Digest: f21KshhG8YhSol3LdPXFAkP7/Db1Y1kVffvxTsHWPeQ=
-
 Name: help/parameter/file-name_de.html
 SHA-256-Digest: 6gvQ/AKR3hAFSmMELoOMhb6ils70PtnOugBvzobFbUs=
+
+Name: help/system-config/master-slave/description_fr.html
+SHA-256-Digest: f21KshhG8YhSol3LdPXFAkP7/Db1Y1kVffvxTsHWPeQ=
 
 Name: images/32x32/blue.gif
 SHA-256-Digest: Gm5gZjHaNZGzzHSbhexJ33wykdSIRfiTULCleBrb4UA=
 
-Name: help/security/ldap/server_tr.html
-SHA-256-Digest: GS+noxoaV6RJaED1sgVG9NhVruPC7FYZxyzKxXz4UCw=
-
-Name: help/tasks/maven/properties_fr.html
-SHA-256-Digest: jeJygVRGPh7ESIfblbcr0dsJyT8EFz1QXEyOkv/RLK4=
-
 Name: scripts/yui/assets/skins/sam/split-button-arrow-active.png
 SHA-256-Digest: pnEAxopUsj7CGuCQsCOJMH/GGvqY/6Gc4nGPbY3SfgA=
-
-Name: WEB-INF/lib/remoting-2.46.jar
-SHA-256-Digest: icFbrio0dHdlFU1fzEMyeps3EGMI3nP4zFxlpHdscvE=
 
 Name: scripts/yui/assets/skins/sam/split-button-arrow.png
 SHA-256-Digest: bu8ve4sJV29bt4dc/TG2I7Mfxx60B4DK6fF4JaYCQS0=
@@ -1798,11 +1552,11 @@ SHA-256-Digest: bu8ve4sJV29bt4dc/TG2I7Mfxx60B4DK6fF4JaYCQS0=
 Name: images/16x16/gear2.png
 SHA-256-Digest: VEIzU2jBwPI0LwoD3DoXqZTKXm6BOei/DBs+5KMwVuc=
 
-Name: help/system-config/master-slave/numExecutors_de.html
-SHA-256-Digest: FJwCemwb9nQC7FYQsB4QjbWn+AM0NSD6knCnwAwamuk=
-
 Name: help/project-config/downstream_de.html
 SHA-256-Digest: zHKu5DJWjapBRTP9TVjrGNmgOgiEXcHmw5zfqTNEPtY=
+
+Name: help/system-config/master-slave/numExecutors_de.html
+SHA-256-Digest: FJwCemwb9nQC7FYQsB4QjbWn+AM0NSD6knCnwAwamuk=
 
 Name: scripts/yui/assets/skins/sam/dt-arrow-dn.png
 SHA-256-Digest: KbdgmCsNgV3zfr/1Sp75QcNizXfvJPHDH77WsTpZa+8=
@@ -1816,26 +1570,23 @@ SHA-256-Digest: ++b98cvG1jsCqXGcPtyR/l3l13xHiGhI/n6fOHcSA9E=
 Name: images/16x16/package.png
 SHA-256-Digest: Ym2hQmDtPaQIDlewcXjJ4InFkcnQlkm/3VHKMB+rbOw=
 
-Name: help/security/ldap/userSearchFilter_ru.html
-SHA-256-Digest: cv8IHYOVhWrn9cDknbb++bZ/txlUdvvKxsO9fWTA/ok=
-
-Name: help/security/no-authorization.html
-SHA-256-Digest: e7VVSzUd+uGgnosdG/8XGBm6C7oHauHtbGG/tJd6C7M=
-
 Name: help/project-config/triggerRemotely_tr.html
 SHA-256-Digest: 2lXTGCe2H3xOnp9kjsN1O04/EsjHE690CFmeowq2cuk=
-
-Name: help/system-config/master-slave/usage_zh_TW.html
-SHA-256-Digest: 0zvzTQXJLAhNmiFdF0Rjo3M58kyC2rvuPE7H236slEQ=
 
 Name: dc-license.txt
 SHA-256-Digest: rD/fil3mQwJMmwEaHIcbbI7FCPbYAKwIm2wxHDlDrhQ=
 
-Name: help/project-config/defaultView_ja.html
-SHA-256-Digest: Aw+0VOzY1Bkem3IIFdip4D0Pii7QxwYxVaQseLJd2OY=
+Name: help/system-config/master-slave/usage_zh_TW.html
+SHA-256-Digest: 0zvzTQXJLAhNmiFdF0Rjo3M58kyC2rvuPE7H236slEQ=
+
+Name: scripts/respond.js
+SHA-256-Digest: zHSjWGVDmMmSQxH0Re6I6H46KMEyWlly3YRIVlbOkx0=
 
 Name: help/project-config/scmCheckoutRetryCount.html
 SHA-256-Digest: fokPy3J0oF9kl4mpgv835F02jdiPBcgcGeNCnV+jLas=
+
+Name: help/project-config/defaultView_ja.html
+SHA-256-Digest: Aw+0VOzY1Bkem3IIFdip4D0Pii7QxwYxVaQseLJd2OY=
 
 Name: images/48x48/setting.gif
 SHA-256-Digest: 9nZlTedSxmhw1G08e8K6GS2Hp3cbLmTrPOBsvXxxBOg=
@@ -1843,14 +1594,11 @@ SHA-256-Digest: 9nZlTedSxmhw1G08e8K6GS2Hp3cbLmTrPOBsvXxxBOg=
 Name: images/16x16/grey_anime.gif
 SHA-256-Digest: e7yBKIMkDntBPKBejxo7vxwDkYNuCpoyy4huSQNrSY0=
 
-Name: help/tasks/aggregate-test/help_fr.html
-SHA-256-Digest: ajNEIh4Azh+VjAhh7KiEKdmkm2adlgI8Odf1Vv5m1lo=
-
 Name: images/16x16/user.gif
 SHA-256-Digest: pZfR/AGVTjhpaQFjaTQ15XEkKZTUvt92OuZleBDWsB8=
 
 Name: WEB-INF/plugins/maven-plugin.hpi
-SHA-256-Digest: muTvpuRi1ofFFUw/DW7cX2fbR5l1mzYvM/8DIw0Ql8w=
+SHA-256-Digest: +sfD8WxBANEoH4nm1DFO5GYnaLtO81sig/Eu729alrk=
 
 Name: images/16x16/notepad.gif
 SHA-256-Digest: MV9R4RO/8ZiCGSAk2SedmnMSezzW6O6VYsT5fL/vPvo=
@@ -1860,9 +1608,6 @@ SHA-256-Digest: A4JSy+PvDcpnCDQF17gJvuCf6n8ScMHACpz0O+YhSjs=
 
 Name: images/32x32/attribute.png
 SHA-256-Digest: 6tu39F4EyXy2hflbDAgl6CQ6mrfKdWWtcJx5uAZeEw0=
-
-Name: help/project-config/fingerprint_zh_TW.html
-SHA-256-Digest: 4++t9q6jkW4lyP5d0B1ZeGo89vs51Kjz42zCnRId8oQ=
 
 Name: help/project-config/downstream_pt_BR.html
 SHA-256-Digest: U627ybcUE62zapbBaMNa8bkLH5vktprjX+/9ooVlDYk=
@@ -1885,29 +1630,23 @@ SHA-256-Digest: Kd1gDNcEDAhy/PGAnn8o62SSzC6uxtgFSvvAGnUEtgU=
 Name: images/32x32/health-20to39.gif
 SHA-256-Digest: ibtn/DR+D0XjGONekgH0okMqQOx2pZsv2lfTNTaHJPQ=
 
-Name: help/security/full-control-once-logged-in_zh_CN.html
-SHA-256-Digest: LPmDpeWOEeMDs6yjZ4/bDuLvjvKn0qj4fJTAe7BQIBY=
-
 Name: help/view-config/includeregex_ru.html
 SHA-256-Digest: UNmlXUGRSXqkYjcNkVjQ3jb6CqVW+y7RKebf7oOgtv0=
-
-Name: WEB-INF/lib/jnr-x86asm-1.0.2.jar
-SHA-256-Digest: MdsX0vr474ZbkReIZqzkQxZ/9XLw6WMuVEGdgwl01Dk=
-
-Name: help/project-config/fingerprint_ja.html
-SHA-256-Digest: /VRmQLd44jio6pIAM2xSnFastCs8stCWVJeQxHOWvJc=
 
 Name: scripts/yui/element/element-min.js
 SHA-256-Digest: mkTeZAcy7Xfq+qLXlABy8KTcX/mcx8UZk+Vd/8kvN5s=
 
+Name: WEB-INF/lib/jnr-x86asm-1.0.2.jar
+SHA-256-Digest: MdsX0vr474ZbkReIZqzkQxZ/9XLw6WMuVEGdgwl01Dk=
+
 Name: WEB-INF/lib/asm-commons-4.0.jar
 SHA-256-Digest: +T4NpP891atmrAcswC+jfBT4pYW+Ee/8z6KoJe/tLSU=
 
+Name: WEB-INF/jenkins-cli.jar
+SHA-256-Digest: AonURkY4Wz+nsA4ODCY6AIcbYCW7Ebv2wBcU8hPZT8I=
+
 Name: WEB-INF/lib/slf4j-api-1.7.7.jar
 SHA-256-Digest: TqVHWqftVCCwiJKmC5/g7BfPYjYkQeeaIAty/TUgt6c=
-
-Name: WEB-INF/jenkins-cli.jar
-SHA-256-Digest: dImtJY+SK1jOnAOcgGBrEcat6J3vsMM5nWEQEyziHqo=
 
 Name: scripts/yui/treeview/assets/skins/sam/treeview.css
 SHA-256-Digest: rE2yiM3XgV8y52fMqRHppjd8KsndGuHlcJeazKdywP8=
@@ -1927,14 +1666,8 @@ SHA-256-Digest: hxsOIuqzdpYBi29cSzF2M6WAjVLlwUsTi3buo2gTtgU=
 Name: images/16x16/aborted_anime.gif
 SHA-256-Digest: MCin1PC632oMrZERL6lyQPg5479E3PYA5tb7Im8F85g=
 
-Name: help/tasks/aggregate-test/help_nl.html
-SHA-256-Digest: h52DnOQbXw/3Inrm2mGMuQ23Ks4yZjBlEY/62BwJXWQ=
-
 Name: images/24x24/edit-delete.png
 SHA-256-Digest: lWH4HWhJ37ybtqf8AhZXmYZmmpqx/vJJSZXL2XtrvLI=
-
-Name: help/security/ldap/userSearchBase.html
-SHA-256-Digest: UpvN6gL47xZHIqMEEzkJSMQYA2lIxrhDWDnhFkRnIw0=
 
 Name: help/system-config/systemMessage_tr.html
 SHA-256-Digest: zalNochPqq90iGrhGC4syPMb+eF6be6xX9uvcLCLgbY=
@@ -1954,9 +1687,6 @@ SHA-256-Digest: D4JCbTexANX5XU73/n/QFym9lEIyZgx6MBv9G6u5In0=
 Name: images/48x48/document.png
 SHA-256-Digest: xr3uRvy/9J265c8kl8GfNCZqjr/PQ9Qz91QAOWVQQMM=
 
-Name: help/security/ldap/server_de.html
-SHA-256-Digest: RIrKWPsZz3v99pqqNOPU68VJcu9xsoT8M8U/jQ8l2Eg=
-
 Name: help/project-config/defaultView_zh_TW.html
 SHA-256-Digest: jbm1w6Fg9j0M1TzuKAPgUlRDPU3IRIbuwhMUfnAC1yc=
 
@@ -1969,9 +1699,6 @@ SHA-256-Digest: qODST7mgU7WFqXnk0xeHXZDQvnnKNfcwNEjVVKEyK4Q=
 Name: images/16x16/document_delete.png
 SHA-256-Digest: VggYyph+Hy5B4Ufgh/lgEC6rmpuSklMTCKQ2trddA+I=
 
-Name: help/shell/shellexe_fr.html
-SHA-256-Digest: eJas0Ahqu7h6FrQa924iWjFW1DjZYzOXW3v4xT5dMjE=
-
 Name: help/system-config/master-slave/jnlp-tunnel_zh_TW.html
 SHA-256-Digest: MFW+E81Crkxm4cfwglv0WdYu/49SGRTzNAg4Ddk40e0=
 
@@ -1981,11 +1708,11 @@ SHA-256-Digest: sL+/d0pE7AOQkU47onjixGk81WPYJR8420W9ETI8YiU=
 Name: images/24x24/health-60to79.png
 SHA-256-Digest: 04MjB/2vCwNZnfcqflcDS1BgT/tLDRbnNHRJif/Iz0s=
 
-Name: WEB-INF/lib/sshd-1.6.jar
-SHA-256-Digest: QONPXB6bmF+7hA3lMISgIYuRu4i7hXrNlqGIGapYyZk=
-
 Name: help/view-config/includeregex_fr.html
 SHA-256-Digest: R7Pa6ZgXgOje2ykWtD6zgeay2Yq4cM3LFhzSGcPmLFc=
+
+Name: WEB-INF/lib/sshd-1.6.jar
+SHA-256-Digest: QONPXB6bmF+7hA3lMISgIYuRu4i7hXrNlqGIGapYyZk=
 
 Name: images/24x24/orange-square.png
 SHA-256-Digest: yvtUZ3FyIxJ8YRHq9nYe+ZU/mejU090VBdxtuAWzdxY=
@@ -2032,20 +1759,17 @@ SHA-256-Digest: C9ocpFh7wOE15g+neAlgXoh8sNStjeT95KsyC6WgZoY=
 Name: help/parameter/boolean_ja.html
 SHA-256-Digest: M9/0WHhmNzpSMd2XGpOf4Yz3L8X8N+w2aUcgLfrBXig=
 
-Name: help/security/container-realm_ru.html
-SHA-256-Digest: n9Jc+Ttz05+2Hy+DR2ZVXOx9lhorPLKShh5Fy/d3P24=
-
 Name: images/16x16/nobuilt_anime.gif
 SHA-256-Digest: 5jyRgM3A9x+fly3yT6uUBhlPVZ2mqDQzGT+vk3802vk=
 
 Name: WEB-INF/lib/xpp3-1.1.4c.jar
 SHA-256-Digest: ivujajMCB11YaDHk/HcCTYiV7ezRgMGK8C/9j/c0Lbg=
 
-Name: WEB-INF/lib/commons-jelly-tags-xml-1.1.jar
-SHA-256-Digest: 7JNonQJTn3EUrta6v5mImzMzDbaYDLR9NsD/8aa9s/4=
-
 Name: help/parameter/string-default_fr.html
 SHA-256-Digest: EGFmGU/xC50ToSSrmzZHjLykpEr6/Zqsy0vv5vKfSPQ=
+
+Name: WEB-INF/lib/commons-jelly-tags-xml-1.1.jar
+SHA-256-Digest: 7JNonQJTn3EUrta6v5mImzMzDbaYDLR9NsD/8aa9s/4=
 
 Name: images/24x24/plugin.png
 SHA-256-Digest: b32ptx7nY/+4moVywAXE9pfxCu1NX2xOCOsJXjVqzP4=
@@ -2055,12 +1779,6 @@ SHA-256-Digest: 5JDtFKT1bTsr7E634ycGKpcatQFy6PRBhBJzi6lxbfE=
 
 Name: images/32x32/disabled_anime.gif
 SHA-256-Digest: 57kqsQ9/statarq3+xUPFnWpZKHX2jnu7sf7kdAAwo0=
-
-Name: help/tasks/aggregate-test/help.html
-SHA-256-Digest: EarKZ3Yi0tpCSZVSocDV6SFJ/1INN14hFjfVuAPGy6o=
-
-Name: help/security/ldap/userSearchFilter_ja.html
-SHA-256-Digest: 6RrOCfQ7Ll8LxGgbqua/Me4eelJrZv0RjSDuaqA9Nhg=
 
 Name: help/system-config/quietPeriod_fr.html
 SHA-256-Digest: KlUeCJpDUPiUKX5Ih2LE6YgWVqLfDLKla4MHdqa8F6I=
@@ -2077,8 +1795,8 @@ SHA-256-Digest: lCWtwtNtXQi4bYt+pdPKuw08NmNpeoPnjI+i0n1zKSw=
 Name: images/16x16/warning.gif
 SHA-256-Digest: BH9CVEU/Fgv84mEW5Bil6gZm+0pb8A0px2PQUGcxq2Q=
 
-Name: help/tasks/aggregate-test/manual-list.html
-SHA-256-Digest: NKe7IR66SbBlOkZQ1nDYRhq9hXZVwTyXH4S4CTOLEMw=
+Name: scripts/msie.js
+SHA-256-Digest: ckd60xEmdRU8YiOJ0RsGpATw5On8zt2GRrmTg2tW1A8=
 
 Name: help/parameter/run_de.html
 SHA-256-Digest: GsF3NmUjQwF3YXU6efbIeyYsw5obTQOTFtvcAbqviU0=
@@ -2086,20 +1804,17 @@ SHA-256-Digest: GsF3NmUjQwF3YXU6efbIeyYsw5obTQOTFtvcAbqviU0=
 Name: images/16x16/secure.png
 SHA-256-Digest: XdPs/+69og+9BnFDiBCWVgNIOy21GtehtQbEPczgGPI=
 
-Name: help/security/legacy-auth-strategy_ja.html
-SHA-256-Digest: F5qK1SxZgyfp6J2UdQzlHKM8Pme3O7hu7oKEpfMYPbE=
-
 Name: scripts/yui/datasource/datasource-min.js
 SHA-256-Digest: Q2HgZYPM4mgVnOqD0dt+SOA+a5oVW+ebvLqA532BZj0=
 
 Name: scripts/yui/logger/logger-min.js
 SHA-256-Digest: DFhaptvEaXRSUMN90Y+sJi4RhSVLgSf0OHhlRezejBw=
 
-Name: WEB-INF/lib/stapler-adjunct-timeline-1.4.jar
-SHA-256-Digest: hG69WSo8MjqlszTM06MssbCCQyotXF/MFUBA8dxKUOs=
-
 Name: help/system-config/master-slave/demand/inDemandDelay_zh_TW.html
 SHA-256-Digest: TJRS/GiCWjmX/r+wOFdFvirUrkL0bMaJmQLDAiJOlmg=
+
+Name: WEB-INF/lib/stapler-adjunct-timeline-1.4.jar
+SHA-256-Digest: hG69WSo8MjqlszTM06MssbCCQyotXF/MFUBA8dxKUOs=
 
 Name: images/48x48/star-gold.png
 SHA-256-Digest: XGrPivgaG/WfmmCvXvABNBthIZ72xIPL4xlytTlX3g8=
@@ -2110,11 +1825,8 @@ SHA-256-Digest: no9pL2ZrO+8c5GCj6t0tN4CvQKjfquESQEOWJdg0y7w=
 Name: images/48x48/package.png
 SHA-256-Digest: SNzte9Ct1oWko7jK6GzVF4ekabDjqV+i81+QhMreW8Y=
 
-Name: help/security/ldap/rootDN_ru.html
-SHA-256-Digest: V1tLbhiC26bGBkCPEw5wSVLRbBTk372rYn7XcxknnKo=
-
 Name: WEB-INF/plugins/ssh-credentials.hpi
-SHA-256-Digest: k2kAZK6Gam7i4z6jJ5+uGLLpjyi/agBTKR2t79SLvUM=
+SHA-256-Digest: PWR2eZTHrpsVIsZ1ckMS1CDfDK5B7C6e6+RW7W90Eo8=
 
 Name: help/system-config/nodeEnvironmentVariables_de.html
 SHA-256-Digest: E6rCt/WtyaTfmIvBNL0Ieuvnhf1gjQOaJXMBRcHFsTQ=
@@ -2127,9 +1839,6 @@ SHA-256-Digest: QAYaiy/4xzJPXoZuI3+KcOXdep4oY+PNi3V0hufLkAk=
 
 Name: help/project-config/log-rotation.html
 SHA-256-Digest: TvchYtVzpcGiNmPhcYf0A9AhX4dpXUK2J6FtPcZDt5Y=
-
-Name: WEB-INF/lib/cli-1.565.3.jar
-SHA-256-Digest: 95qxv+m+3i+BcL9LJ0MMoNCQxjJKSqq5j7XATkwWo4k=
 
 Name: scripts/yui/container/assets/blck16_1.gif
 SHA-256-Digest: cRAjduuBRwtc0/AxlLyIi4SrNgMxBlhtl9hSGOCEf6c=
@@ -2170,9 +1879,6 @@ SHA-256-Digest: /lFBUX9r3DLtfKF1qImp5rV/lMkT7rB8a+1zd5t8+A8=
 Name: help/system-config/defaultJobNamingStrategy_zh_TW.html
 SHA-256-Digest: ZpP0y2yvKvxi/oLvi2qwSf3JZc/Wiydf/FXsae/kW8o=
 
-Name: help/security/full-control-once-logged-in_tr.html
-SHA-256-Digest: /rCYJzHdJFyuMoSLUC9w3xVFgvkQCpQ4hlfTEVkM3/g=
-
 Name: WEB-INF/lib/windows-package-checker-1.0.jar
 SHA-256-Digest: OZYGiBKVgPrcETEOUjUII8/cmuviKz3CyIxWVtZrzO8=
 
@@ -2185,11 +1891,8 @@ SHA-256-Digest: Ha832kbS6Zj4cJxNMiEenecMMzamodxiEN0ycFnN+Dw=
 Name: WEB-INF/lib/trilead-putty-extension-1.2.jar
 SHA-256-Digest: HAqFxcCRPhLq9iq6Wle8QDZa/EQtTX5z8vWAJZZ275Q=
 
-Name: help/tasks/maven/properties_zh_TW.html
-SHA-256-Digest: 8sgyv9hlABZ7CnR52phbvcNfXU+UgwlbCs0v02HOr/E=
-
-Name: help/tasks/maven/properties.html
-SHA-256-Digest: j4OZPy0P6x/NFKBPEhHthmHfGQmYo+FtlFaUgs7NrnY=
+Name: WEB-INF/lib/stapler-groovy-1.233.jar
+SHA-256-Digest: zzTf4CwMSYMsHpNtf5vl6T2e9YEG5MgFRHmV2TkquWg=
 
 Name: help/project-config/custom-workspace_fr.html
 SHA-256-Digest: 3BSx7+c78qu2PVBHgg0yvFKeix56wNlnatCeZl4fVu4=
@@ -2203,20 +1906,17 @@ SHA-256-Digest: K9S8C3HTjWOpiwTIZXP7vVI9J604162/a7kAIyTbDFk=
 Name: scripts/yui/assets/skins/sam/editor-sprite.gif
 SHA-256-Digest: AOl5ykJ7Z0jCnzHxxpu6GMRoFgVZfOzjtP+d4hnzxZ0=
 
-Name: help/security/no-authorization_zh_TW.html
-SHA-256-Digest: nbmIXXM90Yntguxfh7ZKtRpc2gbx+uojEuVIENs1B4A=
-
 Name: WEB-INF/lib/jzlib-1.1.3-kohsuke-1.jar
 SHA-256-Digest: lp24YjWC/D9xneUXuU4euRSPdbiJHBrpyYVB67sQLIg=
 
 Name: images/24x24/clock.png
 SHA-256-Digest: +XWelX96BfAdV7lbIrDKedtFCRl+kiaIyki3TurKrb4=
 
-Name: WEB-INF/lib/mina-core-2.0.5.jar
-SHA-256-Digest: gcPVMxgOsFcU4XWnPPR2KxQ2+94pKHZEcdnuVrxE7As=
-
 Name: help/LogRecorder/name_de.html
 SHA-256-Digest: Pu+aW87NCE4FaNVB5chwftV7hmTW++HOh607hbE2VF8=
+
+Name: WEB-INF/lib/mina-core-2.0.5.jar
+SHA-256-Digest: gcPVMxgOsFcU4XWnPPR2KxQ2+94pKHZEcdnuVrxE7As=
 
 Name: images/textarea-handle.gif
 SHA-256-Digest: yfvSJ+mnshJDy8+DumH3sWhzqKwuwA0GqjygT6HiRVs=
@@ -2227,9 +1927,6 @@ SHA-256-Digest: F4J5u7XdMAcfGPEjfnwRK6UblDbZgIhBoLFW35Fnxxg=
 Name: help/LogRecorder/logger_zh_TW.html
 SHA-256-Digest: kj9CMi1vQhsiFaq8Ri1KecdUIbGbAFAsbHjwj7hCMpg=
 
-Name: WEB-INF/lib/stapler-jelly-1.229.jar
-SHA-256-Digest: D19Xv9r/AyhoPjs1Pm4oU0FSrsO1+GgHmWc+tWq+tlc=
-
 Name: images/24x24/grey.png
 SHA-256-Digest: dTHrqK45Tc9J3j9n8iwzD/icR0gG9+ahAdkzo3JXnBs=
 
@@ -2238,9 +1935,6 @@ SHA-256-Digest: WbgyW/Po8uMZUJXKNDZ7ocz3I/Cw2dQewb2EqPcWbhU=
 
 Name: WEB-INF/lib/spring-jdbc-1.2.9.jar
 SHA-256-Digest: ezqGt+8SQu8F9cURIHkpR/IyxvPWcd9cWmCc5omOBTI=
-
-Name: help/project-config/javadoc-keep-all_ja.html
-SHA-256-Digest: 9aW2i/lc2eBV8fqCETcwFBKNH8ZKg7yEZaLSaNtPvAw=
 
 Name: images/headless.png
 SHA-256-Digest: FiJcw118U/b8W69/U8dVnzwLprau13wP9BZxFPgw9Ek=
@@ -2254,20 +1948,17 @@ SHA-256-Digest: E6neQKDsrnI2HxEOSjHtxY/tIX6+L9ozBhfjh+xhhyM=
 Name: help/project-config/log-rotation_de.html
 SHA-256-Digest: Yc5Ml98YlTfpo3372Fz6BerqVhiFDTG8oeTc8lnYTGU=
 
-Name: help/tasks/aggregate-test/auto-aggregate_nl.html
-SHA-256-Digest: +BT320sL0dfpwlk8iyH8V+4Sozd/7yx3UkJEKJMpyfE=
-
 Name: images/16x16/search.png
 SHA-256-Digest: sh8ah3GyKidnYHP8hyrTO0fyQ4WnXq1Lmg1cvSzKl0Q=
 
 Name: images/24x24/redo.png
 SHA-256-Digest: iB02fQkTpLL/4Dwj7eaKEUofarUP3w5Wnp3OAF/1Vm4=
 
-Name: help/system-config/master-slave/availability_de.html
-SHA-256-Digest: M/BZbgcTzVCRM2QvgffflWs6327JEXcjzmPZWcwm91M=
-
 Name: favicon.ico
 SHA-256-Digest: o0EyoZIh58EDg9UkqKOeHTnhgUHqEXlnc4awuTB52YY=
+
+Name: help/system-config/master-slave/availability_de.html
+SHA-256-Digest: M/BZbgcTzVCRM2QvgffflWs6327JEXcjzmPZWcwm91M=
 
 Name: scripts/yui/button/assets/skins/sam/split-button-arrow-hover.png
 SHA-256-Digest: 5tsruvwUG5sSQSxgbub9uPKySjl1bJ1DtWHJH6qjE4Y=
@@ -2287,17 +1978,14 @@ SHA-256-Digest: Ot/+lPJGF2n2LmmPnV32RU7f7FwFWvQg1xbsj87DNWI=
 Name: scripts/yui/menu/assets/menu_up_arrow_disabled.png
 SHA-256-Digest: 2q5x7VoaD7aOHzYue4I671rurJkIzjslrJFY9AsFoe0=
 
-Name: help/security/ldap/userSearchBase_fr.html
-SHA-256-Digest: t7HhUSTqz2dYJlrnTgdUr/F56blrqLZevftO4AmyHmU=
-
 Name: scripts/yui/container/assets/skins/sam/container-skin.css
 SHA-256-Digest: jJLSdZg30rpNfo5HWq/EUTtft7AmbJ5JQ1yi4eLFmy8=
 
-Name: help/scm-browsers/list_ja.html
-SHA-256-Digest: 60y8FmHfhyJ8i1NvQiNR2qqqTelhVBm9CtcXJkmabZs=
-
 Name: help/view-config/filter-executors_ja.html
 SHA-256-Digest: baVAw675RIjJxXfF9Pi/ShN/aNt+B9CcC83Tp2PxWl4=
+
+Name: help/scm-browsers/list_ja.html
+SHA-256-Digest: 60y8FmHfhyJ8i1NvQiNR2qqqTelhVBm9CtcXJkmabZs=
 
 Name: images/48x48/computer-x.png
 SHA-256-Digest: /tPZ3JjXvbjXjaMmuCSLECsEkNEuK6jACCdV64/A8IY=
@@ -2326,14 +2014,11 @@ SHA-256-Digest: MkIKxc19wDzgkWzqjjf/fD/V2ctefat9M5aPwgRU1YU=
 Name: WEB-INF/lib/javax.annotation-api-1.2.jar
 SHA-256-Digest: lWM/SZj5Dv7OwsV+V1s+Z86oiv88g6dICy3lijTObXw=
 
-Name: help/project-config/batch_ru.html
-SHA-256-Digest: 9nAdwXoEh6eysfPqNmsFStnkGbTYZHAxw+aw5WL5P20=
-
 Name: images/48x48/nobuilt.gif
 SHA-256-Digest: uNFvc1kzOCFkj13RjFawwPowq/hXvCw1Ch5K56aSgVY=
 
-Name: help/security/full-control-once-logged-in_zh_TW.html
-SHA-256-Digest: y+LuyEu70HA7NCunV6osZBHXfov4+UXrgfxn7k1CzQs=
+Name: help/project-config/batch_ru.html
+SHA-256-Digest: 9nAdwXoEh6eysfPqNmsFStnkGbTYZHAxw+aw5WL5P20=
 
 Name: images/16x16/grey.png
 SHA-256-Digest: uTMxt9nl1JjcszQOCPTfc8+YWZilKlrLgLBK3jaXNiI=
@@ -2341,11 +2026,11 @@ SHA-256-Digest: uTMxt9nl1JjcszQOCPTfc8+YWZilKlrLgLBK3jaXNiI=
 Name: WEB-INF/lib/tiger-types-1.3.jar
 SHA-256-Digest: mXfSk7fQ2Z0XeY87jnEglQIj5rYWPboZomIs3hn2vEs=
 
-Name: scripts/yui/editor/assets/skins/sam/blankimage.png
-SHA-256-Digest: SvIvOjnCdSm+q9XQsDPiwRp+jdT2gQkgtTLvvmnUl7Q=
-
 Name: images/16x16/redo.png
 SHA-256-Digest: VjtX+1w9hbUuHCrfMJBoOhkCK+diwznCoj49GImqWyA=
+
+Name: scripts/yui/editor/assets/skins/sam/blankimage.png
+SHA-256-Digest: SvIvOjnCdSm+q9XQsDPiwRp+jdT2gQkgtTLvvmnUl7Q=
 
 Name: scripts/yui/container/assets/container.css
 SHA-256-Digest: dWurssg9O13y45r7PuWqJERscYJpEX87nIdSasOxveE=
@@ -2359,17 +2044,14 @@ SHA-256-Digest: Sghza5TSR0v8WPy70VVzJpsKHHB5xCZ2gbEAtR61BeY=
 Name: images/48x48/health-00to19.gif
 SHA-256-Digest: RNrMkWGq8lgk1HHIPy6n9haVUe1PA5sFf0lDYk5xO/Y=
 
+Name: images/48x48/blue.png
+SHA-256-Digest: CPs/+R3FWp/4Qg2uXRTt1GOi6B0u2wotIeAy7VGYMZk=
+
 Name: help/parameter/boolean_zh_TW.html
 SHA-256-Digest: qLrchUz4RHh+OT0EkiA0oZMWgNXbcLgDRAnqqN8WLR0=
 
 Name: WEB-INF/lib/crypto-util-1.1.jar
 SHA-256-Digest: 9YGmLMN+JxTNssMeitkT+LcSyGi2JhpyxwFUKHc/2M8=
-
-Name: images/48x48/blue.png
-SHA-256-Digest: CPs/+R3FWp/4Qg2uXRTt1GOi6B0u2wotIeAy7VGYMZk=
-
-Name: help/security/ldap/userSearchFilter_tr.html
-SHA-256-Digest: AVb2fbmiKs8rfg3EmyM32xUINNcCTNIE6hhdYP2Y7rM=
 
 Name: images/48x48/user.gif
 SHA-256-Digest: Y4b3e/pYWWu2X0tFqkz9f9rInFh3SOFOGJc4og/UZt0=
@@ -2392,17 +2074,14 @@ SHA-256-Digest: /QuvkRjZNYBAv8/IaLG9c98zTtOZwdx0jYu4W/YMflQ=
 Name: images/32x32/error.gif
 SHA-256-Digest: VMRt7hW+JmyLYgZP/cMAzrhuEy8WlcLJiIm8c22ygqw=
 
-Name: help/security/no-authorization_zh_CN.html
-SHA-256-Digest: x5RkkhVIXAn9LYdaIF1utWqgLfQJnCE+J4ISilO7+uA=
-
 Name: images/bottom-sticker-top-edge.png
 SHA-256-Digest: n0twYp4iEgZUBzsOmkHlhD2KyXuWzmb6PPjCpSGd788=
 
-Name: WEB-INF/lib/bytecode-compatibility-transformer-1.5.jar
-SHA-256-Digest: 5KItVpv+hDHEk82YYcyIaAR7AXKNHy9cdtQadQHAe3g=
-
 Name: images/48x48/installer.png
 SHA-256-Digest: o0QCbQlMz5ga1hkFtDgl/pqZ41HtoUetp+Q6r6Kw3kU=
+
+Name: WEB-INF/lib/bytecode-compatibility-transformer-1.5.jar
+SHA-256-Digest: 5KItVpv+hDHEk82YYcyIaAR7AXKNHy9cdtQadQHAe3g=
 
 Name: help/parameter/choice-choices_de.html
 SHA-256-Digest: MRgTkC/jC1oXFeGakh0GofPL/mFzeWCrbizddwFIuoA=
@@ -2410,26 +2089,29 @@ SHA-256-Digest: MRgTkC/jC1oXFeGakh0GofPL/mFzeWCrbizddwFIuoA=
 Name: images/32x32/star-gold.gif
 SHA-256-Digest: Oj/BiwhrIPYM1zz4zctVmKeZmmrhkvPePjc8QYgCIyA=
 
-Name: help/system-config/master-slave/description_pt_BR.html
-SHA-256-Digest: MDa/MLG57YhXyvIQ5beldc6PIrKEzS8R1UGsc4ri0hs=
+Name: images/24x24/fingerprint.gif
+SHA-256-Digest: ZM87QabLSro1MKRCFxgNdlWrPM7Qo4SR+V1P+hUnXNE=
 
 Name: images/48x48/folder.png
 SHA-256-Digest: A9DF4ZOCWicKQWP9thA3CppbhzuLjC4tyZalU0h0aK0=
 
-Name: images/24x24/fingerprint.gif
-SHA-256-Digest: ZM87QabLSro1MKRCFxgNdlWrPM7Qo4SR+V1P+hUnXNE=
+Name: help/system-config/master-slave/description_pt_BR.html
+SHA-256-Digest: MDa/MLG57YhXyvIQ5beldc6PIrKEzS8R1UGsc4ri0hs=
 
 Name: scripts/yui/assets/skins/sam/split-button-arrow-focus.png
 SHA-256-Digest: URx94daxQ1bws2cNe5skLV92DUwwd0NPRDEISAzZo2E=
 
+Name: WEB-INF/lib/jenkins-core-1.589.jar
+SHA-256-Digest: +rf80QW8aPGlZd3eVnJRCPxNDMbzGWcZeG/Oa1PXfOI=
+
 Name: images/16x16/error.gif
 SHA-256-Digest: rB96e7jTjJJt9zt0MdEcyLlfr8rrjBXXF8NNHrRkwhU=
 
-Name: scripts/yui/treeview/assets/skins/sam/treeview-loading.gif
-SHA-256-Digest: gD9+OsJfygCVpKYNLuG9aykHWWGkNEAPWpJzXLVEJyE=
-
 Name: images/48x48/blue.gif
 SHA-256-Digest: QBW1G0N3PKDTF0GkESUWw7YO+lKOFauwv2tK7wK0MRk=
+
+Name: scripts/yui/treeview/assets/skins/sam/treeview-loading.gif
+SHA-256-Digest: gD9+OsJfygCVpKYNLuG9aykHWWGkNEAPWpJzXLVEJyE=
 
 Name: help/user/fullName.html
 SHA-256-Digest: JW54ETfI/SOZXgx1q8xPSFlXNpefm/4ASAj16tI7/QI=
@@ -2443,17 +2125,8 @@ SHA-256-Digest: pA75AlVnqIFLZO/bqHBT8/1faJda0/jBGI4HxGo+uSs=
 Name: help/view-config/description_zh_TW.html
 SHA-256-Digest: 9SA1vAsEEf+I8reuCgoogMWhAIyE8KWZjQTL3rmqrbI=
 
-Name: help/security/ldap/rootDN.html
-SHA-256-Digest: P0VsDMza0UmFBSnpC5F0fdoZyAnJdDyMSIku1fbysTw=
-
 Name: images/none.gif
 SHA-256-Digest: MCf2TzSp9onoe9VZoXGRi2ozMqGeJhM9U7WUhbd1sbs=
-
-Name: help/tasks/aggregate-test/help_de.html
-SHA-256-Digest: klpl5bl0rXk4Krvyqs9plKvef5gmJU8OETpwmwVB584=
-
-Name: help/tasks/junit/report_nl.html
-SHA-256-Digest: VcCne4uTilR/M3HR9HmRX7PCFLKyYD2FFPwWt5SkOPA=
 
 Name: help/parameter/name_zh_TW.html
 SHA-256-Digest: Y5sEv1R+vTUHgzJDvxTXbQ4A2hOqr30Yef7EJqfw2C8=
@@ -2479,9 +2152,6 @@ SHA-256-Digest: IEp3K4m5c4VDTXb2wcQAcG7OMB/0BMgv6rOdCZNFu3Q=
 Name: scripts/yui/assets/skins/sam/paginator.css
 SHA-256-Digest: KpSUdnIQdSTO8uKgi5uPmYYSUS8Kg+mf8niD5U1zewg=
 
-Name: help/security/no-authorization_pt_BR.html
-SHA-256-Digest: IXd6dA28KKfIXPGEF3Hr7zP7knSnCCU87VRTWKHwho4=
-
 Name: scripts/yui/assets/skins/sam/wait.gif
 SHA-256-Digest: VaivtXIodDcLNJwZ4aHMXdNYtEZTglpguQY/hZVZVAY=
 
@@ -2503,29 +2173,32 @@ SHA-256-Digest: hrZBE+GLiAO46wkWZAqz75d71uiwwQHOjfrjgH7n25I=
 Name: images/32x32/clock.gif
 SHA-256-Digest: husM3hmfUcnV5N2y2eNgJoZU6T7Cc7jD77LDXaLOB1U=
 
-Name: help/security/ldap/server_ja.html
-SHA-256-Digest: IRGfkrofuMXKMAnvMI8seeDUXkJQdctfe7fxs3odPVg=
-
 Name: scripts/yui/menu/assets/skins/sam/menuitem_submenuindicator.png
 SHA-256-Digest: UCq/ih9P493egDfkM1plxuNzUMxp9wVeEZ0QOghUzKg=
 
-Name: help/system-config/master-slave/numExecutors_zh_CN.html
-SHA-256-Digest: l6sfizUsETi6qsAjxsXVvdi+XgNrfyt2H6ulIYIw1q8=
+Name: WEB-INF/lib/jna-posix-1.0.3-jenkins-1.jar
+SHA-256-Digest: 5VlW0WclwUdYWQFgloN8K07i+EsNBfp8JboAA/b3i4w=
 
 Name: images/16x16/aborted.png
 SHA-256-Digest: 6y7gOp8wl2Ww7cHv3I4+lBcyqw2hVGry6yIHcKmD7zA=
 
+Name: help/system-config/master-slave/numExecutors_zh_CN.html
+SHA-256-Digest: l6sfizUsETi6qsAjxsXVvdi+XgNrfyt2H6ulIYIw1q8=
+
 Name: help/tools/help-label.html
 SHA-256-Digest: 3dE7Rjr2rIj9JoHbTTci7iK/Qcu+SEZOecCx1jyaCao=
-
-Name: help/parameter/string.html
-SHA-256-Digest: Taepx/F3l45mryK3omK1ZZiXL8L5ZIC3C+SQw8MA3oo=
 
 Name: images/topbar.svg
 SHA-256-Digest: 0/dhU5yhBK5nrhKaj8wYDz4/Yiuia1By1+AGtOHIUQM=
 
+Name: help/parameter/string.html
+SHA-256-Digest: Taepx/F3l45mryK3omK1ZZiXL8L5ZIC3C+SQw8MA3oo=
+
 Name: help/system-config/patternJobNamingStrategy.html
 SHA-256-Digest: /PcGRwYJwGYxhNJ+rPIkjACZo/WrHk8f+u8IalF5EIs=
+
+Name: WEB-INF/lib/ant-1.8.4.jar
+SHA-256-Digest: byXjSZ2CQgDWVuAB3WyrDkxyr/zBI+xh+tyFhQ03ZZE=
 
 Name: scripts/yui/event/event-min.js
 SHA-256-Digest: pkxlkD9pXQkLE8KV4nrd+9ZRaXLO0cAwuEoTJJWsp4c=
@@ -2554,17 +2227,11 @@ SHA-256-Digest: Au/hyAGUt7mstARduWTIMcHRs3T3jqCqYfmQJZaCYfc=
 Name: help/parameter/choice.html
 SHA-256-Digest: AzrZIY3rrTBs1jMIRHHK/H9U1U4kziZfATJyenA7oEg=
 
-Name: help/security/ldap/groupSearchBase_de.html
-SHA-256-Digest: OAPFLtQMTiGlXEfbRYpTOeziHDKmeSHjciwLhqbmYeo=
-
 Name: help/system-config/master-slave/demand/idleDelay_fr.html
 SHA-256-Digest: 7p4wafo7pzDQ9x9AX9T6OyOwsGyY1O8QAXmFfaTz9zg=
 
 Name: scripts/yui/assets/skins/sam/blankimage.png
 SHA-256-Digest: yCoDKQArCG+4lrtfYLUy2DiMTdPREdTCRY348G9ZqNI=
-
-Name: help/shell/shellexe_pt_BR.html
-SHA-256-Digest: xM3XtqQX7laPBUQ5v+9qaPjXJjSy33dwY5BJ5ugoK/s=
 
 Name: scripts/yui/assets/skins/sam/menuitem_checkbox_disabled.png
 SHA-256-Digest: fmnz/lLTEhCLOLU/UkjT6D+jW8FJ/Q+T8xdgNJuLuww=
@@ -2581,20 +2248,17 @@ SHA-256-Digest: /JcFkVZE5zruQEC23Z/mTW1u7pGrLJX993hszDJ7jUw=
 Name: help/project-config/disable_pt_BR.html
 SHA-256-Digest: evzmJD1j6UCv2F3CUJXG2BqOLk3mpWcrY7MVWBQIJ2M=
 
-Name: WEB-INF/lib/jna-posix-1.0.3.jar
-SHA-256-Digest: wZM290liRjCNWmTImIuqW7z2w9Xh/yPgHs13bYUus7Y=
+Name: images/24x24/folder.png
+SHA-256-Digest: 0h2XV/GifD792QmSixP/KCD5WgTUhiRYIi6+YePheDs=
 
 Name: images/48x48/clipboard.gif
 SHA-256-Digest: DCjqKHtXUTuwnsPF6GKBS77dofQd1WPHzBN8WVj4N3E=
 
-Name: images/24x24/folder.png
-SHA-256-Digest: 0h2XV/GifD792QmSixP/KCD5WgTUhiRYIi6+YePheDs=
+Name: images/16x16/green.gif
+SHA-256-Digest: fAFQUscqkScG/f8ZeeWAY9eOl0TIZLEt9ib8gX3TURo=
 
 Name: images/48x48/red.png
 SHA-256-Digest: 6smasLv8+bpYWG49A5TUkqpPYaa/USV0xwSgmpDXmAs=
-
-Name: images/16x16/green.gif
-SHA-256-Digest: fAFQUscqkScG/f8ZeeWAY9eOl0TIZLEt9ib8gX3TURo=
 
 Name: images/16x16/folder.png
 SHA-256-Digest: 9myZgFuBWec/TEJY4HnGKKswbOnOjx1kBUDBCVXoCr0=
@@ -2602,17 +2266,11 @@ SHA-256-Digest: 9myZgFuBWec/TEJY4HnGKKswbOnOjx1kBUDBCVXoCr0=
 Name: help/parameter/file_zh_TW.html
 SHA-256-Digest: ix1S3aZ+sWsjooKaRb8fWy/UtGEylq6xkv3kJPYra/8=
 
-Name: WEB-INF/lib/slave-installer-1.3.jar
-SHA-256-Digest: cYp0Vb9v/JnMC4/U+/9n1hEwj1FSfATcbBGPOUe/5MY=
-
 Name: WEB-INF/lib/guice-4.0-beta-no_aop.jar
 SHA-256-Digest: pe7QrSoxf39wDuO3DN+xBTnDnZao7A4MT1Y9a85mIZc=
 
 Name: WEB-INF/update-center-rootCAs/jenkins-update-center-root-ca.txt
 SHA-256-Digest: HonyAO9j0Is/JKL/8+mimV0msFRXFLIJ9W8UD+SOg68=
-
-Name: help/security/no-authorization_ja.html
-SHA-256-Digest: 9OHEKRHSWWYlCyhJrDnZ1bsA/ogW+R3NIAgKKcishP4=
 
 Name: scripts/yui/menu/assets/skins/sam/menubaritem_submenuindicator.p
  ng
@@ -2624,14 +2282,17 @@ SHA-256-Digest: aU2T0164tYbSWyWSAlfiB4RIpuPKelGS1qzURzyFAvo=
 Name: scripts/yui/container/assets/tip16_1.gif
 SHA-256-Digest: 1wKxNrvJaDG6OdG9WXL0isje3eJ2I4G9Wga+YnVwuJU=
 
+Name: WEB-INF/lib/memory-monitor-1.9.jar
+SHA-256-Digest: 6ChpBGXqcG5HAvtrTB2kfqatZywFvQTPxcOZlNfC3Kw=
+
 Name: scripts/yui/container/container-min.js
 SHA-256-Digest: JHp33h/Vhg5BZweMfG9Omc1wVo3QRcqKlXhUf3iAxSU=
 
-Name: help/project-config/disable_zh_TW.html
-SHA-256-Digest: 3Rwl+HzWgapRd3Cz6swzEFZge6U/xj342Qrwh+KETwM=
-
 Name: images/24x24/computer.gif
 SHA-256-Digest: LnhlXIMPUA6UkwaafXHz3Gc4UCsdN7tMztz5x0mbEAA=
+
+Name: help/project-config/disable_zh_TW.html
+SHA-256-Digest: 3Rwl+HzWgapRd3Cz6swzEFZge6U/xj342Qrwh+KETwM=
 
 Name: images/48x48/health-80plus.gif
 SHA-256-Digest: 2sTxo7vM4BklQxawPGPiTfcoG4G6mK3sl7ef6QMb/8o=
@@ -2644,12 +2305,6 @@ SHA-256-Digest: Qo/brN0Q18l4QKxdUoiCaG/6gsbsbiGjipio9b34tbw=
 
 Name: scripts/yui/assets/skins/sam/check1.gif
 SHA-256-Digest: ijTeBx2XdUH4XD8Druymfj25z1RjUMp7awjeK3+OYMQ=
-
-Name: help/security/legacy-auth-strategy_fr.html
-SHA-256-Digest: KCsq8/jTkRN1c106WR2XMaZTXPQSQOa8W4f0Ah1tFmE=
-
-Name: help/security/ldap/groupSearchBase_tr.html
-SHA-256-Digest: ZWfXu1RY8HY+GQTwEay0DmIsJQ8LhoN9J2DBuNiG29U=
 
 Name: WEB-INF/lib/jline-0.9.94.jar
 SHA-256-Digest: 9hBL8qJDo2WQgXVSLrVD017RCnWskWAXj372fVlsPsA=
@@ -2666,17 +2321,11 @@ SHA-256-Digest: yOm+mXJHZfbDXfazu3KJhYK0SLtezfJAjBPKO/h5Rk8=
 Name: help/parameter/choice-choices_ja.html
 SHA-256-Digest: 5Hnt0Mqrkb2XRfArGYsjW8IjnS/0mHvSaKuNyDJdkB0=
 
-Name: help/security/private-realm/allow-signup_tr.html
-SHA-256-Digest: 6kxkhf8u+nwiaHewE/YQyfv4S6WuNnUT/I5XsQi5Zi8=
-
-Name: help/system-config/globalEnvironmentVariables_ja.html
-SHA-256-Digest: pjmQqtjuqOOktdcoPZ2qBCnpHVF0FZno61vBCj8n5CY=
-
 Name: help/system-config/master-slave/clock_pt_BR.html
 SHA-256-Digest: VHVzaOVXT5jrVokwjYShnAyO0HkaBQGYF2K9W4BQvMY=
 
-Name: help/tasks/aggregate-test/manual-list_fr.html
-SHA-256-Digest: Vu6m/xL17hWwUWGO0JHPmUEeoYo3j5apFWWJ0z80pGE=
+Name: help/system-config/globalEnvironmentVariables_ja.html
+SHA-256-Digest: pjmQqtjuqOOktdcoPZ2qBCnpHVF0FZno61vBCj8n5CY=
 
 Name: scripts/yui/animation/animation-debug.js
 SHA-256-Digest: D+iXz2P46r+xNfI/pYDUNjAojQZLhDE+mU6ZJ7W2lcA=
@@ -2689,9 +2338,6 @@ SHA-256-Digest: sz42ylhyfNe8dQASyBBlaMTJbSw4x5lT/vIcXahNfA4=
 
 Name: help/system-config/systemMessage_fr.html
 SHA-256-Digest: SroiJ8TpjeAFE9YTNk9QNIQRSm0oaVUb1l1v2V1ZbL8=
-
-Name: WEB-INF/lib/trilead-ssh2-build217-jenkins-5.jar
-SHA-256-Digest: 7wQTOk5mzYmGS5bnXGk94ocFgihf5O5ht5Uab1o0eyo=
 
 Name: WEB-INF/lib/jfreechart-1.0.9.jar
 SHA-256-Digest: 7NNaJ5tJDYtPhGgB+KP0kqPTpl7fR/0owN1p5L5AxmQ=
@@ -2717,14 +2363,8 @@ SHA-256-Digest: wyInbSvlelk+Khl9y5hYcmPAgRfuKUAhZ9xvPFm4JoE=
 Name: images/24x24/folder.gif
 SHA-256-Digest: NsZCN6UGukxv8s0dbcxkokyPvlLbVnCZJ5RwyUzzdWA=
 
-Name: help/security/legacy-auth-strategy_de.html
-SHA-256-Digest: k9vNOXNmZ489n8kPoItI139G4P154Yd5GX0GZvqaMDE=
-
 Name: images/24x24/terminal.gif
 SHA-256-Digest: RU8XVbsMzFk0WJ6uVy5lwaEDwOO573l6P2+XYFOrdOc=
-
-Name: help/tasks/aggregate-test/manual-list_de.html
-SHA-256-Digest: 1iRL1Uz4HzlMgDmmfzKUKcCUeSInIm9qxvtlz6bA39s=
 
 Name: WEB-INF/lib/commons-jelly-1.1-jenkins-20120928.jar
 SHA-256-Digest: YRrzu9UcnrSgTevaKnqa9j+yegHGkhmpl8vtrbqDPzU=
@@ -2738,14 +2378,11 @@ SHA-256-Digest: 8VtOtmV2EEu63Y91DeI4Omp66edMtBF6jQxSYgKLhVo=
 Name: images/16x16/clock.png
 SHA-256-Digest: n28tVtMXlsJiYeCvo4O03BAry02KL1HYqqdbWiwNEls=
 
-Name: help/parameter/file-name_ja.html
-SHA-256-Digest: dpTB4cVVNR1nBoC60DzIRR2m4jV2Ig0LhrChBN+6afA=
-
 Name: help/system-config/defaultJobNamingStrategy.html
 SHA-256-Digest: dtFbnzKoUtegdK9gk6rkfHNjhZyemaBf/htGJE0/0qQ=
 
-Name: help/security/private-realm_zh_CN.html
-SHA-256-Digest: Hsgzf8ftiCamYfJ8zjmuyoh9F75gdQiXtUPAJSoQz6k=
+Name: help/parameter/file-name_ja.html
+SHA-256-Digest: dpTB4cVVNR1nBoC60DzIRR2m4jV2Ig0LhrChBN+6afA=
 
 Name: images/grip.png
 SHA-256-Digest: j2xezdOlT/RQB99qxN5R1rTAgkY4O4fDWGKAecXAyjY=
@@ -2753,23 +2390,14 @@ SHA-256-Digest: j2xezdOlT/RQB99qxN5R1rTAgkY4O4fDWGKAecXAyjY=
 Name: images/48x48/health-40to59.png
 SHA-256-Digest: FjthwCpMCUGmEH423uhSZQE9K91wKW0WlYjM5UrEon4=
 
-Name: help/tasks/aggregate-test/auto-aggregate_pt_BR.html
-SHA-256-Digest: mtCetYAY4O8bbtr4EIC5HmfhF9/FoKN/QkGriAHiVuc=
-
 Name: help/view-config/description_fr.html
 SHA-256-Digest: Pzsu4NiuGOLPghfgtjsYgTwQN3b5gTPeqfNuOdPTV3E=
-
-Name: help/security/ldap/userSearchBase_ru.html
-SHA-256-Digest: eQXO95L8b55DBAk2AqgMayVqk9T531BaT6P6PC9h0Ic=
 
 Name: WEB-INF/lib/jnr-ffi-1.0.7.jar
 SHA-256-Digest: pjwj1mcRzFC9nBEnPAwjAOe5nbT/pLFfokDzzk2+JaA=
 
 Name: scripts/yui/editor/assets/skins/sam/editor-knob.gif
 SHA-256-Digest: D0uPU4XBL2IHxKSDAuDoGIffq8IKGup7Z6d+qYlJeCI=
-
-Name: help/project-config/javadoc-keep-all.html
-SHA-256-Digest: CGk2Jwy9S/u95RChXtTUQCqzhkOYanh41nYqvZjTIBo=
 
 Name: images/24x24/computer-x.gif
 SHA-256-Digest: +qNWbwA3z9iXa+rWp2qMS/Dxm2SuDW1wzK4KQ6AJLvc=
@@ -2810,11 +2438,11 @@ SHA-256-Digest: SEH0m0YSzeEfzVNUxKJ1bAIEHtcp7Ztet9j9cxNzjlA=
 Name: WEB-INF/lib/commons-fileupload-1.3.1-jenkins-1.jar
 SHA-256-Digest: pcIVC8w5MWnkPGqD4mmsabIyGx6LxDqjRI6bl9jdpAw=
 
-Name: css/style.css
-SHA-256-Digest: Od/4A5EEiUFIa8Fhv32qPjeuPhjNakzxHlpwkzd3NGs=
-
 Name: LogFileOutputStream.class
 SHA-256-Digest: PKLWa1FONopz8S8BiM0TEmSOy8+uZn9iztdLu26/dJY=
+
+Name: css/style.css
+SHA-256-Digest: q2iinefvTtcZ5o9c7iO6b4BTdMg2gP5Fbuh7ZoE/T/c=
 
 Name: help/project-config/downstream.html
 SHA-256-Digest: sxsu+Ih38ZM3+ApJSI6k3fmqbdJU572oW3oUU3NRwrU=
@@ -2829,16 +2457,16 @@ Name: WEB-INF/lib/libzfs-0.5.jar
 SHA-256-Digest: NV3vwKKd6M3zZvl3O8wS6GvJdcz4UUOUVEJB1J1wDZw=
 
 Name: WEB-INF/classes/META-INF/licenses.xml
-SHA-256-Digest: A4IVITPdiH7melyIHICd3l16opHSEzBSkLrTTD87fGI=
+SHA-256-Digest: r+WLkhw8J3hkaHrM1AO7z6AnF1PChXshdI2LNkIKi34=
+
+Name: WEB-INF/lib/stapler-1.233.jar
+SHA-256-Digest: bscJ3iSMKnUp6g/1OhYPjo2HAOe087IULRymK3NaKBk=
 
 Name: images/16x16/yellow_anime.gif
 SHA-256-Digest: Y/Aghn8G8jl/wC/x5e5yr8Yb+0olSqy5j09S3ZiJuz4=
 
 Name: images/24x24/yellow_anime.gif
 SHA-256-Digest: RiWnbdBUW2boTxkS52gcCIS0XjpIZMhXECWOmNTwC78=
-
-Name: help/security/ldap/groupSearchBase_zh_TW.html
-SHA-256-Digest: r4iTcDwggA19pW64ugAtBXqvGpj0fL8StzhX/87pBJ8=
 
 Name: help/system-config/master-slave/jnlpSecurity_de.html
 SHA-256-Digest: uyzwlkE5aBM1KOH8x6VTB7sXmyrGPbLUO26ThHgzCg4=
@@ -2852,35 +2480,26 @@ SHA-256-Digest: ykP61aG4as1IpGcTCfvO0yVGxtvZst9Wrh0RVoV3dvM=
 Name: images/32x32/red.png
 SHA-256-Digest: wEz9mc/lvpYf1GXirqPGumI1hrEU5g+YjkdxCTY08Ck=
 
-Name: help/system-config/cvs-browser_ru.html
-SHA-256-Digest: 7gMSuKFrmD/DlR1jcP963cAPHFGGO20awJgtvrT2HAE=
-
-Name: help/security/ldap/rootDN_tr.html
-SHA-256-Digest: yvdWG4mH9ZvGJIWt+usEifxHBducVPe0nJvoVN4H3L0=
-
-Name: help/security/full-control-once-logged-in_ru.html
-SHA-256-Digest: emp5EqlOC8eqn1az4kdO4yW0ok3eVEDAdz2Lc5tiiIw=
-
 Name: images/32x32/clipboard.png
 SHA-256-Digest: 83yM/tWaMmb1GRRCoDpxANNRdrTR1QNxSJT3YyDMPLY=
 
 Name: images/32x32/user.gif
 SHA-256-Digest: /WWXDK5DMNmaLftuzb+y1dSdMd+aq40tlyoo8n6r+dE=
 
-Name: help/project-config/block-upstream-building_zh_TW.html
-SHA-256-Digest: IFWdN0HzURlpP5HYGztSR1og0y730ZOda82a/0ZjELY=
-
 Name: help/system-config/quietPeriod_pt_BR.html
 SHA-256-Digest: RUpGnqL+1rRUp4lt0ewy/3pe7+6QG6As+o2zuKyl5Dw=
 
-Name: help/project-config/custom-workspace_zh_TW.html
-SHA-256-Digest: C6eeU4NTzhS6/jYYdn5IMKL1g4JqKJkvqvwnHks8nGY=
+Name: help/project-config/block-upstream-building_zh_TW.html
+SHA-256-Digest: IFWdN0HzURlpP5HYGztSR1og0y730ZOda82a/0ZjELY=
+
+Name: WEB-INF/lib/launchd-slave-installer-1.2.jar
+SHA-256-Digest: vUrnqcsaEdble0QbP8kxdaf+3moahW1T/hIG2KyQdes=
 
 Name: help/LogRecorder/name_zh_TW.html
 SHA-256-Digest: C8Q9t0UVeD5HvkFmFnkKIx+R1qVqieWwxRHF3AS/UXs=
 
-Name: WEB-INF/lib/launchd-slave-installer-1.2.jar
-SHA-256-Digest: vUrnqcsaEdble0QbP8kxdaf+3moahW1T/hIG2KyQdes=
+Name: help/project-config/custom-workspace_zh_TW.html
+SHA-256-Digest: C6eeU4NTzhS6/jYYdn5IMKL1g4JqKJkvqvwnHks8nGY=
 
 Name: images/24x24/notepad.gif
 SHA-256-Digest: VlKxx/OZFNUT1zOsGdBX9I9/LSOJiZ6G7IEIPmytMOM=
@@ -2915,9 +2534,6 @@ SHA-256-Digest: 0ak/m8RJVzPdv0CoZcTy5sY05G+Us6ie7qlq7k4ZXIA=
 Name: images/16x16/nobuilt.png
 SHA-256-Digest: /YxCpkFMDgzOtJOR35nmYgqyAaeH7a2TUIhvnWMM/WU=
 
-Name: help/security/container-realm_ja.html
-SHA-256-Digest: cTwOd9WTTrad+/32rdaIwwKjE1zI5GXM5+L+76M+pnc=
-
 Name: help/system-config/master-slave/clock.html
 SHA-256-Digest: c8lStICY/q3Vb50g1DIKluJ+A9r2rHCMyEimHlP07aU=
 
@@ -2928,16 +2544,16 @@ Name: scripts/yui/editor/assets/skins/sam/simpleeditor-skin.css
 SHA-256-Digest: e4MlKHshslhN0glGKOBuOcoimbiPAdO5SJTz+XZ9rRk=
 
 Name: WEB-INF/web.xml
-SHA-256-Digest: BVkhKigMm/NdXDFMhnYPRTN5o6VEUfUYdFpnr80AlAw=
+SHA-256-Digest: CKe8b2iwXVHtFpRNfO5yC6mx2W2+Ajsa0BX8Xeql7ec=
 
 Name: help/parameter/description.html
 SHA-256-Digest: /AUSNwgxyg1WMV0WpziUhRaLs7ehnFCFxI8NpOQiNQ8=
 
-Name: help/view-config/includeregex_zh_TW.html
-SHA-256-Digest: 0XTXVSbYHUBHO4dh4UpUDmQIUurhlfaNWZzDWJmSj9w=
-
 Name: WEB-INF/lib/instance-identity-1.4.jar
 SHA-256-Digest: 3Vyf3qk0K9+pEDdoZrk2cQ3xv/gYBmFsCGbC+OrOCyY=
+
+Name: help/view-config/includeregex_zh_TW.html
+SHA-256-Digest: 0XTXVSbYHUBHO4dh4UpUDmQIUurhlfaNWZzDWJmSj9w=
 
 Name: images/32x32/computer.png
 SHA-256-Digest: b1u3951i21h7p+LZnqRaexx4GMTmeqyT8oMQzNq49os=
@@ -2957,6 +2573,9 @@ SHA-256-Digest: N/58p9OnqGH2sete4VjT5oFiCubdpdXYprScyirg8ek=
 Name: WEB-INF/lib/jstl-1.1.0.jar
 SHA-256-Digest: BPTCeB/TUCSgW8Je78t7Hd83e4Fxtw4W6NoE7iKc0Qo=
 
+Name: WEB-INF/plugins/junit.hpi
+SHA-256-Digest: Vw8gNOKPJCVjC4NFWgapUCZlDv9q6W+kaoN6NU7lJtk=
+
 Name: WEB-INF/update-center-rootCAs/hudson-community.txt
 SHA-256-Digest: bjJEMHWGPr0hNVmoFmY6Jy0UtSxLZGWa5jGz+8EqBAc=
 
@@ -2965,9 +2584,6 @@ SHA-256-Digest: Ngt/HfAfp3jerPCmKMaTytJT7ZCGFPUCs2PNKkTEnrk=
 
 Name: images/16x16/text-error.png
 SHA-256-Digest: tBkCPMBi8UJu6W4SoVJJIJsKVo7GeaBy8DNWnwCG8lQ=
-
-Name: help/security/ldap/managerDN_fr.html
-SHA-256-Digest: he5pxUtsu67ejY3bxCe4jSzNNmt4Q3mUt6RP/0zrM40=
 
 Name: images/32x32/yellow_anime.gif
 SHA-256-Digest: bkszcH3YqcAp5Za2VAj4IX4nAqCsl+DfNhfwTjB1jlI=
@@ -2978,14 +2594,11 @@ SHA-256-Digest: EKDaVdAbS/PA6aEemHkhnNWovWPwGxUQI8xuAD5Xvmo=
 Name: scripts/combobox-readme.txt
 SHA-256-Digest: EJSQutvfHgwqSoM2PWFkrTLw16x2v0zHoVqGS71/Ih8=
 
-Name: WEB-INF/lib/jnr-constants-0.8.5.jar
-SHA-256-Digest: I/ucG2Lh811MHsdlz9a7oFa+GQvOCTuk0qNn+G0zQCg=
-
 Name: images/32x32/secure.png
 SHA-256-Digest: 51ZZBA1O99NxRs8nJY3HDGZch7vkE2fHhUZDyxdMKE8=
 
-Name: help/shell/shellexe_nl.html
-SHA-256-Digest: m1r3RYDkj6iqAVoN+vZRLaNsdZPYQupZwRjCeW0Ixhk=
+Name: WEB-INF/lib/jnr-constants-0.8.5.jar
+SHA-256-Digest: I/ucG2Lh811MHsdlz9a7oFa+GQvOCTuk0qNn+G0zQCg=
 
 Name: images/48x48/yellow.png
 SHA-256-Digest: VH1OOpOP9OcWkiN0BaCF89kGSVDVHlTAFtwrk69TmgQ=
@@ -2993,18 +2606,12 @@ SHA-256-Digest: VH1OOpOP9OcWkiN0BaCF89kGSVDVHlTAFtwrk69TmgQ=
 Name: help/parameter/string-default_zh_TW.html
 SHA-256-Digest: QCuc1TImqT53Dp1kgqd8DxQtUBi0gkzcKg5Ik787PJ0=
 
-Name: help/system-config/cvs-browser_tr.html
-SHA-256-Digest: cK0lTDph5uBqjA2EP96fbTEGzSKB8v69eJlR6U7E0Rc=
-
 Name: images/16x16/health-60to79.gif
 SHA-256-Digest: D3Z2bDbvBkrI4LfXUNPDdwzfvoGNiM9gyqCjxIwLmJk=
 
 Name: scripts/yui/button/assets/skins/sam/split-button-arrow-active.pn
  g
 SHA-256-Digest: 1b24Ox+KZV/zZF0BhuLKD6NXOEmFMyJsXCYlXdaPMo0=
-
-Name: WEB-INF/lib/stapler-1.229.jar
-SHA-256-Digest: fD4OthNiMUIc7QDY17Xqj3rhD6YRVjWgQYU1E7HL6n8=
 
 Name: WEB-INF/lib/robust-http-client-1.2.jar
 SHA-256-Digest: vspPWOPln/YBrRtjYcK9YO1F2BVuWWa7WtVDMBc50NY=
@@ -3015,11 +2622,11 @@ SHA-256-Digest: DSHWQu9eJWdAGxmcYPxQ85BS1pMJat1ST1ZdM5KU2Zs=
 Name: images/16x16/red.png
 SHA-256-Digest: bz7jA+LsYDbdCBaKwQitAg664Gn/mH4z2A6ONA56NvA=
 
-Name: help/project-config/defaultView_de.html
-SHA-256-Digest: w2IasnLwkHCGUWFsy39CPU4MqLslKaQY4FL2100IFZc=
-
 Name: help/project-config/custom-workspace.html
 SHA-256-Digest: PtDbaHPRg1BYKVzzfzRaev8NBp6dGR+n5U4GtZK/IsA=
+
+Name: help/project-config/defaultView_de.html
+SHA-256-Digest: w2IasnLwkHCGUWFsy39CPU4MqLslKaQY4FL2100IFZc=
 
 Name: help/parameter/description_ja.html
 SHA-256-Digest: YtO9PmLVzVRYes4todnNawzg1jAX8R/v6gmpX+SBuq0=
@@ -3042,9 +2649,6 @@ SHA-256-Digest: Bd3wc/o8xMAFaVcgEPPmkZtaC4y2KUK2xR/iVuUxmnQ=
 Name: images/24x24/blue_anime.gif
 SHA-256-Digest: KPSudemZW7uiAL0a3kmbgEC9WFVCa9c8DnhM6t95rds=
 
-Name: help/security/private-realm_de.html
-SHA-256-Digest: FNS8FHyxI3hPr5y4ztnILb6vzfpn4rgIfNJ1hWLIqTg=
-
 Name: help/user/description.html
 SHA-256-Digest: WiF1ghMSUXLmmDWKhM9x6exNJ4WbiRmUwuQwj1NmoQ4=
 
@@ -3052,7 +2656,7 @@ Name: help/parameter/file-name_zh_TW.html
 SHA-256-Digest: bwILe3zEgaAW4PXEpH6o4REIx/5OGV3Vtwx/FtonjF8=
 
 Name: help/system-config/master-slave/usage.html
-SHA-256-Digest: AGSgdwtM557OTAdi+/4gB0eW9rHEziDTtvmc+ZO3ECE=
+SHA-256-Digest: ovXHK++bTOlZyiksskeodtc0YsGhC4/AhBp1ANqhv+U=
 
 Name: help/project-config/custom-workspace_de.html
 SHA-256-Digest: 7Ivmfv9pDEjmekyxP/twC/w58eZZGDV3gg0xZmThn9k=
@@ -3063,14 +2667,8 @@ SHA-256-Digest: rDsR3THmcMLvVfQ2K0AA4fQHXl7g+5y0U4wybcAyxM0=
 Name: images/16x16/person.gif
 SHA-256-Digest: FJ9aJRBGuASc9oSOH/n6FaOqD4jLopQSAn/j7z910mU=
 
-Name: help/security/private-realm/allow-signup_ja.html
-SHA-256-Digest: lPPLqMbK22x/fE7W5Trm103GabmT48++Tua2z51g55U=
-
 Name: images/24x24/notepad.png
 SHA-256-Digest: MtOR1UrH8iHcDMrOXaHFeW1yVXaHRxTKS7VOyQ9MIQI=
-
-Name: help/security/ldap/rootDN_ja.html
-SHA-256-Digest: xo2KsErpVB33VDhrBZFTlmSkDM7B1v78afgMY8TRGlc=
 
 Name: help/system-config/master-slave/demand/idleDelay_zh_TW.html
 SHA-256-Digest: MjfOLi0LLxHnHjurmcO94sSSQ85PEV+9UoWuwdFAirE=
@@ -3078,14 +2676,11 @@ SHA-256-Digest: MjfOLi0LLxHnHjurmcO94sSSQ85PEV+9UoWuwdFAirE=
 Name: help/system-config/quietPeriod.html
 SHA-256-Digest: 3/Ry0S95/bR/W8IoiflucwDc5nfx3X3oHxXBYdiNqzA=
 
-Name: help/security/private-realm_fr.html
-SHA-256-Digest: SgwKI8e+6si4UeDIROxJ5pIKFxFyJ3hZiUP63cnOfLI=
+Name: images/32x32/health-00to19.gif
+SHA-256-Digest: oZO8q1xLfsu175Oi1HlQjrKp5HwAew4ioZ/cd7KGK20=
 
 Name: help/system-config/master-slave/description_tr.html
 SHA-256-Digest: j7gf/Yks4eXRI2RcTxeg1knIfc1W3bWBL5Sx1/6bYJ0=
-
-Name: images/32x32/health-00to19.gif
-SHA-256-Digest: oZO8q1xLfsu175Oi1HlQjrKp5HwAew4ioZ/cd7KGK20=
 
 Name: images/16x16/terminal.gif
 SHA-256-Digest: IyefcgryTcFCz2Jg0EeScCpY0TQBgVl7d8l9Kh3flVQ=
@@ -3111,20 +2706,20 @@ SHA-256-Digest: WqwLFETV+beM/eekJ8jKOzjKz/0Pwy0riIJilkLXvy8=
 Name: scripts/yui/assets/skins/sam/desc.gif
 SHA-256-Digest: El4ShlCgMMRfzNJfFra7NTmv13ZfYnVar3UQis2xVmQ=
 
-Name: help/project-config/downstream_zh_TW.html
-SHA-256-Digest: Gbt2sCUMFblQ9cCNLJcGTr5ewXFtrETQ2ijz5UBKE4c=
-
 Name: help/user/description_ru.html
 SHA-256-Digest: K6T7SJ1GOMX2zi5k9QawCktzJArt6im9kDGeF51w0d4=
+
+Name: help/project-config/downstream_zh_TW.html
+SHA-256-Digest: Gbt2sCUMFblQ9cCNLJcGTr5ewXFtrETQ2ijz5UBKE4c=
 
 Name: images/16x16/blue_anime.gif
 SHA-256-Digest: MOsoUk9u+KSXvmk2bfDm9xUGwwpKLrwfIBRAs9Fo4F4=
 
+Name: WEB-INF/lib/stapler-jrebel-1.233.jar
+SHA-256-Digest: KDdDMdcE+JGdZrXUl2ZFjfI1VR9/rh0T/ZX6ivoR6cw=
+
 Name: images/24x24/user.png
 SHA-256-Digest: P25s4ovBdgmjZjkRZqgQdbWGGZp8HggoUyqp/Qd+XN0=
-
-Name: help/security/ldap/managerPassword_zh_TW.html
-SHA-256-Digest: +YkOmIfUW+kLWnR2EphVIRr5YUJ29EpV9MFw2X23ius=
 
 Name: images/16x16/red_anime.gif
 SHA-256-Digest: YvQOE6Sg/jTQtnBPHsXSS+tS60xbcQjjOxJr6WrnD0E=
@@ -3138,14 +2733,14 @@ SHA-256-Digest: J/WMv2tUPezJVH6LNE1L+q2TmDvpZrRktPUtKkL3RFk=
 Name: images/24x24/setting.gif
 SHA-256-Digest: uy12+FJkZsOenauGmT3bLEkN7OI/nE20WixvMkNLDpI=
 
-Name: help/project-config/triggerRemotely.html
-SHA-256-Digest: 0qVzyw0Q41ChEnoUU9/whi2XxfrWgLNL/1Zgk2CYlvs=
+Name: WEB-INF/lib/commons-logging-1.1.3.jar
+SHA-256-Digest: WBR22VWrIkeIQtmiq+ex6EEwT6crdI7saI9awalpIOA=
 
 Name: help/system-config/master-slave/clock_de.html
 SHA-256-Digest: RZn7H7z4j8KuZNS50xp00RjdI7HOfijO2lw6upc2vi8=
 
-Name: WEB-INF/lib/commons-logging-1.1.3.jar
-SHA-256-Digest: WBR22VWrIkeIQtmiq+ex6EEwT6crdI7saI9awalpIOA=
+Name: help/project-config/triggerRemotely.html
+SHA-256-Digest: 0qVzyw0Q41ChEnoUU9/whi2XxfrWgLNL/1Zgk2CYlvs=
 
 Name: scripts/yui/menu/assets/menubaritem_submenuindicator_selected.pn
  g
@@ -3172,23 +2767,17 @@ SHA-256-Digest: 6pnH8rRXrxGvEQ4cGY4HYiR4OeMDUW6WsJJWSlyxf24=
 Name: images/32x32/health-00to19.png
 SHA-256-Digest: 2olLlFVj67MW+WxwRq8MRIZnkzpd3JlrZbTph63WKTs=
 
-Name: help/system-config/cvs-browser_zh_TW.html
-SHA-256-Digest: F+2ozS47JcrZb156UKsgJwu9fa7ZcxBy2ZVivKvEa3M=
-
 Name: scripts/yui/connection/connection_core-min.js
 SHA-256-Digest: nJMnkJRNuIXvAQl7tFQh7PZBY7gYYt5FCPagMTxsliU=
 
 Name: help/tasks/fingerprint/keepDependencies_nl.html
 SHA-256-Digest: IIK0gY85d5UpXrGgqGUDvLqfDow2vtGO4GIZYfITSNM=
 
-Name: WEB-INF/lib/mail-1.4.4.jar
-SHA-256-Digest: 5FZn3+IK084UhhPxZu6EkuYJxyE6nZArVmaGnMqwKD0=
-
 Name: WEB-INF/lib/commons-jelly-tags-fmt-1.0.jar
 SHA-256-Digest: g8foVPUpczfKJZ37sxKwwWqaA9LikeLZy339gSs2Owg=
 
-Name: help/security/ldap/groupSearchBase.html
-SHA-256-Digest: +9irADmBuDgu8Tj7nwSTh00dEX/UB+6pXJ8029jmvvA=
+Name: WEB-INF/lib/mail-1.4.4.jar
+SHA-256-Digest: 5FZn3+IK084UhhPxZu6EkuYJxyE6nZArVmaGnMqwKD0=
 
 Name: images/16x16/setting.png
 SHA-256-Digest: n8Sio7arTWRENML8CajyLBRX6Rs7ZIlSIwx7K1w4X40=
@@ -3207,9 +2796,6 @@ SHA-256-Digest: SbL3uSHUCWZqhckBS958JcLFbYpwRR4YoQfEbGFLoFk=
 
 Name: images/32x32/health-60to79.png
 SHA-256-Digest: Q7T7a1J5/bByZ5dRbBzIF1lDlzjiH9Hyk9+0mdatSrc=
-
-Name: help/security/container-realm_zh_TW.html
-SHA-256-Digest: ulxYOABCoebzcp/a5UKFt4rCtcxWVCgg4BVOK/1Yc7E=
 
 Name: help/project-config/batch_pt_BR.html
 SHA-256-Digest: jLffaUJ7HF7YrgRQFintOadfk3uttfCbyg3DtOuaA0I=
@@ -3304,17 +2890,11 @@ SHA-256-Digest: 7OP2h5tTDgcYOsoA+blu3vHZwQuOtdgHtr92e7s85+o=
 Name: images/16x16/health-40to59.png
 SHA-256-Digest: CkGofXsKlIQttD68cSbHVqWIbnv76Exf+93Qw2mPGzs=
 
-Name: help/security/container-realm.html
-SHA-256-Digest: FRoIwmzqCs75h8HgJfnj/Cit+p87gNjoC/jNuTz/FRY=
-
-Name: help/security/ldap/groupSearchBase_ja.html
-SHA-256-Digest: +COMB2NpuQKnxMKiEV8juts2Jul8xMpkODt6KsZEToY=
+Name: WEB-INF/lib/jna-4.1.0.jar
+SHA-256-Digest: mRowswTk69csfK/oBuP+KioSzlhmQpS5nn3WdeA8bQ0=
 
 Name: scripts/yui/assets/skins/sam/asc.gif
 SHA-256-Digest: ICSphLbXUIgnDX3W7urWlQwNsEtrONvXHugtw7dxxNs=
-
-Name: help/project-config/javadoc-keep-all_tr.html
-SHA-256-Digest: 1KBtjacPtsMfpgO3XKRabGYB2Zsqf4Fvr+7Qxu9hX6s=
 
 Name: help/run-config/displayName_de.html
 SHA-256-Digest: q9k5vXRJ8k+H1hhYKkvQf0ad1txhz2T8Lusn83P1T70=
@@ -3361,17 +2941,11 @@ SHA-256-Digest: gLjih8wFCmLITFIZE1JW3zghTQDSD/sd6i1VAZ9FKFg=
 Name: help/system-config/master-slave/clock_fr.html
 SHA-256-Digest: cjX8Sr3LAtSvRssV/RsNCiTcWhU04rvcFv79x8vWYEQ=
 
-Name: help/project-config/fingerprint_de.html
-SHA-256-Digest: f3l/6Y1bhamsnJdyl5ENvv6y5TFumBvaOnmlQpBVwNA=
-
 Name: scripts/yui/container/assets/close12_1.gif
 SHA-256-Digest: l5HrKxFQaKtNUVSBEksuFob9rNI1qbhe98MSFJnioAo=
 
 Name: scripts/yui/container/assets/info16_1.gif
 SHA-256-Digest: FSBzXjgD63gJYVe7ma++dkpOvYXKc0Y2vkol08ytphw=
-
-Name: help/tasks/aggregate-test/auto-aggregate_fr.html
-SHA-256-Digest: w5UTg6H6M0shIrq3HParR+uGWx7/jw3LASIRH20WpTc=
 
 Name: help/parameter/file-name.html
 SHA-256-Digest: NKm0V6gWxHMIaBxkZnKv92+M3QMWv+M+mNR0ER35XZA=
@@ -3407,9 +2981,6 @@ SHA-256-Digest: j1Aw9MryqIcGv07fzAvnjYsR0j79K4f2ROL7aYwpN40=
 Name: images/24x24/new-computer.gif
 SHA-256-Digest: iVK5bCD9/IpkqSpqQhr1tuRkv/dDxLsFhJYFw9VDIsY=
 
-Name: help/project-config/javadoc-keep-all_fr.html
-SHA-256-Digest: u+/ekI+z8w+jfnEBLBIfMMGg99Z5WYfwQznAXxLekY4=
-
 Name: scripts/yui/cutdown.sh
 SHA-256-Digest: 8kmrHXwL38ufm5/5xHaH74+U63mOYb+2qb0G/s40x4o=
 
@@ -3443,9 +3014,6 @@ SHA-256-Digest: AkvtjyNrYOuKYtnM7cQAq73vRoAk8xjROrGQzOkVsMQ=
 Name: WEB-INF/lib/constant-pool-scanner-1.2.jar
 SHA-256-Digest: OzlaC+VhudxHTRubVv6r6Gwt5eLAOQWTGzSh6P1mu9g=
 
-Name: help/security/ldap/server_pt_BR.html
-SHA-256-Digest: QN0DtlDgaMoFbmNwXcI2xA7UXZIcJX7ctlhAH2aQFj4=
-
 Name: scripts/yui/dom/dom-min.js
 SHA-256-Digest: VOhHypAqSS1XeKO7M498zG5r6rubERm47pZmqcsva04=
 
@@ -3466,9 +3034,6 @@ SHA-256-Digest: /3R+WVDIoGTqll2kZUMAvUX28pyMyrk2M8d8STPjACw=
 
 Name: help/view-config/includeregex_de.html
 SHA-256-Digest: zOzxHwDyeol5XoY5hvckAMLyCUl5Nt0llLhOv0YyTbk=
-
-Name: WEB-INF/lib/jenkins-core-1.565.3.jar
-SHA-256-Digest: mO/0xShC8s9WTzXEWrr2ATzkWxubA5Xb5tPtMCJ+E2g=
 
 Name: scripts/yui/button/assets/skins/sam/split-button-arrow-focus.png
 SHA-256-Digest: 5PbdmqGRuX+lO949suCvDdRKymtt3SaCvidzXX0AQyA=
@@ -3497,17 +3062,14 @@ SHA-256-Digest: XpUqnYyJ5kBnWyUaQv3tt4zpmZxPKakwJT6c0ERoy6g=
 Name: help/view-config/statusFilter_ja.html
 SHA-256-Digest: 7UwP2RJCz127911+cnmy+oShAO99HeZuIARLdXrIVQI=
 
-Name: help/security/legacy-auth-strategy.html
-SHA-256-Digest: m/BL05Gea6G3sRCJ6DR3MoF/xF0MYnPMmHNJcWK36HU=
-
-Name: help/security/private-realm/allow-signup_fr.html
-SHA-256-Digest: DZ1QtmKDnWv1gVzuBe7Vtb5D1HhD+osOOB90HpMjf9o=
-
 Name: images/16x16/yellow.gif
 SHA-256-Digest: vBM4jz4Kos1YYixcYiY5/u+6kA/koiDTwiR/ZQR/QAU=
 
 Name: images/16x16/yellow.png
 SHA-256-Digest: 8NagwkpkPSv58cWPPsu+CIXhWh+rDfe6GqfCNLVM94g=
+
+Name: WEB-INF/lib/icon-set-1.0.3.jar
+SHA-256-Digest: 2AXulunhOc9oX+ulQDMcrwNzAkC/plwf/yTgWTfAMUI=
 
 Name: scripts/yui/resize/resize-debug.js
 SHA-256-Digest: gNl0AM9j/c8xwNDHjPIYG9WxdARLPMwR2u/eTsb6FR8=
@@ -3524,9 +3086,6 @@ SHA-256-Digest: SLqiGg5zBBOGDNFNSk2mfbLZFeLwNH22FjnGuwzsqNk=
 Name: help/user/description_de.html
 SHA-256-Digest: stcp0zbHUPKj/mFCE4CyLnTXWKauOSHZbem553AnM+U=
 
-Name: help/security/ldap/managerDN_zh_TW.html
-SHA-256-Digest: soVSkVpdElghyITwAfIvlj1AIn/Vzcon8+h4lnsMafI=
-
 Name: WEB-INF/lib/commons-collections-3.2.1.jar
 SHA-256-Digest: vpfqa5d2lFcPPs3w8pcl69lfTHuY7hcnEH+USGcx3wA=
 
@@ -3539,11 +3098,11 @@ SHA-256-Digest: jwou2PFjBrW8UZ3XRSYoARV/6NrdcG8o+vOC8qDPtkY=
 Name: images/24x24/gear2.png
 SHA-256-Digest: 1l3Tpa0V/JUxREuT1/XEzQHVZaacmMmEYcIAQmpGggo=
 
-Name: help/project-config/custom-workspace_tr.html
-SHA-256-Digest: Z5r7Estc1LCEx/ulFjYUxARIzVKCZMYnsOwwq5HQiW8=
-
 Name: help/project-config/triggerRemotely_fr.html
 SHA-256-Digest: MmxQTUVDq5EzEVLzVRrQvLQGUBIdKXcqP3AyKI9yKsY=
+
+Name: help/project-config/custom-workspace_tr.html
+SHA-256-Digest: Z5r7Estc1LCEx/ulFjYUxARIzVKCZMYnsOwwq5HQiW8=
 
 Name: images/24x24/star.gif
 SHA-256-Digest: WC4FpT3ycPB175aUyXiVUba4liWz1y5JQ0AJZ0kUeRU=
@@ -3551,17 +3110,14 @@ SHA-256-Digest: WC4FpT3ycPB175aUyXiVUba4liWz1y5JQ0AJZ0kUeRU=
 Name: images/32x32/graph.png
 SHA-256-Digest: c9Qs2pcxA9wbElB++xRzpuppNkoo6LXSDLlksIyTgu4=
 
-Name: help/security/ldap/rootDN_pt_BR.html
-SHA-256-Digest: fahFZ214G6JU8TUBGGii9po6c6NUttomri1K5p1PXus=
-
 Name: help/parameter/run_zh_TW.html
 SHA-256-Digest: 6UJFcVzJKaDljy+FW6FwrEPef9YFYFacd1xxikxmoK4=
 
-Name: help/view-config/filter-queue_ja.html
-SHA-256-Digest: a0nJKXNsSnR0aMt9S1gWJqzVDo3Na4l/Rh8UoybS14Y=
-
 Name: WEB-INF/lib/wstx-asl-3.2.9.jar
 SHA-256-Digest: p/u/satBJuCX2WWcg5mBOOBl840hLgvvr7H3l/DNt2Y=
+
+Name: help/view-config/filter-queue_ja.html
+SHA-256-Digest: a0nJKXNsSnR0aMt9S1gWJqzVDo3Na4l/Rh8UoybS14Y=
 
 Name: WEB-INF/lib/oro-2.0.8.jar
 SHA-256-Digest: 6mgvyqUl/aefcHlQoL0UOHx44hA+r5dCaP+B5jtMrUM=
@@ -3571,9 +3127,6 @@ SHA-256-Digest: TZlCwqovB2EORmYbnNHYgP+dBZIXlnhNiVr+8kNUFGk=
 
 Name: images/24x24/clipboard.gif
 SHA-256-Digest: P35ptZR//p6flRWuEgXbNGIi2RsArGm04fdYp50r1DM=
-
-Name: help/shell/shellexe_de.html
-SHA-256-Digest: UBnoXzOHgu8ChNQV90uxjQ/K293EdsVauy8ADXI5nzA=
 
 Name: images/48x48/grey.png
 SHA-256-Digest: aaCZEunZPkyxgALqytHorrwqQk5KUa0ieZAdGyayYv4=
@@ -3602,14 +3155,14 @@ SHA-256-Digest: rW1KDInc+PXXxLpUaKiUoPX5oZPGEFpMOslocPJSCIw=
 Name: images/16x16/computer-x.png
 SHA-256-Digest: OoCL3MCGqDG6TRqjkTwEAs8/+rz05EfHdCpYZOm2fOg=
 
-Name: scripts/yui/base/base.css
-SHA-256-Digest: tCbNRKGW3wobYoDVXbNGwWc58ZTK/RwbXRpx+kijuww=
-
 Name: help/scm-browsers/list_de.html
 SHA-256-Digest: JNgIZftRZj7z78hScH4hYAXvc2hUbvH9cQ/iP3ka8Y0=
 
 Name: help/system-config/homeDirectory_ja.html
 SHA-256-Digest: JUac7BVhKc8lWdHg7D8fmrhlF+FBOovhyKGBaPQu25o=
+
+Name: scripts/yui/base/base.css
+SHA-256-Digest: tCbNRKGW3wobYoDVXbNGwWc58ZTK/RwbXRpx+kijuww=
 
 Name: scripts/yui/assets/skins/sam/logger.css
 SHA-256-Digest: 8oBRGspw28iPjU9EqrD83a21PTE0i0Bb2XwjFf+Ymu8=
@@ -3641,9 +3194,6 @@ SHA-256-Digest: FwRm0VvPpJUYSh3GR3/m4gMsYsUhqA4FnlfQX1diGrU=
 Name: scripts/yui/treeview/assets/skins/sam/check2.gif
 SHA-256-Digest: oeK+V+Bb8A3yEmVezSm1cwHY7dUlzlzy//HDe2V/ki4=
 
-Name: help/shell/shellexe_zh_TW.html
-SHA-256-Digest: QFPUKQphuC9IRcuG+5V+9lAZzrwTIEQeOQGRKYw/Ua0=
-
 Name: images/24x24/document.gif
 SHA-256-Digest: 1T0clcy8hKILsiKQh9FdKsTAhiwJzWODILQdgDGfiMg=
 
@@ -3656,32 +3206,17 @@ SHA-256-Digest: olPexLyKnJHcsqJUYTvkX9CUviZ9DjqRWU+nWcNE758=
 Name: help/project-config/log-rotation_zh_TW.html
 SHA-256-Digest: Ef1qsTKp1fNVWOZG2CxlnTQbjeC9Dvn/WDAXm/w6I4w=
 
-Name: help/security/ldap/managerDN_tr.html
-SHA-256-Digest: zvKHJxRybdPgFW35qYaBFdDcerfnaMrvu+d3rV2aD0Q=
-
 Name: images/32x32/disabled.gif
 SHA-256-Digest: /TCYhhUjCJ/PbM9T/fkehSW8RGOdxtsd8Hw9rbeFBus=
 
 Name: help/system-config/master-slave/demand/idleDelay_ja.html
 SHA-256-Digest: Vn5UVv7Wf+Rd0dLn3Z0kGZy7v53CqG8SCPz/3H36tN4=
 
-Name: help/tasks/junit/report_ja.html
-SHA-256-Digest: l/jeYHL9FEYfk1nBQ4HQYd9Gj8KfJU6fYPeKPt8efwk=
-
 Name: images/48x48/notepad.gif
 SHA-256-Digest: Ea4Txp2Nrn9od1ZwBa2jqxLVDRF4zyrM6mLhCN5OUko=
 
 Name: images/16x16/folder-open.gif
 SHA-256-Digest: mN1pVlFMeAM776QLYcv+CME56Q83GrKRSjo3kr80Lv8=
-
-Name: WEB-INF/lib/jna-3.3.0-jenkins-3.jar
-SHA-256-Digest: 1UCFXDMbCKqEPZlGdgcxB7qQ5yqD/QT0qv/7VYjP6po=
-
-Name: help/security/ldap/userSearchFilter_fr.html
-SHA-256-Digest: GMWg52Dr1graMFyUlP1/Js6t1mDMteD1ciVrIVeCECk=
-
-Name: help/security/private-realm_ja.html
-SHA-256-Digest: s/wkJDIaSQ0Ke8VwOAlrHp2G8qvHWfrtAuMjVCz1BSs=
 
 Name: images/48x48/help.png
 SHA-256-Digest: yKucPInv7cL108Aue6OlHw5ujAeDA+uriPCkKXiJg9M=
@@ -3692,14 +3227,11 @@ SHA-256-Digest: 8nw3lBLFBAPYWrqFqAGOuJEJJ/iwJMOmo4jkzG9/0Cw=
 Name: images/title.xcf
 SHA-256-Digest: fbWtabXd9uVNFWJ/E+HPaWuRh4atSNu16yd377LPUE0=
 
-Name: help/project-config/description_fr.html
-SHA-256-Digest: 8pCFxCsNsBNA+iCBnEfVXd0BbMvOOudLIo4q60OSUNc=
-
 Name: WEB-INF/lib/windows-slave-installer-1.4.jar
 SHA-256-Digest: eQKhEBOTvMo0JvTjejrQK9efw5IoVfW/CKRHhXnmWiM=
 
-Name: help/security/container-realm_tr.html
-SHA-256-Digest: 19hbxYeEzZQ33D9cW4vQ3K9ykTjyTzQHtzy9Ot55rRE=
+Name: help/project-config/description_fr.html
+SHA-256-Digest: 8pCFxCsNsBNA+iCBnEfVXd0BbMvOOudLIo4q60OSUNc=
 
 Name: images/16x16/orange-square.png
 SHA-256-Digest: ZEVBNPrwaYOY3yJMVQ7hPpu9emdHEzs/x1zN1lzsrdw=
@@ -3719,6 +3251,9 @@ SHA-256-Digest: 7BgHLyAfFLqP7+nIZ0RtApdFeRn5Hf0Pxw0GhNFsxKE=
 Name: help/run-config/displayName_ja.html
 SHA-256-Digest: K3RLmueUCHegudgnE1MONoxEB7qANtbPEr4Rmlr49nQ=
 
+Name: WEB-INF/lib/stapler-jelly-1.233.jar
+SHA-256-Digest: enrOwCtXIY0IiWynj9nB/+PUb0tyIwfm8nBUCUA0h0k=
+
 Name: help/run-config/description_ja.html
 SHA-256-Digest: 6FjuaSsRvA+hYiitKQEtcjptzOYMhitXKo9dsDYCp5I=
 
@@ -3731,14 +3266,8 @@ SHA-256-Digest: N1+n8yAEZRvN0uNMfcU2xd+D1QmBRdE88W8tePL1spk=
 Name: help/LogRecorder/name_ja.html
 SHA-256-Digest: v3nhBLuO0F4sD14np0PRBHJC2r9MdU0v1p5j94yPBjI=
 
-Name: help/security/ldap/userSearchFilter_zh_TW.html
-SHA-256-Digest: 6n3xE5zC6UKUIbJJHHMX1P3iAooeDh7ol8fAt7bUxQc=
-
 Name: help/view-config/filter-queue.html
 SHA-256-Digest: usqWUlzzLqGEzbOeLryM6GVeZvmutNOp2MgSqrgEYeY=
-
-Name: help/security/ldap/userSearchBase_tr.html
-SHA-256-Digest: hRS7D6LUfWn5gJcTfhP/EP6v+aOHiAV/61QBdWCVKOc=
 
 Name: scripts/yui/assets/skins/sam/autocomplete.css
 SHA-256-Digest: kxHE2cntf6OkO6VGk8d9HvZ0P5o4c7bLgh3mOqkgDGo=
@@ -3752,6 +3281,9 @@ SHA-256-Digest: Av4IdB4gMferuvhQxCJ7sq8VEU/nt5NwpUQlNKTSbKU=
 Name: images/24x24/grey.gif
 SHA-256-Digest: dITyc/EEW25lM0jc5XEkFisk2i590fCwAIsBTB/NpqA=
 
+Name: WEB-INF/lib/trilead-ssh2-build217-jenkins-7.jar
+SHA-256-Digest: XDtaSXhiZ0OYUNVZAtHlrKwj7XvoMM1ufXdxWqYzLRo=
+
 Name: images/32x32/grey.gif
 SHA-256-Digest: QRX3rldMqOIYhU1wF6pziEkGnRZ+77zDIKHk0JRp4yk=
 
@@ -3761,11 +3293,11 @@ SHA-256-Digest: Aiod0rXPtB5U2rNNP6HyzkO7G/bnAveYwa1KsSADveA=
 Name: images/24x24/gear.gif
 SHA-256-Digest: UU79K2wlpF6qbS9HnxGHyLVffckJ7Q91O7z3u8FE174=
 
-Name: help/view-config/includeregex_pt_BR.html
-SHA-256-Digest: ZLvVnFySlTT8/7PG1Itp2ZP0BTEl76WHC++Gy9nGH2U=
-
 Name: help/system-config/homeDirectory_de.html
 SHA-256-Digest: G1lXgIRNidncZV7ESvaZkg562YMIglBCJQrmz6u62hk=
+
+Name: help/view-config/includeregex_pt_BR.html
+SHA-256-Digest: ZLvVnFySlTT8/7PG1Itp2ZP0BTEl76WHC++Gy9nGH2U=
 
 Name: scripts/yui/connection/connection.swf
 SHA-256-Digest: FM/xYl4Oo4hQi8rGGq6BxJM/eOhlYFc3tN96E7DQvFw=
@@ -3791,9 +3323,6 @@ SHA-256-Digest: wYI3dm3DycE6kp5xlnzNtb48Om9NuvE93OcOzw2Ffeo=
 Name: scripts/yui/editor/simpleeditor-min.js
 SHA-256-Digest: R3+GkEZr9wH+8TlMvTNvQESzhzRobIblfNv2DE1j4vI=
 
-Name: help/tasks/aggregate-test/help_ja.html
-SHA-256-Digest: x4L96mC7Wj/L14VsPZd1Rz0IC79AjRclOEzTtFdsXxQ=
-
 Name: help/system-config/nodeEnvironmentVariables_ja.html
 SHA-256-Digest: +OSStLqqRznretDKkgq/++VAY78TYWwI9ey2qRpQfd0=
 
@@ -3802,12 +3331,6 @@ SHA-256-Digest: UgtIUSpC17u5AfTwTQioa812kUNcSnLufPI1ex9bvfc=
 
 Name: scripts/yui/autocomplete/autocomplete-debug.js
 SHA-256-Digest: FKTfSejM9gM6vNEvB/zCrAWvU0Q/Cscfthxl0E6CA+4=
-
-Name: help/security/legacy-auth-strategy_zh_TW.html
-SHA-256-Digest: 4Tob9c/4ZRhCsT69GOYRXEnW55inyXmyJ5HtKZ07FDo=
-
-Name: help/security/ldap/managerPassword.html
-SHA-256-Digest: ee0bMDrFPz/5ihLOcKb06SwbIBb2eCCL04T6Zrc7Dhs=
 
 Name: scripts/utilities.js
 SHA-256-Digest: v2GijGiet6l5d0m7Sa5yI9CVDwZjJ3eDf0U499Mc0NQ=
@@ -3825,7 +3348,7 @@ Name: images/16x16/document_edit.gif
 SHA-256-Digest: K+eLeaw0Bz33DJMIilvWSgk5hdTdSkOhMd8F9OY6tJY=
 
 Name: WEB-INF/classes/dependencies.txt
-SHA-256-Digest: rjQSV4WTOwVSoVsxHc7blRiE3FDJz8Bq/thJH6I6sEw=
+SHA-256-Digest: XlGFSTJjwXP73/nbwWdk315HRFtWaZOhxuzs2HSRNFM=
 
 Name: help/project-config/block-upstream-building.html
 SHA-256-Digest: zakSJJCsM3tJt8qldcUVBfQmQ17pikK1dO1x8sua3+U=
@@ -3854,17 +3377,8 @@ SHA-256-Digest: +s87o65mJaP7RVf9VpdvshgOvrGQQkkpJWN3lFY7JOQ=
 Name: help/user/fullName_de.html
 SHA-256-Digest: xuv1SxNtaeVWOy6a9gJgs1K0sB25bF0Rye8j976onww=
 
-Name: help/tasks/aggregate-test/manual-list_tr.html
-SHA-256-Digest: mXoYAvVicHDy2fWJIUFpU3IIfD7CRf7YvzD5SQcBc2c=
-
-Name: help/security/ldap/server_fr.html
-SHA-256-Digest: z99Mr6EEKTFFY+n+siyB/U/tb7DVEtybmVkjnYXTBuY=
-
 Name: WEB-INF/plugins/subversion.hpi
 SHA-256-Digest: 90hkpu+iluAiC0scVlDqsZVJSB2RxPSC/vTwwjOs6TY=
-
-Name: help/security/ldap/userSearchBase_ja.html
-SHA-256-Digest: f5NDcOzuU0jGD48/nhZrMsLNV8A1mvvJaY7A0MAWrjU=
 
 Name: images/32x32/aborted.gif
 SHA-256-Digest: mC+w8VveLwbcttHsiUYxsytMbSzD+2ictUaOY+YDrYc=
@@ -3876,19 +3390,16 @@ Name: images/24x24/red.png
 SHA-256-Digest: 0opYC50aZqOGsGTIaNYW92rjFXGEUFH2xUwZuK0xPmc=
 
 Name: scripts/yui/button/button-debug.js
-SHA-256-Digest: YF74XvcFpNQmm0k1DcdKTKAAXIYoSaywmjUb1L6JGRo=
-
-Name: help/security/private-realm/allow-signup.html
-SHA-256-Digest: N8v4wuQgq4dWrARTxFqP4sHGimul564zrSiwilNcHCU=
+SHA-256-Digest: vlytPcVZap5BSg1zi/fEcHNqanHeX6rtNjAsQw5W/O4=
 
 Name: images/16x16/text.gif
 SHA-256-Digest: BmO1aPxV2DmRzYgJTxZMtwgT1y2Aa5lgYCTpb3T7g3k=
 
-Name: help/parameter/file-name_fr.html
-SHA-256-Digest: AwOU3zYitEP1wBmSBsoLN/DrsJebcpXDUw95jSVXcmg=
-
 Name: help/parameter/string_ja.html
 SHA-256-Digest: x0L9t9iwMhjDZl4XA7zT6KFXB1sIbaW8TJfZs8DAaAI=
+
+Name: help/parameter/file-name_fr.html
+SHA-256-Digest: AwOU3zYitEP1wBmSBsoLN/DrsJebcpXDUw95jSVXcmg=
 
 Name: help/system-config/master-slave/usage_zh_CN.html
 SHA-256-Digest: eJHLbwwG/QSRHcpSTPabZrqRKMfv8Sw1ohgo8XF01Ro=
@@ -3899,21 +3410,15 @@ SHA-256-Digest: PVF1svFHhGCcjao5T16XeCFiJUuieEkky6N2+Dm1lyA=
 Name: images/24x24/folder-delete.gif
 SHA-256-Digest: 3c0TtBb1lH1cc8JLcYblWRIdyJtKimrWsP7Wn4b4Mb0=
 
-Name: help/security/no-authorization_ru.html
-SHA-256-Digest: HtUbAJCbXsyAyhsXIts/IlxzUKepJo/kp8RAnLG/gmQ=
-
 Name: scripts/hudson-behavior.js
-SHA-256-Digest: bP4zNyRZnfVfXZd+58acmqa5yEiRL1VBvBDAW7GbWM4=
-
-Name: help/security/ldap/managerPassword_pt_BR.html
-SHA-256-Digest: Cc025oRDJ2+m8R6d1sVUALNbx8YyLSu4i0rTzreiyqA=
+SHA-256-Digest: sswKggWh3Eb98poOGcXXqyZ1Dnuaq+43kMDdquyySqk=
 
 Name: help/system-config/master-slave/usage_fr.html
 SHA-256-Digest: 5TtkVTGlYYDsgOeEho+/DeHh0FsdGQQQ6YwhcLzFFF4=
 
-Name: scripts/yui/assets/skins/sam/button.css
-SHA-256-Digest: uCaM7Q4E4rAHlNxtNaB63Rs382l7+De6Q5mFNnLSmKQ=
-
 Name: images/32x32/clock_anime.gif
 SHA-256-Digest: iBCWsrI8hf2sNJbBiWvmaV2Sl2i+ccJnLZosKau/4ek=
+
+Name: scripts/yui/assets/skins/sam/button.css
+SHA-256-Digest: uCaM7Q4E4rAHlNxtNaB63Rs382l7+De6Q5mFNnLSmKQ=
 
