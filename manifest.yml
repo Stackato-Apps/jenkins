@@ -1,6 +1,6 @@
 applications:
 - name: jenkins
-  mem: 768M
+  mem: 1024M
   services:
     ${name}-fs:
       type: filesystem
