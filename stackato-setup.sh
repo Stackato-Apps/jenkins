@@ -8,7 +8,7 @@ if [ -e "$STACKATO_FILESYSTEM"/.jenkins ]
 else
     echo "Jenkins directory not found. Setting up..."
 
-    # create folders in the shared filesystem 
+    # create folders in the shared filesystem
     mkdir -p "$STACKATO_FILESYSTEM"/.jenkins
     ln -s "$STACKATO_FILESYSTEM"/.jenkins "$STACKATO_APP_ROOT"/.jenkins
 fi
