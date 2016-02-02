@@ -1,9 +1,11 @@
 applications:
 - name: jenkins
+  buildpack: https://github.com/cloudfoundry/java-buildpack#v3.6
   memory: 1024M
   services:
     ${name}-fs:
       type: filesystem
+  stack: cflinuxfs2
   stackato:
     hooks:
       pre-running:
