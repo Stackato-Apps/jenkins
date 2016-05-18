@@ -1,9 +1,8 @@
 Manifest-Version: 1.0
 Hudson-Version: 1.395
-Implementation-Version: 1.625.1-SNAPSHOT
+Implementation-Version: 1.651.2
 Archiver-Version: Plexus Archiver
 Built-By: billyt
-Jenkins-Version: 1.625.1-SNAPSHOT
-Created-By: Apache Maven 3.0.5
+Jenkins-Version: 1.651.2
+Created-By: Apache Maven 3.1.1
 Build-Jdk: 1.8.0_40
-
