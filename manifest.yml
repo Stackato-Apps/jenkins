@@ -1,11 +1,6 @@
 applications:
 - name: jenkins
+  buildpack: https://github.com/cloudfoundry/java-buildpack
   memory: 1024M
-  services:
-    ${name}-fs:
-      type: filesystem
-  stackato:
-    hooks:
-      pre-running:
-      - sh stackato-setup.sh
+  stack: cflinuxfs2
   timeout: 180
